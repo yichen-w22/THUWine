@@ -1,0 +1,167 @@
+{
+  "cote": {
+    "frame": [
+      24,
+      86,
+      552,
+      708
+    ],
+    "map": [
+      31,
+      108,
+      538,
+      658
+    ],
+    "origin": [
+      847000,
+      6678000
+    ],
+    "title": "",
+    "subtitle": "",
+    "scale": 2000,
+    "extent": [
+      839500,
+      6666800,
+      855000,
+      6691300
+    ],
+    "rotation": -1.4087201192385876,
+    "bounds": [
+      -7773.0776631136305,
+      -11393.289527065139,
+      8324.553630171498,
+      13480.362658931292
+    ],
+    "factor": 0.026453694659702855,
+    "offset": [
+      87.07908851147883,
+      108.0
+    ]
+  },
+  "overview": {
+    "frame": [
+      31,
+      108,
+      128,
+      175
+    ],
+    "map": [
+      37,
+      132,
+      116,
+      129
+    ],
+    "origin": [
+      800000,
+      6665000
+    ],
+    "extent": [
+      734000,
+      6571000,
+      861000,
+      6761000
+    ],
+    "title": "LA BOURGOGNE",
+    "subtitle": "Situation de la Côte de Nuits",
+    "scale": 20000,
+    "rotation": -0.9563373177976964,
+    "bounds": [
+      -67559.70973645982,
+      -95005.02428632468,
+      62593.787133488346,
+      97088.19799518745
+    ],
+    "factor": 0.0006715489410186,
+    "offset": [
+      51.29777850355932,
+      132.0
+    ]
+  },
+  "gevrey": {
+    "frame": [
+      31,
+      300,
+      190,
+      232
+    ],
+    "map": [
+      38,
+      325,
+      85,
+      180
+    ],
+    "origin": [
+      849000,
+      6681500
+    ],
+    "title": "A · GEVREY-CHAMBERTIN",
+    "subtitle": "Les neuf grands crus",
+    "scale": 250,
+    "names": [
+      "Chambertin",
+      "Chambertin-Clos de Bèze",
+      "Mazis-Chambertin",
+      "Ruchottes-Chambertin",
+      "Chapelle-Chambertin",
+      "Griotte-Chambertin",
+      "Charmes-Chambertin",
+      "Mazoyères-Chambertin",
+      "Latricières-Chambertin"
+    ],
+    "rotation": -1.4287146897816485,
+    "bounds": [
+      -639.3531088136369,
+      -1475.823981761001,
+      282.7683606897481,
+      636.389049098827
+    ],
+    "factor": 0.08521867698483358,
+    "offset": [
+      41.20901417480548,
+      325.0
+    ]
+  },
+  "vosne": {
+    "frame": [
+      420,
+      540,
+      150,
+      246
+    ],
+    "map": [
+      427,
+      566,
+      136,
+      136
+    ],
+    "origin": [
+      848000,
+      6675800
+    ],
+    "title": "B · VOSNE-ROMANÉE",
+    "subtitle": "Les huit grands crus",
+    "scale": 250,
+    "names": [
+      "Échezeaux",
+      "Grands Échezeaux",
+      "Richebourg",
+      "Romanée-Saint-Vivant",
+      "La Romanée",
+      "Romanée-Conti",
+      "La Grande Rue",
+      "La Tâche"
+    ],
+    "rotation": -1.4177777624702799,
+    "bounds": [
+      -724.0758797343588,
+      -902.6014838339761,
+      371.9557040015934,
+      1088.5972356889397
+    ],
+    "factor": 0.06830056622002305,
+    "offset": [
+      457.57021111790294,
+      566.0
+    ]
+  }
+}

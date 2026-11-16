@@ -1,0 +1,4 @@
+{
+  "url": "https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=BDCARTO_V5%3Atroncon_hydrographique&outputFormat=application%2Fjson&srsName=EPSG%3A2154&count=1000&startIndex=4000&cql_filter=BBOX%28geometrie%2C3.45%2C46.15%2C5.35%2C48.12%2C%27EPSG%3A4326%27%29+AND+cpx_toponyme_de_cours_d_eau+IN+%28%27la+Sa%C3%B4ne%27%2C%27l%E2%80%99Yonne%27%2C%27l%27%27Yonne%27%2C%27le+Serein%27%2C%27l%27%27Arman%C3%A7on%27%2C%27la+Dheune%27%2C%27l%27%27Ouche%27%2C%27la+Vouge%27%2C%27le+Meuzin%27%2C%27la+Bouzaize%27%2C%27la+Grosne%27%29",
+  "retrieved": "2026-11-12"
+}

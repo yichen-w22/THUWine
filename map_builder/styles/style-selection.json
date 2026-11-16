@@ -1,0 +1,35 @@
+{
+  "selected_direction": "C",
+  "selected_by_user": "2026-11-15",
+  "original_comparison": "Nuits-styles-ABCD-01.png",
+  "retained_proposals": {
+    "A": "top-left of original comparison",
+    "B": "top-right of original comparison",
+    "C": "bottom-left of original comparison",
+    "D": "bottom-right of original comparison"
+  },
+  "current_revision": "../nuits-C-precise-01.svg",
+  "status": "precise_map_original_C_style_review",
+  "tool": "verified SVG geography with image_gen illustration layers",
+  "palette": [
+    "manuscript red",
+    "deep blue",
+    "antique gold",
+    "parchment",
+    "muted vineyard olive"
+  ],
+  "requested_change": "Return to original C and integrate precise geographical map.",
+  "additional_change": "Saint Vincent retained from the earlier explicit request.",
+  "limitations": "Raster frame and woodland illustrations. Charmes/Mazoyeres internal climat boundary remains unverified.",
+  "source_image": "Nuits-styles-ABCD-01.png",
+  "sha256": "ec1c92abef71be79c2e1177eca7311d9ad20fba12e4c1fb73307b697d1445680",
+  "figure_preference": "original C classical drapery and poses",
+  "secondary_icon": "Saint Vincent deacon statue with palm and grapes",
+  "colorway_options": [
+    "C1 indigo and gold",
+    "C2 muted plum and silver grey",
+    "C3 forest green and bronze",
+    "C4 terracotta and slate blue"
+  ],
+  "generation_metadata": "Nuits-style-C-04-frame-generation.json"
+}

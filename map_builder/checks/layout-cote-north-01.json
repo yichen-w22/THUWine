@@ -1,0 +1,180 @@
+{
+  "version": "cote-north-01",
+  "overlaps": [],
+  "projection": "EPSG:2154",
+  "north_up": true,
+  "meridian_corrections": {
+    "nuits": -1.4182519154813462,
+    "beaune": -1.2937934097015924,
+    "overview": -0.9563373177976964,
+    "vosne": -1.4177777624702799,
+    "montrachet": -1.2621763278477205
+  },
+  "grands_crus_coverage": [
+    {
+      "panel": "nuits",
+      "name": "Clos de Vougeot",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Charmes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Mazoyères-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Chambertin-Clos de Bèze",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Clos de la Roche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Bonnes-Mares",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Grands Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Clos des Lambrays",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Clos de Tart",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Latricières-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "La Tâche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Musigny",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Chapelle-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Clos Saint-Denis",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Richebourg",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Mazis-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Romanée-Saint-Vivant",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Griotte-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Ruchottes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "Romanée-Conti",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "La Grande Rue",
+      "fraction": 1.0
+    },
+    {
+      "panel": "nuits",
+      "name": "La Romanée",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Corton",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Corton-Charlemagne",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Charlemagne",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Chevalier-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Bâtard-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Bienvenues-Bâtard-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "beaune",
+      "name": "Criots-Bâtard-Montrachet",
+      "fraction": 1.0
+    }
+  ],
+  "panels": 5,
+  "dimensions_mm": [
+    600,
+    900
+  ]
+}

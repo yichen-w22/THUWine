@@ -1,0 +1,52 @@
+{
+  "stage": 1,
+  "name": "nuits_original_C_precise_review",
+  "awaiting": "user_review_of_precise_C_map",
+  "style_approved": false,
+  "print_ready": false,
+  "final_exports_generated": false,
+  "presentation_mode": "static_map_only",
+  "composition_version": "nuits-C-precise-01",
+  "build_entrypoint": "build_nuits_c_precise.py",
+  "latest_svg": "nuits-C-precise-01.svg",
+  "north_up_required": true,
+  "current_preview": "nuits-C-precise-01.html",
+  "detailed_composition_paused": false,
+  "editions": {
+    "cote_dor": "active_composition_review",
+    "bourgogne_complete": "planned_later",
+    "nuits": "precise_C_style_review"
+  },
+  "overview_retained": true,
+  "inset_placement": "overview_upper_left_gevrey_upper_right_vosne_lower_right",
+  "main_map": "continuous_cote_de_nuits",
+  "main_map_scale": "shared",
+  "active_edition": "nuits",
+  "book_reference_pages": [
+    64,
+    65,
+    66,
+    67
+  ],
+  "inset_labels": "large_parcels_inside_small_parcels_callouts",
+  "regional_display": "selected_southwest_components_omitted; other_regional_background_muted",
+  "cartographic_followups": [
+    "Charmes and Mazoyeres share their legal AOC area; separate internal climat boundary remains unverified."
+  ],
+  "main_extent_description": "Marsannay to Premeaux-Prissey",
+  "arrangement_baseline": "nuits-atlas-04",
+  "main_scale_held_constant": false,
+  "professional_premier_selection_count": 36,
+  "administrative_boundary_source": "DGFiP / Etalab cadastral communes",
+  "main_premier_labels": 73,
+  "additional_village_climat_points": 3,
+  "active_style": "C",
+  "style_direction_approved": true,
+  "style_palette_status": "original_C_red_blue_gold",
+  "style_current_preview": "archive/2026-11-15/previews/Nuits-C-precise-01.png",
+  "style_proposals_archive": "styles/Nuits-styles-ABCD-01.png",
+  "archive_manifest": "archive/2026-11-15/manifest.json",
+  "style_figure_preference": "original C figures",
+  "style_secondary_symbol": "Saint Vincent",
+  "page_layout_uniform_scale": 0.9
+}

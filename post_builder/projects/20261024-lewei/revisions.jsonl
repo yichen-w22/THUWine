@@ -1,0 +1,6 @@
+{"at": "2026-10-21T13:27:41.834530+00:00", "action": "preview", "digest": "d8615c9af90a2bd1c147fc62fdcc231cd697cc8dc0124004ce466a49abeb8f16", "note": "迁移已完成活动到可复用组件，保留文案与来源；工作流示例预览"}
+{"at": "2026-10-21T13:39:01.274752+00:00", "action": "preview", "digest": "918d3bbbde184dab063f63112e6a8d85ec89c2a9bb08df06d7c3317e1dc478ec", "note": "完成统一样式、组件、素材归档与可重复的版本确认流程"}
+{"at": "2026-10-21T13:56:45.076750+00:00", "action": "preview", "digest": "a0c91ff51b06906660375b2080928feedca68d5a88ecde0be2fb0ec6cfcf6b82", "note": "工作流正式落地：固定字号字体、组件、来源归档、批注迭代和分段导出"}
+{"at": "2026-10-21T14:53:51.904786+00:00", "action": "preview", "digest": "c182b1bb584ef1c14b8a5ae39196df6712ac0e595bb441c4883455c1fad3f377", "note": "启用Markdown正文作为唯一文字源，保留已确认的全部文案与排版"}
+{"at": "2026-10-21T15:26:06.940081+00:00", "action": "preview", "digest": "b477bf752830a057cde7163714d9e52ef4b16a2f55397e6e6eeb01ab4674c1b9", "note": "Markdown文字编辑与本地自动刷新已完成"}
+{"at": "2026-10-21T15:40:50.566567+00:00", "action": "preview", "digest": "b477bf752830a057cde7163714d9e52ef4b16a2f55397e6e6eeb01ab4674c1b9", "note": "Markdown/素材保存后自动更新"}

@@ -1,0 +1,182 @@
+{
+  "inset_occlusions": [],
+  "version": "cote-connected-01",
+  "overlaps": [],
+  "projection": "EPSG:2154",
+  "north_up": true,
+  "meridian_corrections": {
+    "cote": -1.33908808332849,
+    "overview": -0.9563373177976964,
+    "vosne": -1.4177777624702799,
+    "montrachet": -1.2621763278477205
+  },
+  "grands_crus_coverage": [
+    {
+      "panel": "cote",
+      "name": "Clos de Vougeot",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Charmes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Mazoyères-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Corton",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chambertin-Clos de Bèze",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Corton-Charlemagne",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Charlemagne",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos de la Roche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Bonnes-Mares",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Grands Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos des Lambrays",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos de Tart",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Latricières-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chevalier-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Tâche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Bâtard-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Musigny",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chapelle-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos Saint-Denis",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Richebourg",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Mazis-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Romanée-Saint-Vivant",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Bienvenues-Bâtard-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Griotte-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Ruchottes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Romanée-Conti",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Grande Rue",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Criots-Bâtard-Montrachet",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Romanée",
+      "fraction": 1.0
+    }
+  ],
+  "panels": 4,
+  "continuous_main_map": true,
+  "shared_main_scale": true,
+  "dimensions_mm": [
+    600,
+    900
+  ]
+}

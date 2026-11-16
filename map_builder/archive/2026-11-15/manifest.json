@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-15",
+  "files": [
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Bourgogne-composition-v02.png",
+      "archive": "archive\\2026-11-15\\previews\\Bourgogne-composition-v02.png",
+      "sha256": "e18e57508bc7128e2112a51cd277415fdddaefec9fd4596db82e154b1b89a8c0"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Bourgogne-composition.png",
+      "archive": "archive\\2026-11-15\\previews\\Bourgogne-composition.png",
+      "sha256": "6fe4afd77ddbd26e88231e193d22ef6fda16015670417259df5c96949e5cc515"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Bourgogne-layout-options.png",
+      "archive": "archive\\2026-11-15\\previews\\Bourgogne-layout-options.png",
+      "sha256": "5aee8aba04baadb25cb07bcca4a7e7bec5f33e47d21532d7a05e6ff1c15c6fa7"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Bourgogne-layout-options.svg",
+      "archive": "archive\\2026-11-15\\previews\\Bourgogne-layout-options.svg",
+      "sha256": "f1af26738a3e5ef0972fb71a03ebe7a2122abc51a4737f557b54686b629354c1"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-de-Nuits-atlas-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-de-Nuits-atlas-01.png",
+      "sha256": "5929a0d40b62687bae954b32e869df2bb79e68876c8110574a675d5e902069ea"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-de-Nuits-atlas-02.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-de-Nuits-atlas-02.png",
+      "sha256": "5c6f97cbe3d48c365160a8d8d6c29079626d275e708bbd1e9f5621e002c7c0a7"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-de-Nuits-atlas-03.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-de-Nuits-atlas-03.png",
+      "sha256": "d241e3cf097836fa80b5e1e56c0b45c91923c34048c4144e76ea17732ff34d2a"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-de-Nuits-atlas-04.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-de-Nuits-atlas-04.png",
+      "sha256": "ffc8c9449be1ff22b8755664960757351aad6eb598ab78447ef658df63233340"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-dOr-connected-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-dOr-connected-01.png",
+      "sha256": "7f3f728615ab865e1bde4078de7948e826bb9561497b671e8dc95fabd5987418"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Cote-dOr-north-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Cote-dOr-north-01.png",
+      "sha256": "775033d22b183d924b58186994093c192fb44502a9c7b12b773ace0ee337d94f"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-arrangements.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-arrangements.png",
+      "sha256": "19460d9d16e09bc3b5fb9aed1c11e72d4269656d347107c88769e67874c28b65"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-arrangements.svg",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-arrangements.svg",
+      "sha256": "a2bfd436d43d4afa459329fb28e927f7f4f7b29da092edca141bac496b68603d"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-D-base-map.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-D-base-map.png",
+      "sha256": "0594953adf36d334a7a1150a5976deb9b58487f5bc3bdb991a09306d661888cc"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-D-decorated-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-D-decorated-01.png",
+      "sha256": "b56136e9538ef0f73b1ddf1fc723fd598e0787769d738d59c4d700e6e191a31a"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-Gevrey-detail-02.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-Gevrey-detail-02.png",
+      "sha256": "2a28f72896f0504e7d0fb38699b78d662dea3dbf32573e6fdf0ea9f95b90159d"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-insets-04.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-insets-04.png",
+      "sha256": "d32dac9ea6744cf5a155970856e516caad4b90cc12b57d179ae0ee804beb97f2"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-insets-revised.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-insets-revised.png",
+      "sha256": "359c30ad3a8d8391db03ecf1e28f161112ab3f6679c8fa684936c40281463d01"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-01.png",
+      "sha256": "edc5d6ccaeb1aaeb8954106fd03fd915213769cd51961a16dd66e0f69c63a24b"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-02-main.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-02-main.png",
+      "sha256": "183d4d4adb202c51bc7ed7971e5a7b158263e2e323570bd6432e71adf5253b3c"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-02.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-02.png",
+      "sha256": "9c589155c81c21974a1a768b987d246352381c92415988cca6ca007203f4ff6a"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-Gevrey.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-Gevrey.png",
+      "sha256": "e6461918552ad1d1cd9d649cd01459564f9f168ad66d68b19f15acb98aba95e4"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-main-detail.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-main-detail.png",
+      "sha256": "8d09785f910b4dfeb5158c6cf5ce4f71652bfdf071332367fc12f5bf1a714318"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-professional-Vosne.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-professional-Vosne.png",
+      "sha256": "21c30b6a6b81800a61c58c54a5dfa8532064d40243f213a64810aa3eb4bb04d0"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-Vosne-detail-02.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-Vosne-detail-02.png",
+      "sha256": "99af5558c3be3ef1d51328d8a0e1005ccff2c31d9c56f287e092b8634723799e"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\add_nuits_labels.py",
+      "archive": "archive\\2026-11-15\\work\\add_nuits_labels.py",
+      "sha256": "44d3cbc44441f81b872d2e5067c5f4b85327f4dd91f8c2f541ebb0f4da98ccbf"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\build_layout_options.py",
+      "archive": "archive\\2026-11-15\\work\\build_layout_options.py",
+      "sha256": "03292b340d26f32c486a922e58182af80e5e98e22b18c56176386dc2b4d45e66"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\build_nuits_arrangements.py",
+      "archive": "archive\\2026-11-15\\work\\build_nuits_arrangements.py",
+      "sha256": "b6b8439cfd539dd95b28dfa2120da4e645cb6c9dcae58a3e9b1aa4fc82df50e9"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\check_map.cjs",
+      "archive": "archive\\2026-11-15\\work\\check_map.cjs",
+      "sha256": "98effc7be9a94c384145d692d72061e606a746a9db99d51295c737b99cc97f30"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\decorate_nuits_d.py",
+      "archive": "archive\\2026-11-15\\work\\decorate_nuits_d.py",
+      "sha256": "c6b3950e1234178695bd979e0113cbce43c6bf5f6754416ff9e166a6badc8db1"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\decorative-check.png",
+      "archive": "archive\\2026-11-15\\work\\decorative-check.png",
+      "sha256": "62a06d94cfc72bf75b3104433e9ec595fbe4c6767f6c3c9263576a697c17808d"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\gevrey-review.png",
+      "archive": "archive\\2026-11-15\\work\\gevrey-review.png",
+      "sha256": "9836d8205114d352554233eaefd6b2b3fea57eddf4cfad15617d9d75106e07a3"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\ign-capabilities.xml",
+      "archive": "archive\\2026-11-15\\work\\ign-capabilities.xml",
+      "sha256": "75ea94da75aac2e84592795032672a2e10d143347e37541a84f4303e235f47b7"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\ign-wms.xml",
+      "archive": "archive\\2026-11-15\\work\\ign-wms.xml",
+      "sha256": "2dc11e0b0bc2957d1413e767d9ca0123bbbe49e3b466eef5fa910282a9905c1e"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\main-review.png",
+      "archive": "archive\\2026-11-15\\work\\main-review.png",
+      "sha256": "ba05319cc2a6fcb9f29d0a620b624d8fed7fd34444d35f516b2662fe2c520429"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-D-before.png",
+      "archive": "archive\\2026-11-15\\work\\nuits-D-before.png",
+      "sha256": "fc663cc3eb78eb82fab25adf8a61d87eed3e16fde8a2476d918d93457d932a49"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-D-decorated-01.html",
+      "archive": "archive\\2026-11-15\\work\\nuits-D-decorated-01.html",
+      "sha256": "18e63cdf958c6fd7e71eb09f924acabba38c2ac1c18ae5239e40765bd60675a9"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-D-decorated-01.svg",
+      "archive": "archive\\2026-11-15\\work\\nuits-D-decorated-01.svg",
+      "sha256": "2190dd3abd9cdd2112994b191d9e156537a1b0677b40c71fb2c784edfb786e93"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-d-proof-base.png",
+      "archive": "archive\\2026-11-15\\work\\nuits-d-proof-base.png",
+      "sha256": "0594953adf36d334a7a1150a5976deb9b58487f5bc3bdb991a09306d661888cc"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-d-proof-base.svg",
+      "archive": "archive\\2026-11-15\\work\\nuits-d-proof-base.svg",
+      "sha256": "bd605b445a28437800d911148cedba656e44c844f865903024f3511e42e73f07"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-professional-02-labels.json",
+      "archive": "archive\\2026-11-15\\work\\nuits-professional-02-labels.json",
+      "sha256": "03d014647f28c0ed7a33c7ad6c2887f9c192bceeb07f2b55551f116ab5acaaef"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\Nuits-professional-02-large.png",
+      "archive": "archive\\2026-11-15\\work\\Nuits-professional-02-large.png",
+      "sha256": "e029f5f16c1252ccc7687b55f236680ed06f8d09159f8c0dcdb95296426fbf6a"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-professional-02.html",
+      "archive": "archive\\2026-11-15\\work\\nuits-professional-02.html",
+      "sha256": "1e693aeb71ba659b8055b2d5b3dd5485b4bb6f1f37f6ff6a5a96779d08b119a5"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\nuits-professional-02.svg",
+      "archive": "archive\\2026-11-15\\work\\nuits-professional-02.svg",
+      "sha256": "9ba311726d54042023897a33b182081e12443de4551bcd82c407788662389a8e"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\Nuits-professional-review-large.png",
+      "archive": "archive\\2026-11-15\\work\\Nuits-professional-review-large.png",
+      "sha256": "f572595ded05ee302061526e77387b6b6d48a1a4858d6b242626acbc7a600d83"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_cote_connected.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_cote_connected.py",
+      "sha256": "7781a632ccba78d3a70a4f09bcc7f8ec2f5d6eac34d23bbd4f6bb4a88c44b013"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_cote_north.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_cote_north.py",
+      "sha256": "6deb3901af12afc8ba815ba30b1f16d45595eb8a67167705d52bf6f024ae28c8"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_decorative_map_proof.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_decorative_map_proof.py",
+      "sha256": "86ccd0f00f376c06933645dc3f886b6ab3f5f642a776a6df10a2079c6a1d99b5"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_nuits.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_nuits.py",
+      "sha256": "1b2ec2c202624ec8634eec07860a5eb7fbad10f3801803c7ba51098e26350dc1"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_nuits_compact.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_nuits_compact.py",
+      "sha256": "d2595558821c34ad7f94599eb423a47edfdc5bee0294534e14d4ede57a6cda3b"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_nuits_focus.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_nuits_focus.py",
+      "sha256": "6997d5baa349b83f1cab8db49c13f4300505b1431e1beac149fd5175160631f4"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\prepare_nuits_insets.py",
+      "archive": "archive\\2026-11-15\\work\\prepare_nuits_insets.py",
+      "sha256": "85d2977c990b3d1caf91df1a061b664eeeb4608bea1f2582cde73ca90028838d"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\render_map.cjs",
+      "archive": "archive\\2026-11-15\\work\\render_map.cjs",
+      "sha256": "dbafc510fb95e437416ac8052b423ca2dbb425f003a93d0346210c807be16eb6"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\render_v2.cjs",
+      "archive": "archive\\2026-11-15\\work\\render_v2.cjs",
+      "sha256": "1c6c4d85c73e0bd39d8b508aff7e82ee157bbfca14ae5e6cc66408e9df88536e"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\v3_helpers.py",
+      "archive": "archive\\2026-11-15\\work\\v3_helpers.py",
+      "sha256": "6064745761e4511277b4a7de350ce8fe4a2c7ea5a2d7468a7f1451f9ae0b6eb5"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\vosne-review.png",
+      "archive": "archive\\2026-11-15\\work\\vosne-review.png",
+      "sha256": "90e0aa5231131ce7ac27be4a21f2c61380cb023c66306ca8fee262545e4e1d37"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\pdf_inspection\\burgundy_contact.jpg",
+      "archive": "archive\\2026-11-15\\pdf_inspection\\burgundy_contact.jpg",
+      "sha256": "1e175666b3fbd9c8b2623de27327ce71f72d9ca6946927d6e4c897d840efdbe2"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\pdf_inspection\\burgundy_sample.png",
+      "archive": "archive\\2026-11-15\\pdf_inspection\\burgundy_sample.png",
+      "sha256": "1e58724c1d6ecbc39e53cfded7e273739edae72f84e9034300fb346c9e165184"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\pdf_inspection\\contents.png",
+      "archive": "archive\\2026-11-15\\pdf_inspection\\contents.png",
+      "sha256": "a25ab209763163a50c196b2967003fb84026023b684a4d3c4f338f648067268c"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\pdf_inspection\\front_contact.jpg",
+      "archive": "archive\\2026-11-15\\pdf_inspection\\front_contact.jpg",
+      "sha256": "a8608bfa304d4723ff367c0a7bed6368738ec452284f47582fd7bff87c75f8fd"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-09841b6e-fb7c-47eb-bbec-2022b397984e.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-09841b6e-fb7c-47eb-bbec-2022b397984e.png",
+      "sha256": "a7a1ae24b5caa1ad892c8c062866e7eb6c84e8fbf19fce8229a34a1ba54f88cc"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-1deca689-2ab9-4394-a2a6-17858e56266c.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-1deca689-2ab9-4394-a2a6-17858e56266c.png",
+      "sha256": "ec1c92abef71be79c2e1177eca7311d9ad20fba12e4c1fb73307b697d1445680"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-2af6829f-2a88-406d-bb0b-07297e98e60b.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-2af6829f-2a88-406d-bb0b-07297e98e60b.png",
+      "sha256": "87c857b86bbac4dfd3e46fefdadfef995bf5394cb0d147658ae2568c8adc8d75"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-742155b7-6249-4921-a301-5de965b3c909.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-742155b7-6249-4921-a301-5de965b3c909.png",
+      "sha256": "20e097cf5154ea7cad7e9458963e868e41dcc231a3cd7d44733cfc2153752afd"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-a5e26016-7c5f-4fda-bcb4-6ce5502d976e.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-a5e26016-7c5f-4fda-bcb4-6ce5502d976e.png",
+      "sha256": "e1f5285f828b4cd133dc88c8a7562586fd56fdfd7b3fe2ab9dd5902d497a8427"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-cff10714-5660-4160-baaa-4787eab5ef1f.png",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-cff10714-5660-4160-baaa-4787eab5ef1f.png",
+      "sha256": "24afd71709417bf1c4b0bbb25e99a18f2f251d4855aa844736a293f67549d2a2"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-c757266f-c682-4265-909c-45d839bf6a8e.png",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-c757266f-c682-4265-909c-45d839bf6a8e.png",
+      "sha256": "74883bfa10350ccf7cf5781d6f1eba7d23dd74ad37bb268af26181e8d486e1a0"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-592683fc-8eae-426c-9614-f30a0f48fdb9.png",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-592683fc-8eae-426c-9614-f30a0f48fdb9.png",
+      "sha256": "cd39a1e57544963a2e513f692fe25233fed96129d012f69da3772c1d6b50a79a"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-67b56863-1f03-480c-901f-652c9d92e2f8.png",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-67b56863-1f03-480c-901f-652c9d92e2f8.png",
+      "sha256": "6c4ebf2fedfaad1710cc10c3045cf674b3db05b4403bb5d36589b1b388f3bf9c"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-7055dc54-4913-444b-898a-fc231524c66e.png",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-7055dc54-4913-444b-898a-fc231524c66e.png",
+      "sha256": "927465b5d6fd70c3774bfcb7cf4c1e1c6cbbd46f421f05bca0fa9e1ca31850e0"
+    },
+    {
+      "source": "C:\\Users\\32697\\AppData\\Local\\Temp\\codex-clipboard-b3aa5ca0-80b9-4da0-9cb4-d7eef3c0ef2b.jpg",
+      "archive": "archive\\2026-11-15\\references\\codex-clipboard-b3aa5ca0-80b9-4da0-9cb4-d7eef3c0ef2b.jpg",
+      "sha256": "da424fc06843dc808f2cfd65b7cdae088f9876ba68989ea1f797be3d0d872c9b"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\stage.json",
+      "archive": "archive\\2026-11-15\\project-state\\stage.json",
+      "sha256": "21caaa796df476f79714ccf199d1087122ad1e8cf8d836373a523328f9333723"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-94095834-3720-4a51-b038-e15f629febca.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-94095834-3720-4a51-b038-e15f629febca.png",
+      "sha256": "d9ab90ef8b6b5560e925c3a5515bb598aa301ef511646cd38dba65615cb3eb59"
+    },
+    {
+      "source": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-fc6e85c8-9e6d-44e0-9a6b-a2a505c9b9d6.png",
+      "archive": "archive\\2026-11-15\\generated\\exec-fc6e85c8-9e6d-44e0-9a6b-a2a505c9b9d6.png",
+      "sha256": "6983f5ecf965a3bb90983ee52fde11c5a188d07a0e99510e2492c58a6ec769dd"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\stage.json",
+      "archive": "archive\\2026-11-15\\project-state\\stage-before-precise-C.json",
+      "sha256": "c359d365873f87ce44a7964d5cc0731e8c1a50197e362922bfe5c8f9a69cf039"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\styles\\style-selection.json",
+      "archive": "archive\\2026-11-15\\project-state\\style-selection-before-precise-C.json",
+      "sha256": "8d8b94725629d95f4b036193484c832d13563bd126fa0385a3caca451476783f"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\build_nuits_c_precise.py",
+      "archive": "archive\\2026-11-15\\work\\build_nuits_c_precise.py",
+      "sha256": "f71a2db7fcbee9e4b907b34b77c6257bcbfcdb9498474382f0815957d83c1438"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-C-precise-01.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-C-precise-01.png",
+      "sha256": "4048750476306c38e99e0f0fd374da243ea2b7e64c771a1be146d7d7fa220669"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-C-precise-Gevrey.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-C-precise-Gevrey.png",
+      "sha256": "c869478bb96e3940eb10698b252b323926eeab2acdea726192136a19bed84e04"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\outputs\\Nuits-C-precise-main.png",
+      "archive": "archive\\2026-11-15\\previews\\Nuits-C-precise-main.png",
+      "sha256": "69906ed3acec48154e26a20ee95010806c40b0cf49bb4af5681c37149cdda0cc"
+    },
+    {
+      "source": "C:\\Users\\32697\\Documents\\Codex\\2026-11-12\\wo\\work\\Nuits-C-precise-01-large.png",
+      "archive": "archive\\2026-11-15\\work\\Nuits-C-precise-01-large.png",
+      "sha256": "7092703e666ff4235c7cc595755c51225df0308401ebd25041ee08444b1a212b"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\styles\\Nuits-style-C-04-frame.png",
+      "archive": "archive\\2026-11-15\\generated\\Nuits-style-C-04-frame.png",
+      "sha256": "ba8e3bc71899aa460faf69b8043a0232b4582c4eecd968c1ba2f090ea162796a"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\styles\\Nuits-style-C-04-woodland.png",
+      "archive": "archive\\2026-11-15\\generated\\Nuits-style-C-04-woodland.png",
+      "sha256": "20cffd17912561506059ad099ab63e0ad4d1c036c65d9f509f4fd31cfab2ad97"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\styles\\Nuits-style-C-04-frame-generation.json",
+      "archive": "archive\\2026-11-15\\generated\\Nuits-style-C-04-frame-generation.json",
+      "sha256": "c57d3cb64ac4089092633358f794a08e8f08406f06a932f8caa56d28f805d243"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\nuits-C-precise-01.svg",
+      "archive": "archive\\2026-11-15\\project-state\\nuits-C-precise-01.svg",
+      "sha256": "a61a79573d1bff8c067c43969b44d48908a961ec644c779e42af6f6534911ebe"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\nuits-C-precise-01.html",
+      "archive": "archive\\2026-11-15\\project-state\\nuits-C-precise-01.html",
+      "sha256": "bd79d88f8d0b162e05c7394c622cf8ccb365fde87f1c30f1b458e788672292da"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\checks\\nuits-C-precise-01.json",
+      "archive": "archive\\2026-11-15\\project-state\\nuits-C-precise-01.json",
+      "sha256": "7b83099ecfa602099c8d0abce4479409be92e0e4882e4b0512e0c6baf48c73d7"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\stage.json",
+      "archive": "archive\\2026-11-15\\project-state\\stage-precise-C.json",
+      "sha256": "466c37e3f951269ff2f73419e30efad8feda073351908192e97df5d07fb9df02"
+    },
+    {
+      "source": "C:\\Users\\32697\\Desktop\\thuwine\\map_builder\\styles\\style-selection.json",
+      "archive": "archive\\2026-11-15\\project-state\\style-selection-precise-C.json",
+      "sha256": "0b21f601133126da21b03d1c03ee1ba5cd36bcdfb7c2a555d91d12025f16b2f8"
+    }
+  ]
+}

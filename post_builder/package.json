@@ -1,0 +1,7 @@
+{
+  "name": "thuwine-post-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local, review-first WeChat post layout and equal-width section export",
+  "dependencies": {"sharp": "^0.34.0"}
+}

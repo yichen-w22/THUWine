@@ -1,0 +1,1 @@
+{"url":"https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=BDTOPO_V3%3Azone_de_vegetation&outputFormat=application%2Fjson&srsName=EPSG%3A2154&bbox=843000%2C6668200%2C854000%2C6690400%2CEPSG%3A2154&count=1000&startIndex=3000","retrieved":"2026-11-14","license":"Licence Ouverte 2.0"}

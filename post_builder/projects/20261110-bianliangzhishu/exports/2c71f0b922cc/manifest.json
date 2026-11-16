@@ -1,0 +1,49 @@
+{
+  "digest": "2c71f0b922cc0d97257ab9c3bdd309ac3e79f27c71c233f4ca8069c86755a936",
+  "width": 1080,
+  "height": 28796,
+  "images": [
+    {
+      "file": "01_共同的起点.jpg",
+      "width": 1080,
+      "height": 3057,
+      "bytes": 782154
+    },
+    {
+      "file": "02_酒庄与探索系列.jpg",
+      "width": 1080,
+      "height": 1528,
+      "bytes": 388447
+    },
+    {
+      "file": "03_六款工艺对照表.jpg",
+      "width": 1080,
+      "height": 1575,
+      "bytes": 230153
+    },
+    {
+      "file": "04_六款酒的工艺档案.jpg",
+      "width": 1080,
+      "height": 10773,
+      "bytes": 2256523
+    },
+    {
+      "file": "05_四类变量解析.jpg",
+      "width": 1080,
+      "height": 6899,
+      "bytes": 2219200
+    },
+    {
+      "file": "06_如何对照品鉴.jpg",
+      "width": 1080,
+      "height": 3294,
+      "bytes": 787438
+    },
+    {
+      "file": "07_参考来源.jpg",
+      "width": 1080,
+      "height": 1670,
+      "bytes": 317629
+    }
+  ]
+}

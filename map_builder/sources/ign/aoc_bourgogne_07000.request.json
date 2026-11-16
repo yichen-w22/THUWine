@@ -1,0 +1,4 @@
+{
+  "url": "https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=AOC-VITICOLES%3Aaire_parcellaire&outputFormat=application%2Fjson&srsName=EPSG%3A2154&count=1000&startIndex=7000&bbox=3.45%2C46.15%2C5.35%2C48.12%2CEPSG%3A4326",
+  "retrieved": "2026-11-12"
+}

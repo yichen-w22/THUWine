@@ -1,0 +1,1 @@
+{"url":"https://data.geopf.fr/wms-r/wms?service=WMS&version=1.3.0&request=GetMap&layers=ELEVATION.ELEVATIONGRIDCOVERAGE.HIGHRES&styles=&crs=EPSG%3A2154&bbox=843000%2C6668200%2C854000%2C6690400&width=550&height=1110&format=image%2Fx-bil%3Bbits%3D32","retrieved":"2026-11-14","license":"Licence Ouverte 2.0"}

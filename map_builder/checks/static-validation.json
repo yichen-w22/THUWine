@@ -1,0 +1,12 @@
+{
+  "source_pages": 18,
+  "grand_cru_AOC_matched": 33,
+  "candidate_estates": 20,
+  "size_mm": [
+    600,
+    900
+  ],
+  "presentation": "static",
+  "print_ready": false,
+  "checks": "Source extraction, source identifiers, frame scale calculations, SVG dimensions, static render inspection. Full geographic and print QA pending later stages."
+}

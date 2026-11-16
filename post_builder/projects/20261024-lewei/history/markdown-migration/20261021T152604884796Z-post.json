@@ -1,0 +1,1134 @@
+{
+  "schema_version": 1,
+  "title": {
+    "$text": "post/title"
+  },
+  "theme": "thuwine-classic-v1",
+  "expected_wine_count": 8,
+  "assets": {
+    "brand_reference": {
+      "path": "../../assets/brand-reference.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "tusstar": {
+      "path": "../../assets/tusstar.png",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "responsible": {
+      "path": "../../assets/drink-responsibly.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "vineyard": {
+      "path": "assets/vineyard.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "winery": {
+      "path": "assets/winery-overview.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "speaker": {
+      "path": "assets/wang-haoze.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "group": {
+      "path": "assets/wine-group.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "wine1": {
+      "path": "assets/wine1.jpg",
+      "source": "04f851c4a0983020aceef36d256279b3.jpg；用户确认的酒款资料"
+    },
+    "wine2": {
+      "path": "assets/wine2.jpg",
+      "source": "8bfd4d9722ad7c57f7c845bbe608843e.jpg；用户确认的酒款资料"
+    },
+    "wine3": {
+      "path": "assets/wine3.jpg",
+      "source": "cc07982532ec92b548c7d41878767fda.jpg；用户确认的酒款资料"
+    },
+    "wine4": {
+      "path": "assets/wine4.jpg",
+      "source": "14e91fed34f33baf95e90da6af4220f8.jpg；用户确认的酒款资料"
+    },
+    "wine5": {
+      "path": "assets/wine5.jpg",
+      "source": "73350f2d4bcae8e566ccfbaafe7c804d.jpg；用户确认的酒款资料"
+    },
+    "wine6": {
+      "path": "assets/wine6.jpg",
+      "source": "aec3821ab6a6853dab9cc9d862f9d27c.jpg；用户确认的酒款资料"
+    },
+    "rice1": {
+      "path": "assets/rice1.jpg",
+      "source": "acf7f655a9dbe1bde8f63bae9997f7d9.jpg；用户确认的酒款资料"
+    },
+    "rice2": {
+      "path": "assets/rice2.jpg",
+      "source": "af688a9eafd05c88299c4e2081040d53.jpg；用户确认的酒款资料"
+    }
+  },
+  "sources": {
+    "user_wine_list": {
+      "kind": "user_confirmed_copy",
+      "description": "本次聊天用户明确指定的5款葡萄酒、2款米酒与彩蛋文案；酒名按用户指定普洁"
+    },
+    "chardonnay_sheet": {
+      "kind": "user_provided_image",
+      "asset": "wine6",
+      "description": "用户要求补入的甘肃霞多丽干白资料，来源于活动目录"
+    },
+    "winery_overview": {
+      "kind": "user_provided_image",
+      "asset": "winery",
+      "description": "酒庄资料中的文字已提取，2013年、1000亩等按本次材料"
+    },
+    "sponsor_copy": {
+      "kind": "user_provided_copy",
+      "description": "用户提供的启迪之星介绍和温馨提示；仅用于本次活动，不能自动用于下一篇"
+    }
+  },
+  "sections": [
+    {
+      "id": "terroir",
+      "label": {
+        "$text": "section/terroir/label"
+      },
+      "blocks": [
+        {
+          "id": "cover",
+          "type": "cover",
+          "logo": {
+            "asset": "brand_reference",
+            "crop": [
+              180,
+              20,
+              680,
+              105
+            ],
+            "alt": "乐为与清华葡萄酒协会标志"
+          },
+          "brand": {
+            "$text": "cover/brand"
+          },
+          "title_lines": {
+            "$text": "cover/title_lines"
+          },
+          "subtitle": {
+            "$text": "cover/subtitle"
+          },
+          "meta": {
+            "$text": "cover/meta"
+          }
+        },
+        {
+          "id": "terroir-heading",
+          "type": "heading",
+          "eyebrow": {
+            "$text": "terroir-heading/eyebrow"
+          },
+          "text": {
+            "$text": "terroir-heading/text"
+          }
+        },
+        {
+          "id": "opening",
+          "type": "paragraph",
+          "text": {
+            "$text": "opening/text"
+          },
+          "role": "lead"
+        },
+        {
+          "id": "terroir-intro",
+          "type": "paragraph",
+          "text": {
+            "$text": "terroir-intro/text"
+          }
+        },
+        {
+          "id": "vineyard-photo",
+          "type": "image",
+          "asset": "vineyard",
+          "crop": [
+            0,
+            1380,
+            2296,
+            2296
+          ],
+          "caption": {
+            "$text": "vineyard-photo/caption"
+          },
+          "alt": "葡萄园前景与远处酒庄"
+        },
+        {
+          "id": "terroir-facts",
+          "type": "stats",
+          "items": [
+            {
+              "value": {
+                "$text": "terroir-facts/0/value"
+              },
+              "label": {
+                "$text": "terroir-facts/0/label"
+              }
+            },
+            {
+              "value": {
+                "$text": "terroir-facts/1/value"
+              },
+              "label": {
+                "$text": "terroir-facts/1/label"
+              }
+            },
+            {
+              "value": {
+                "$text": "terroir-facts/2/value"
+              },
+              "label": {
+                "$text": "terroir-facts/2/label"
+              }
+            }
+          ]
+        },
+        {
+          "id": "terroir-grapes",
+          "type": "paragraph",
+          "text": {
+            "$text": "terroir-grapes/text"
+          }
+        },
+        {
+          "id": "event-invitation",
+          "type": "paragraph",
+          "text": {
+            "$text": "event-invitation/text"
+          },
+          "after": 65
+        }
+      ]
+    },
+    {
+      "id": "winery",
+      "label": {
+        "$text": "section/winery/label"
+      },
+      "blocks": [
+        {
+          "id": "winery-heading",
+          "type": "heading",
+          "eyebrow": {
+            "$text": "winery-heading/eyebrow"
+          },
+          "text": {
+            "$text": "winery-heading/text"
+          }
+        },
+        {
+          "id": "winery-intro",
+          "type": "paragraph",
+          "text": {
+            "$text": "winery-intro/text"
+          }
+        },
+        {
+          "id": "winery-photo",
+          "type": "image",
+          "asset": "winery",
+          "crop": [
+            0,
+            1190,
+            1320,
+            660
+          ],
+          "caption": {
+            "$text": "winery-photo/caption"
+          },
+          "alt": "瑞沃酒庄与庭园"
+        },
+        {
+          "id": "brand-story",
+          "type": "paragraph",
+          "text": {
+            "$text": "brand-story/text"
+          }
+        },
+        {
+          "id": "label-art-heading",
+          "type": "heading",
+          "text": {
+            "$text": "label-art-heading/text"
+          },
+          "role": "subheading",
+          "after": 20
+        },
+        {
+          "id": "label-art-story",
+          "type": "paragraph",
+          "text": {
+            "$text": "label-art-story/text"
+          },
+          "after": 55
+        },
+        {
+          "id": "group-photo",
+          "type": "image",
+          "asset": "group",
+          "caption": {
+            "$text": "group-photo/caption"
+          },
+          "alt": "本次活动选择的酒款合影"
+        },
+        {
+          "id": "speaker-profile",
+          "type": "speaker",
+          "image": {
+            "asset": "speaker",
+            "alt": "王皓泽持杯讲解葡萄酒"
+          },
+          "name": {
+            "$text": "speaker-profile/name"
+          },
+          "description": {
+            "$text": "speaker-profile/description"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grape-wines",
+      "label": {
+        "$text": "section/grape-wines/label"
+      },
+      "blocks": [
+        {
+          "id": "wine-heading",
+          "type": "heading",
+          "eyebrow": {
+            "$text": "wine-heading/eyebrow"
+          },
+          "text": {
+            "$text": "wine-heading/text"
+          }
+        },
+        {
+          "id": "wine-count",
+          "type": "paragraph",
+          "text": {
+            "$text": "wine-count/text"
+          },
+          "role": "meta",
+          "after": 40
+        },
+        {
+          "id": "wine-cards",
+          "type": "wine_list",
+          "items": [
+            {
+              "id": "wine1",
+              "brand": {
+                "$text": "wine-cards/wine1/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine1/name"
+              },
+              "category": "ROSÉ",
+              "meta": {
+                "$text": "wine-cards/wine1/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine1/description"
+              },
+              "image": {
+                "asset": "wine1",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "普洁桃红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine2",
+              "brand": {
+                "$text": "wine-cards/wine2/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine2/name"
+              },
+              "category": "ROSÉ",
+              "meta": {
+                "$text": "wine-cards/wine2/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine2/description"
+              },
+              "image": {
+                "asset": "wine2",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "梦中普洁桃红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine3",
+              "brand": {
+                "$text": "wine-cards/wine3/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine3/name"
+              },
+              "category": "RED",
+              "meta": {
+                "$text": "wine-cards/wine3/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine3/description"
+              },
+              "image": {
+                "asset": "wine3",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "乐土马瑟兰干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine4",
+              "brand": {
+                "$text": "wine-cards/wine4/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine4/name"
+              },
+              "category": "RED",
+              "meta": {
+                "$text": "wine-cards/wine4/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine4/description"
+              },
+              "image": {
+                "asset": "wine4",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "蒙古马干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine5",
+              "brand": {
+                "$text": "wine-cards/wine5/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine5/name"
+              },
+              "category": "RED",
+              "meta": {
+                "$text": "wine-cards/wine5/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine5/description"
+              },
+              "image": {
+                "asset": "wine5",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "龍干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine6",
+              "brand": {
+                "$text": "wine-cards/wine6/brand"
+              },
+              "name": {
+                "$text": "wine-cards/wine6/name"
+              },
+              "category": "WHITE",
+              "meta": {
+                "$text": "wine-cards/wine6/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine6/description"
+              },
+              "image": {
+                "asset": "wine6",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "甘肃霞多丽干白葡萄酒酒瓶"
+              },
+              "sources": [
+                "chardonnay_sheet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rice-wines",
+      "label": {
+        "$text": "section/rice-wines/label"
+      },
+      "blocks": [
+        {
+          "id": "rice-heading",
+          "type": "heading",
+          "eyebrow": {
+            "$text": "rice-heading/eyebrow"
+          },
+          "text": {
+            "$text": "rice-heading/text"
+          }
+        },
+        {
+          "id": "rice-opening",
+          "type": "paragraph",
+          "text": {
+            "$text": "rice-opening/text"
+          },
+          "role": "meta",
+          "after": 40
+        },
+        {
+          "id": "rice-cards",
+          "type": "wine_list",
+          "items": [
+            {
+              "id": "rice1",
+              "brand": {
+                "$text": "rice-cards/rice1/brand"
+              },
+              "name": {
+                "$text": "rice-cards/rice1/name"
+              },
+              "category": "RICE WINE",
+              "meta": {
+                "$text": "rice-cards/rice1/meta"
+              },
+              "description": {
+                "$text": "rice-cards/rice1/description"
+              },
+              "image": {
+                "asset": "rice1",
+                "crop": [
+                  1760,
+                  1380,
+                  560,
+                  1780
+                ],
+                "alt": "鞠衣杏子精酿米酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "rice2",
+              "brand": {
+                "$text": "rice-cards/rice2/brand"
+              },
+              "name": {
+                "$text": "rice-cards/rice2/name"
+              },
+              "category": "RICE WINE",
+              "meta": {
+                "$text": "rice-cards/rice2/meta"
+              },
+              "description": {
+                "$text": "rice-cards/rice2/description"
+              },
+              "image": {
+                "asset": "rice2",
+                "crop": [
+                  1760,
+                  1380,
+                  560,
+                  1780
+                ],
+                "alt": "余霞沙棘精酿米酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "surprise",
+          "type": "callout",
+          "eyebrow": {
+            "$text": "surprise/eyebrow"
+          },
+          "text": {
+            "$text": "surprise/text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "registration",
+      "label": {
+        "$text": "section/registration/label"
+      },
+      "blocks": [
+        {
+          "id": "registration-heading",
+          "type": "heading",
+          "eyebrow": {
+            "$text": "registration-heading/eyebrow"
+          },
+          "text": {
+            "$text": "registration-heading/text"
+          }
+        },
+        {
+          "id": "registration-invitation",
+          "type": "paragraph",
+          "text": {
+            "$text": "registration-invitation/text"
+          },
+          "role": "small",
+          "color": "accent",
+          "after": 35
+        },
+        {
+          "id": "registration-info",
+          "type": "event",
+          "when": {
+            "$text": "registration-info/when"
+          },
+          "where": {
+            "$text": "registration-info/where"
+          },
+          "contact": {
+            "$text": "registration-info/contact"
+          },
+          "speakers": {
+            "$text": "registration-info/speakers"
+          },
+          "speaker_roles": {
+            "$text": "registration-info/speaker_roles"
+          },
+          "horse": {
+            "asset": "brand_reference",
+            "crop": [
+              0,
+              1135,
+              1000,
+              369
+            ],
+            "alt": "原海报的黑白蒙古马元素"
+          },
+          "horse_mask": [
+            648,
+            0,
+            432,
+            140
+          ],
+          "heading": {
+            "$text": "registration-info/heading"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thanks",
+      "label": {
+        "$text": "section/thanks/label"
+      },
+      "blocks": [
+        {
+          "id": "registration-notice",
+          "type": "notice",
+          "text": {
+            "$text": "registration-notice/text"
+          },
+          "confirmed": true,
+          "heading": {
+            "$text": "registration-notice/heading"
+          }
+        },
+        {
+          "id": "sponsor-thanks",
+          "type": "sponsor",
+          "thanks": {
+            "$text": "sponsor-thanks/thanks"
+          },
+          "logo": {
+            "asset": "tusstar",
+            "alt": "TusStar启迪之星标志"
+          },
+          "paragraphs": {
+            "$text": "sponsor-thanks/paragraphs"
+          },
+          "heading": {
+            "$text": "sponsor-thanks/heading"
+          }
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "label": {
+        "$text": "section/closing/label"
+      },
+      "blocks": [
+        {
+          "id": "responsible-drinking",
+          "type": "responsible",
+          "image": {
+            "asset": "responsible",
+            "alt": "DRINK RESPONSIBLY"
+          },
+          "text": {
+            "$text": "responsible-drinking/text"
+          }
+        },
+        {
+          "id": "closing-message",
+          "type": "closing",
+          "lines": {
+            "$text": "closing-message/lines"
+          },
+          "brand": {
+            "$text": "closing-message/brand"
+          }
+        }
+      ]
+    }
+  ],
+  "text_source": "正文.md",
+  "text_schema": {
+    "post/title": {
+      "kind": "string",
+      "label": "推送名称",
+      "markdown_heading": 1
+    },
+    "section/terroir/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "cover/brand": {
+      "kind": "string",
+      "label": "联合署名"
+    },
+    "cover/title_lines": {
+      "kind": "lines",
+      "label": "主标题",
+      "markdown_heading": 3
+    },
+    "cover/subtitle": {
+      "kind": "string",
+      "label": "副标题"
+    },
+    "cover/meta": {
+      "kind": "string",
+      "label": "日期与招募信息"
+    },
+    "terroir-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "terroir-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "opening/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "terroir-intro/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "vineyard-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "terroir-facts/0/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "terroir-facts/0/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "terroir-facts/1/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "terroir-facts/1/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "terroir-facts/2/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "terroir-facts/2/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "terroir-grapes/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "event-invitation/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "section/winery/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "winery-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "winery-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "winery-intro/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "winery-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "brand-story/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "label-art-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "label-art-story/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "group-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "speaker-profile/name": {
+      "kind": "string",
+      "label": "分享人姓名",
+      "markdown_heading": 4
+    },
+    "speaker-profile/description": {
+      "kind": "string",
+      "label": "分享人介绍"
+    },
+    "section/grape-wines/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "wine-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "wine-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "wine-count/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "wine-cards/wine1/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine1/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine1/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine1/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine2/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine2/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine2/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine2/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine3/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine3/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine3/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine3/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine4/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine4/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine4/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine4/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine5/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine5/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine5/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine5/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine6/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine6/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine6/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine6/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "section/rice-wines/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "rice-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "rice-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "rice-opening/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "rice-cards/rice1/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "rice-cards/rice1/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "rice-cards/rice1/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "rice-cards/rice1/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "rice-cards/rice2/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "rice-cards/rice2/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "rice-cards/rice2/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "rice-cards/rice2/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "surprise/eyebrow": {
+      "kind": "string",
+      "label": "提示眉题"
+    },
+    "surprise/text": {
+      "kind": "string",
+      "label": "彩蛋提示"
+    },
+    "section/registration/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "registration-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "registration-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "registration-invitation/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "registration-info/heading": {
+      "kind": "string",
+      "label": "分享人栏目标题"
+    },
+    "registration-info/speakers": {
+      "kind": "string",
+      "label": "分享人"
+    },
+    "registration-info/speaker_roles": {
+      "kind": "string",
+      "label": "分享人身份"
+    },
+    "registration-info/when": {
+      "kind": "string",
+      "label": "时间"
+    },
+    "registration-info/where": {
+      "kind": "string",
+      "label": "地点"
+    },
+    "registration-info/contact": {
+      "kind": "string",
+      "label": "联系电话"
+    },
+    "section/thanks/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "registration-notice/heading": {
+      "kind": "string",
+      "label": "提示标题",
+      "markdown_heading": 3
+    },
+    "registration-notice/text": {
+      "kind": "string",
+      "label": "报名须知"
+    },
+    "sponsor-thanks/heading": {
+      "kind": "string",
+      "label": "鸣谢标题",
+      "markdown_heading": 3
+    },
+    "sponsor-thanks/thanks": {
+      "kind": "string",
+      "label": "致谢文字"
+    },
+    "sponsor-thanks/paragraphs": {
+      "kind": "paragraphs",
+      "label": "赞助方介绍；空行分段"
+    },
+    "section/closing/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "responsible-drinking/text": {
+      "kind": "string",
+      "label": "理性饮酒说明"
+    },
+    "closing-message/lines": {
+      "kind": "lines",
+      "label": "文末结语"
+    },
+    "closing-message/brand": {
+      "kind": "string",
+      "label": "文末署名"
+    }
+  }
+}

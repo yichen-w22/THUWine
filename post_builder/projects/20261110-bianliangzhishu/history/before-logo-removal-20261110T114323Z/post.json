@@ -1,0 +1,1651 @@
+{
+  "schema_version": 1,
+  "title": {
+    "$text": "post/title"
+  },
+  "theme": "thuwine-classic-v1",
+  "expected_wine_count": 6,
+  "sources": {
+    "s1": {
+      "label": "[1] 迦南酒业·诗百篇：《新品首发｜诗百篇探索系列〈变量之书〉霞多丽2024》及六款参数图",
+      "url": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g"
+    },
+    "s2": {
+      "label": "[2] 迦南酒业官网：诗百篇品牌与酒庄介绍",
+      "url": "https://canaanwine.cn/chapter_verse/"
+    },
+    "s3": {
+      "label": "[3] 马里兰大学推广中心：How to Assess Winegrape Maturity and Make Harvest Decisions",
+      "url": "https://extension.umd.edu/resource/how-assess-winegrape-maturity-and-make-harvest-decisions"
+    },
+    "s4": {
+      "label": "[4] WSET：Why is oak used in winemaking?",
+      "url": "https://www.wsetglobal.com/news-insights/insight-opinion/why-is-oak-used-in-winemaking/"
+    },
+    "s5": {
+      "label": "[5] Martínez-Gil等（2022）：Alternative Woods in Oenology，Applied Sciences 12(4), 2101",
+      "url": "https://doi.org/10.3390/app12042101"
+    },
+    "s6": {
+      "label": "[6] UC Davis：Diversity of Wine Yeasts",
+      "url": "https://wine.ucdavis.edu/industry-info/enology/wine-microbiology/yeast-mold/diversity-wine-yeasts"
+    },
+    "s7": {
+      "label": "[7] 俄勒冈州立大学推广中心：Simultaneous malolactic fermentation: Is it the right option for your wine?",
+      "url": "https://extension.oregonstate.edu/catalog/em-9641-simultaneous-malolactic-fermentation-it-right-option-your-wine"
+    },
+    "s8": {
+      "label": "[8] AWRI：Wine flavours, faults and taints（双乙酰相关说明）",
+      "url": "https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/"
+    },
+    "s9": {
+      "label": "[9] 迦南酒业·诗百篇（2026-07-02）：《变量之书》七城巡回品鉴回顾（品牌反馈）",
+      "url": "https://www.sina.cn/news/detail/5316235604528832.html"
+    },
+    "s10": {
+      "label": "[10] 大嘴爱吃（2026-04-27）：《我无需掩饰，迦南酒业诗百篇就是本人最爱的中国葡萄酒品牌》（大师班品饮随笔）",
+      "url": "https://www.sohu.com/a/1015404606_121124450"
+    }
+  },
+  "assets": {
+    "grapes": {
+      "path": "assets/grapes.jpg",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文葡萄照片，未将照片中的内容推断为额外参数。"
+    },
+    "wine1": {
+      "path": "assets/wine1.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#1参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "wine2": {
+      "path": "assets/wine2.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#2参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "wine3": {
+      "path": "assets/wine3.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#3参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "wine4": {
+      "path": "assets/wine4.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#4参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "wine5": {
+      "path": "assets/wine5.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#5参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "wine6": {
+      "path": "assets/wine6.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "原文#6参数卡原图；版面仅裁切酒瓶，参数以可选中文字重新呈现。"
+    },
+    "association_logo": {
+      "path": "../../assets/thu-wine-logo.png",
+      "source": "用户提供的THU WINE LOGO_final.ai，保留原始黑红配色与比例"
+    },
+    "six-wines": {
+      "path": "assets/six-wines.png",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "来自用户指定的微信原文配图，保留原图比例。"
+    },
+    "acacia-trees": {
+      "path": "assets/acacia-trees.jpg",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "来自用户指定的微信原文配图，保留原图比例。"
+    },
+    "barrel-fermentation": {
+      "path": "assets/barrel-fermentation.jpg",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "来自用户指定的微信原文配图，保留原图比例。"
+    },
+    "sample-tasting": {
+      "path": "assets/sample-tasting.jpg",
+      "source": "https://mp.weixin.qq.com/s/_tI8CAcFy-Vg3r_0reyC-g",
+      "note": "来自用户指定的微信原文配图，保留原图比例。"
+    }
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "label": {
+        "$text": "section/starting-point/label"
+      },
+      "blocks": [
+        {
+          "id": "association-logo",
+          "type": "image",
+          "asset": "association_logo",
+          "x": 380.0,
+          "width": 320,
+          "alt": "清华葡萄酒协会标志",
+          "after": 48,
+          "crop": [
+            419,
+            276,
+            1130,
+            756
+          ]
+        },
+        {
+          "id": "cover",
+          "type": "cover",
+          "brand": {
+            "$text": "cover/brand"
+          },
+          "title_lines": {
+            "$text": "cover/title_lines"
+          },
+          "subtitle": {
+            "$text": "cover/subtitle"
+          },
+          "meta": {
+            "$text": "cover/meta"
+          }
+        },
+        {
+          "id": "background-heading",
+          "type": "heading",
+          "text": {
+            "$text": "background-heading/text"
+          },
+          "eyebrow": {
+            "$text": "background-heading/eyebrow"
+          }
+        },
+        {
+          "id": "lead-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "lead-1/text"
+          },
+          "role": "lead"
+        },
+        {
+          "id": "lead-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "lead-2/text"
+          }
+        },
+        {
+          "id": "background-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "background-1/text"
+          }
+        },
+        {
+          "id": "background-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "background-2/text"
+          }
+        },
+        {
+          "id": "grape-photo",
+          "type": "image",
+          "asset": "grapes",
+          "crop": [
+            0,
+            300,
+            1080,
+            780
+          ],
+          "alt": "葡萄藤上的霞多丽果串",
+          "caption": {
+            "$text": "grape-photo/caption"
+          }
+        },
+        {
+          "id": "vineyard-facts",
+          "type": "stats",
+          "items": [
+            {
+              "value": {
+                "$text": "vineyard-facts/0/value"
+              },
+              "label": {
+                "$text": "vineyard-facts/0/label"
+              }
+            },
+            {
+              "value": {
+                "$text": "vineyard-facts/1/value"
+              },
+              "label": {
+                "$text": "vineyard-facts/1/label"
+              }
+            },
+            {
+              "value": {
+                "$text": "vineyard-facts/2/value"
+              },
+              "label": {
+                "$text": "vineyard-facts/2/label"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "winery",
+      "label": {
+        "$text": "section/winery/label"
+      },
+      "blocks": [
+        {
+          "id": "winery-heading",
+          "type": "heading",
+          "text": {
+            "$text": "winery-heading/text"
+          },
+          "eyebrow": {
+            "$text": "winery-heading/eyebrow"
+          }
+        },
+        {
+          "id": "winery-introduction",
+          "type": "paragraph",
+          "text": {
+            "$text": "winery-introduction/text"
+          }
+        },
+        {
+          "id": "discovery-introduction",
+          "type": "paragraph",
+          "text": {
+            "$text": "discovery-introduction/text"
+          }
+        },
+        {
+          "id": "six-wines-photo",
+          "type": "image",
+          "asset": "six-wines",
+          "alt": "六款霞多丽按编号排列的套组合影",
+          "caption": {
+            "$text": "six-wines-photo/caption"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wine-overview",
+      "label": {
+        "$text": "section/wine-overview/label"
+      },
+      "blocks": [
+        {
+          "id": "overview-heading",
+          "type": "heading",
+          "text": {
+            "$text": "overview-heading/text"
+          },
+          "eyebrow": {
+            "$text": "overview-heading/eyebrow"
+          }
+        },
+        {
+          "id": "overview-intro",
+          "type": "paragraph",
+          "text": {
+            "$text": "overview-intro/text"
+          }
+        },
+        {
+          "id": "wine-comparison-table",
+          "type": "table",
+          "columns": [
+            {
+              "label": {
+                "$text": "wine-comparison-table/column/0/label"
+              },
+              "width": 100
+            },
+            {
+              "label": {
+                "$text": "wine-comparison-table/column/1/label"
+              },
+              "width": 156
+            },
+            {
+              "label": {
+                "$text": "wine-comparison-table/column/2/label"
+              },
+              "width": 142
+            },
+            {
+              "label": {
+                "$text": "wine-comparison-table/column/3/label"
+              },
+              "width": 380
+            },
+            {
+              "label": {
+                "$text": "wine-comparison-table/column/4/label"
+              },
+              "width": 158
+            }
+          ],
+          "rows": [
+            {
+              "id": "wine1",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine1/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine1/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine1/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine1/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine1/4"
+                }
+              ]
+            },
+            {
+              "id": "wine2",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine2/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine2/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine2/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine2/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine2/4"
+                }
+              ]
+            },
+            {
+              "id": "wine3",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine3/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine3/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine3/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine3/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine3/4"
+                }
+              ]
+            },
+            {
+              "id": "wine4",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine4/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine4/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine4/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine4/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine4/4"
+                }
+              ]
+            },
+            {
+              "id": "wine5",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine5/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine5/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine5/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine5/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine5/4"
+                }
+              ]
+            },
+            {
+              "id": "wine6",
+              "cells": [
+                {
+                  "$text": "wine-comparison-table/row/wine6/0"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine6/1"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine6/2"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine6/3"
+                },
+                {
+                  "$text": "wine-comparison-table/row/wine6/4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wine-archives",
+      "label": {
+        "$text": "section/wine-archives/label"
+      },
+      "blocks": [
+        {
+          "id": "wine-heading",
+          "type": "heading",
+          "text": {
+            "$text": "wine-heading/text"
+          },
+          "eyebrow": {
+            "$text": "wine-heading/eyebrow"
+          }
+        },
+        {
+          "id": "wine-archive-intro",
+          "type": "paragraph",
+          "text": {
+            "$text": "wine-archive-intro/text"
+          }
+        },
+        {
+          "id": "wine-cards",
+          "type": "wine_list",
+          "items": [
+            {
+              "id": "wine1",
+              "name": {
+                "$text": "wine-cards/wine1/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine1/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine1/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine1/description"
+              },
+              "image": {
+                "asset": "wine1",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#1酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s5",
+                "s9"
+              ]
+            },
+            {
+              "id": "wine2",
+              "name": {
+                "$text": "wine-cards/wine2/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine2/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine2/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine2/description"
+              },
+              "image": {
+                "asset": "wine2",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#2酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s4",
+                "s5"
+              ]
+            },
+            {
+              "id": "wine3",
+              "name": {
+                "$text": "wine-cards/wine3/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine3/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine3/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine3/description"
+              },
+              "image": {
+                "asset": "wine3",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#3酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s3"
+              ]
+            },
+            {
+              "id": "wine4",
+              "name": {
+                "$text": "wine-cards/wine4/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine4/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine4/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine4/description"
+              },
+              "image": {
+                "asset": "wine4",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#4酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s4",
+                "s5"
+              ]
+            },
+            {
+              "id": "wine5",
+              "name": {
+                "$text": "wine-cards/wine5/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine5/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine5/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine5/description"
+              },
+              "image": {
+                "asset": "wine5",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#5酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s6"
+              ]
+            },
+            {
+              "id": "wine6",
+              "name": {
+                "$text": "wine-cards/wine6/name"
+              },
+              "brand": {
+                "$text": "wine-cards/wine6/brand"
+              },
+              "category": "WINE",
+              "meta": {
+                "$text": "wine-cards/wine6/meta"
+              },
+              "description": {
+                "$text": "wine-cards/wine6/description"
+              },
+              "image": {
+                "asset": "wine6",
+                "crop": [
+                  220,
+                  80,
+                  530,
+                  1660
+                ],
+                "alt": "变量之书2024霞多丽#6酒瓶"
+              },
+              "sources": [
+                "s1",
+                "s7",
+                "s8"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comparison-caution",
+          "type": "callout",
+          "eyebrow": {
+            "$text": "comparison-caution/eyebrow"
+          },
+          "text": {
+            "$text": "comparison-caution/text"
+          }
+        },
+        {
+          "id": "published-impressions-heading",
+          "type": "heading",
+          "text": {
+            "$text": "published-impressions-heading/text"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "published-impressions-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "published-impressions-1/text"
+          }
+        },
+        {
+          "id": "published-impressions-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "published-impressions-2/text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "four-variables",
+      "label": {
+        "$text": "section/four-variables/label"
+      },
+      "blocks": [
+        {
+          "id": "variable-heading",
+          "type": "heading",
+          "text": {
+            "$text": "variable-heading/text"
+          },
+          "eyebrow": {
+            "$text": "variable-heading/eyebrow"
+          }
+        },
+        {
+          "id": "harvest-heading",
+          "type": "heading",
+          "text": {
+            "$text": "harvest-heading/text"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "harvest-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "harvest-1/text"
+          }
+        },
+        {
+          "id": "harvest-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "harvest-2/text"
+          }
+        },
+        {
+          "id": "harvest-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "harvest-3/text"
+          }
+        },
+        {
+          "id": "wood-heading",
+          "type": "heading",
+          "text": {
+            "$text": "wood-heading/text"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "wood-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "wood-1/text"
+          }
+        },
+        {
+          "id": "acacia-trees-photo",
+          "type": "image",
+          "asset": "acacia-trees",
+          "alt": "原文配图中的刺槐树与花",
+          "caption": {
+            "$text": "acacia-trees-photo/caption"
+          }
+        },
+        {
+          "id": "wood-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "wood-2/text"
+          }
+        },
+        {
+          "id": "wood-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "wood-3/text"
+          }
+        },
+        {
+          "id": "yeast-heading",
+          "type": "heading",
+          "text": {
+            "$text": "yeast-heading/text"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "yeast-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "yeast-1/text"
+          }
+        },
+        {
+          "id": "barrel-fermentation-photo",
+          "type": "image",
+          "asset": "barrel-fermentation",
+          "alt": "橡木桶口可见霞多丽发酵产生的泡沫",
+          "caption": {
+            "$text": "barrel-fermentation-photo/caption"
+          }
+        },
+        {
+          "id": "yeast-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "yeast-2/text"
+          }
+        },
+        {
+          "id": "yeast-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "yeast-3/text"
+          }
+        },
+        {
+          "id": "mlf-heading",
+          "type": "heading",
+          "text": {
+            "$text": "mlf-heading/text"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "mlf-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "mlf-1/text"
+          }
+        },
+        {
+          "id": "mlf-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "mlf-2/text"
+          }
+        },
+        {
+          "id": "mlf-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "mlf-3/text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comparative-tasting",
+      "label": {
+        "$text": "section/comparative-tasting/label"
+      },
+      "blocks": [
+        {
+          "id": "tasting-heading",
+          "type": "heading",
+          "text": {
+            "$text": "tasting-heading/text"
+          },
+          "eyebrow": {
+            "$text": "tasting-heading/eyebrow"
+          }
+        },
+        {
+          "id": "sample-tasting-photo",
+          "type": "image",
+          "asset": "sample-tasting",
+          "alt": "使用取样管将酒液分入酒杯进行比较",
+          "caption": {
+            "$text": "sample-tasting-photo/caption"
+          }
+        },
+        {
+          "id": "tasting-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "tasting-1/text"
+          }
+        },
+        {
+          "id": "tasting-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "tasting-2/text"
+          }
+        },
+        {
+          "id": "tasting-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "tasting-3/text"
+          }
+        },
+        {
+          "id": "tasting-4",
+          "type": "paragraph",
+          "text": {
+            "$text": "tasting-4/text"
+          }
+        },
+        {
+          "id": "tasting-5",
+          "type": "paragraph",
+          "text": {
+            "$text": "tasting-5/text"
+          }
+        },
+        {
+          "id": "ending",
+          "type": "paragraph",
+          "text": {
+            "$text": "ending/text"
+          }
+        },
+        {
+          "id": "closing",
+          "type": "closing",
+          "lines": {
+            "$text": "closing/lines"
+          },
+          "brand": {
+            "$text": "closing/brand"
+          }
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "label": {
+        "$text": "section/references/label"
+      },
+      "blocks": [
+        {
+          "id": "reference-heading",
+          "type": "heading",
+          "text": {
+            "$text": "reference-heading/text"
+          },
+          "eyebrow": {
+            "$text": "reference-heading/eyebrow"
+          },
+          "role": "subheading"
+        },
+        {
+          "id": "reference-1",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-1/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-2",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-2/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-3",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-3/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-4",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-4/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-5",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-5/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-6",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-6/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-7",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-7/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-8",
+          "type": "paragraph",
+          "text": {
+            "$text": "reference-8/text"
+          },
+          "role": "small"
+        },
+        {
+          "id": "reference-9",
+          "type": "paragraph",
+          "role": "small",
+          "text": {
+            "$text": "reference-9/text"
+          }
+        },
+        {
+          "id": "reference-10",
+          "type": "paragraph",
+          "role": "small",
+          "text": {
+            "$text": "reference-10/text"
+          }
+        },
+        {
+          "id": "source-note",
+          "type": "paragraph",
+          "text": {
+            "$text": "source-note/text"
+          },
+          "role": "small"
+        }
+      ]
+    }
+  ],
+  "text_source": "正文.md",
+  "text_schema": {
+    "post/title": {
+      "kind": "string",
+      "label": "推送名称",
+      "markdown_heading": 1
+    },
+    "section/starting-point/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "cover/brand": {
+      "kind": "string",
+      "label": "联合署名"
+    },
+    "cover/title_lines": {
+      "kind": "lines",
+      "label": "主标题",
+      "markdown_heading": 3
+    },
+    "cover/subtitle": {
+      "kind": "string",
+      "label": "副标题"
+    },
+    "cover/meta": {
+      "kind": "string",
+      "label": "日期与招募信息"
+    },
+    "background-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "background-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "lead-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "lead-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "background-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "background-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "grape-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "vineyard-facts/0/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "vineyard-facts/0/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "vineyard-facts/1/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "vineyard-facts/1/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "vineyard-facts/2/value": {
+      "kind": "string",
+      "label": "风土数据"
+    },
+    "vineyard-facts/2/label": {
+      "kind": "string",
+      "label": "数据说明"
+    },
+    "section/winery/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "winery-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "winery-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "winery-introduction/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "discovery-introduction/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "six-wines-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "section/wine-overview/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "overview-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "overview-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "overview-intro/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "wine-comparison-table/column/0/label": {
+      "kind": "string",
+      "label": "表头"
+    },
+    "wine-comparison-table/column/1/label": {
+      "kind": "string",
+      "label": "表头"
+    },
+    "wine-comparison-table/column/2/label": {
+      "kind": "string",
+      "label": "表头"
+    },
+    "wine-comparison-table/column/3/label": {
+      "kind": "string",
+      "label": "表头"
+    },
+    "wine-comparison-table/column/4/label": {
+      "kind": "string",
+      "label": "表头"
+    },
+    "wine-comparison-table/row/wine1/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine1/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine1/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine1/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine1/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine2/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine2/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine2/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine2/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine2/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine3/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine3/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine3/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine3/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine3/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine4/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine4/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine4/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine4/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine4/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine5/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine5/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine5/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine5/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine5/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine6/0": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine6/1": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine6/2": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine6/3": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "wine-comparison-table/row/wine6/4": {
+      "kind": "string",
+      "label": "表格单元格"
+    },
+    "section/wine-archives/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "wine-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "wine-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "wine-archive-intro/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "wine-cards/wine1/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine1/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine1/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine1/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine2/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine2/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine2/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine2/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine3/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine3/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine3/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine3/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine4/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine4/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine4/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine4/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine5/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine5/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine5/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine5/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "wine-cards/wine6/name": {
+      "kind": "string",
+      "label": "酒款名称",
+      "markdown_heading": 4
+    },
+    "wine-cards/wine6/brand": {
+      "kind": "string",
+      "label": "品牌/系列"
+    },
+    "wine-cards/wine6/meta": {
+      "kind": "string",
+      "label": "葡萄品种与工艺"
+    },
+    "wine-cards/wine6/description": {
+      "kind": "string",
+      "label": "酒款介绍"
+    },
+    "comparison-caution/eyebrow": {
+      "kind": "string",
+      "label": "提示眉题"
+    },
+    "comparison-caution/text": {
+      "kind": "string",
+      "label": "彩蛋提示"
+    },
+    "published-impressions-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "published-impressions-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "published-impressions-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "section/four-variables/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "variable-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "variable-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "harvest-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "harvest-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "harvest-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "harvest-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "wood-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "wood-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "acacia-trees-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "wood-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "wood-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "yeast-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "yeast-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "barrel-fermentation-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "yeast-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "yeast-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "mlf-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "mlf-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "mlf-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "mlf-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "section/comparative-tasting/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "tasting-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "tasting-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "sample-tasting-photo/caption": {
+      "kind": "string",
+      "label": "图片说明"
+    },
+    "tasting-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "tasting-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "tasting-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "tasting-4/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "tasting-5/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "ending/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "closing/lines": {
+      "kind": "lines",
+      "label": "文末结语"
+    },
+    "closing/brand": {
+      "kind": "string",
+      "label": "文末署名"
+    },
+    "section/references/label": {
+      "kind": "string",
+      "label": "分段名称",
+      "markdown_heading": 2
+    },
+    "reference-heading/eyebrow": {
+      "kind": "string",
+      "label": "英文眉题"
+    },
+    "reference-heading/text": {
+      "kind": "string",
+      "label": "分节标题",
+      "markdown_heading": 3
+    },
+    "reference-1/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-2/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-3/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-4/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-5/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-6/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-7/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-8/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-9/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "reference-10/text": {
+      "kind": "string",
+      "label": "正文"
+    },
+    "source-note/text": {
+      "kind": "string",
+      "label": "正文"
+    }
+  }
+}

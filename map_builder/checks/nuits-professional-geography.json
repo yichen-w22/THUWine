@@ -1,0 +1,82 @@
+{
+  "checked_date": "2026-11-14",
+  "selected_count": 36,
+  "selected_all_visible": true,
+  "selected_names_added_against_plain_baseline": [
+    "Aux Brûlées",
+    "Aux Combottes",
+    "Aux Murgers",
+    "Aux Perdrix",
+    "Aux Reignots",
+    "Champeaux",
+    "Clos Blanc",
+    "Clos Napoléon",
+    "Clos Sorbè",
+    "Clos de l’Arlot",
+    "Combe au Moine",
+    "Cros Parantoux",
+    "Lavaut Saint-Jacques",
+    "Les Baudes",
+    "Les Cazetiers",
+    "Les Chaffots",
+    "Les Charmes",
+    "Les Cras",
+    "Les Fuées",
+    "Les Hervelets",
+    "Les Millandes",
+    "Les Petits Monts",
+    "Les Petits Vougeots",
+    "Les Suchots",
+    "Monts Luisants"
+  ],
+  "bonnes_mares_commune_intersections": [
+    {
+      "commune": "Morey-Saint-Denis",
+      "area_ha": 1.5283
+    },
+    {
+      "commune": "Chambolle-Musigny",
+      "area_ha": 13.5199
+    }
+  ],
+  "charmes_mazoyeres_same_legal_geometry": true,
+  "charmes_mazoyeres_climat_division": "Not drawn; available sources define the common legal AOC area, not a separate confirmed climat boundary.",
+  "charmes_mazoyeres_reference": "https://www.vins-bourgogne.fr/nos-vins-nos-terroirs/la-bourgogne-et-ses-appellations/gallery_files/site/321/402/57486/57550.pdf",
+  "chambertin_clos_de_beze": "Legal eligibility overlaps. Clos de Beze is drawn above Chambertin so its geographic outline remains explicit.",
+  "north_and_scales": [
+    {
+      "panel": "cote",
+      "north_error_degrees_at_origin": -0.0,
+      "scale_250m_mm": 7.9954
+    },
+    {
+      "panel": "gevrey",
+      "north_error_degrees_at_origin": -0.0,
+      "scale_250m_mm": 29.1164
+    },
+    {
+      "panel": "vosne",
+      "north_error_degrees_at_origin": -0.0,
+      "scale_250m_mm": 37.1635
+    }
+  ],
+  "marsannay": "Village classification retained. Official material consulted does not confirm an approved premier-cru designation.",
+  "terrain": "IGN contour source has 5 m intervals, filtered to 25/10 m. 20 m RGE ALTI sample used only for background hillshade.",
+  "map_labels": {
+    "village": 13,
+    "premier": 64,
+    "grand": 33,
+    "elevation": 27,
+    "road": 17,
+    "landscape": 3,
+    "river": 2
+  },
+  "minimum_map_font_pt": 9.070866141732283,
+  "text_collisions": [],
+  "deferred_adjacent_labels": [],
+  "administrative_boundaries": "DGFiP / Etalab cadastral commune outlines. BD TOPO administrative lines replaced after a local mismatch at Bonnes-Mares.",
+  "bonnes_mares_official_reference": "https://www.vins-bourgogne.fr/vins-et-terroirs/la-bourgogne-et-ses-appellations/gallery_files/site/321/402/77490/77526.pdf",
+  "limitations": [
+    "Official-name orthographic aliases retained in data. The Charmes/Mazoyeres internal climat boundary remains unverified."
+  ]
+}

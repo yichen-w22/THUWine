@@ -1,0 +1,41 @@
+{
+  "version": "nuits-C-precise-01",
+  "geography_base": "nuits-professional-02.svg",
+  "style_reference": "original C from Nuits-styles-ABCD-01.png",
+  "path_checks": {
+    "cote": {
+      "original_paths_retained": 12654,
+      "all_geometry_preserved": true
+    },
+    "gevrey": {
+      "original_paths_retained": 273,
+      "all_geometry_preserved": true
+    },
+    "vosne": {
+      "original_paths_retained": 278,
+      "all_geometry_preserved": true
+    }
+  },
+  "source_label_count": 199,
+  "source_label_positions_preserved": true,
+  "main_premier_count": 73,
+  "north_up_and_scales": "Uniform page-layout scale 0.9; north and distance scales remain consistent",
+  "page_layout_transform": {
+    "scale": 0.9,
+    "translation_mm": [
+      30,
+      40
+    ]
+  },
+  "church_symbols_at_IGN_locations": 23,
+  "illustration": "Raster manuscript frame and woodland symbols; vector vineyard textures; forest and vineyard fills clipped to source polygons.",
+  "label_collisions": [],
+  "minimum_map_font_pt": 9.005669291338583,
+  "secondary_icon": "Saint Vincent retained per earlier user request",
+  "limitations": [
+    "Tree and vine-row symbols are illustrative textures, not individual surveyed trees or row directions.",
+    "Frame figures are newly drawn in original C style.",
+    "Charmes/Mazoyeres share the mapped AOC extent; internal climat division remains unverified."
+  ],
+  "frame_sha256": "ba8e3bc71899aa460faf69b8043a0232b4582c4eecd968c1ba2f090ea162796a"
+}

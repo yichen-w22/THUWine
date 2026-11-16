@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "title": "读懂《变量之书》：六支霞多丽，四类酿造选择",
+  "theme": "thuwine-classic-v1",
+  "assets": {},
+  "sources": {},
+  "sections": [
+    {
+      "id": "terroir",
+      "label": "风土介绍",
+      "blocks": []
+    },
+    {
+      "id": "winery",
+      "label": "酒庄介绍",
+      "blocks": []
+    },
+    {
+      "id": "wines",
+      "label": "酒款介绍",
+      "blocks": []
+    },
+    {
+      "id": "registration",
+      "label": "报名细节",
+      "blocks": []
+    }
+  ]
+}

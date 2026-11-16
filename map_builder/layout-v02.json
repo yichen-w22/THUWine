@@ -1,0 +1,184 @@
+{
+  "overview": {
+    "frame": [
+      24,
+      86,
+      174,
+      262
+    ],
+    "map": [
+      30,
+      109,
+      162,
+      220
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "rotation": 0,
+    "bounds": [
+      734000,
+      6571000,
+      861000,
+      6761000
+    ],
+    "title": "LA BOURGOGNE",
+    "subtitle": "Carte d’ensemble",
+    "scale": 20000,
+    "factor": 0.0011578947368421054,
+    "offset": [
+      37.473684210526315,
+      108.99999999999999
+    ]
+  },
+  "nuits": {
+    "frame": [
+      208,
+      86,
+      179,
+      708
+    ],
+    "map": [
+      214,
+      111,
+      167,
+      655
+    ],
+    "origin": [
+      848500,
+      6677800
+    ],
+    "rotation": 13.3,
+    "title": "CÔTE DE NUITS",
+    "subtitle": "De Marsannay à Corgoloin",
+    "scale": 2000,
+    "bounds": [
+      -2964.0,
+      -11821.114977836272,
+      2736.0,
+      11430.5228117691
+    ],
+    "factor": 0.028170058639603323,
+    "offset": [
+      217.21533287713055,
+      111.0
+    ]
+  },
+  "beaune": {
+    "frame": [
+      397,
+      86,
+      179,
+      708
+    ],
+    "map": [
+      403,
+      111,
+      167,
+      655
+    ],
+    "origin": [
+      835500,
+      6656000
+    ],
+    "rotation": 35,
+    "title": "CÔTE DE BEAUNE",
+    "subtitle": "De Corton aux Maranges",
+    "scale": 2000,
+    "bounds": [
+      -3640.0000000000005,
+      -14788.826962543217,
+      2859.9999999999995,
+      12336.204019520586
+    ],
+    "factor": 0.02414743785668349,
+    "offset": [
+      408.02082696577867,
+      111.0
+    ]
+  },
+  "vosne": {
+    "frame": [
+      24,
+      360,
+      174,
+      204
+    ],
+    "map": [
+      30,
+      385,
+      162,
+      128
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "rotation": 0,
+    "title": "A · VOSNE-ROMANÉE",
+    "subtitle": "Les grands crus",
+    "scale": 250,
+    "names": [
+      "Échezeaux",
+      "Grands Échezeaux",
+      "Richebourg",
+      "Romanée-Saint-Vivant",
+      "La Romanée",
+      "Romanée-Conti",
+      "La Grande Rue",
+      "La Tâche"
+    ],
+    "bounds": [
+      847279.0,
+      6674890.0,
+      848366.0,
+      6676879.0
+    ],
+    "factor": 0.06435394670688788,
+    "offset": [
+      76.02362996480645,
+      385.0
+    ]
+  },
+  "montrachet": {
+    "frame": [
+      24,
+      576,
+      174,
+      218
+    ],
+    "map": [
+      30,
+      601,
+      162,
+      133
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "rotation": 0,
+    "title": "B · MONTRACHET",
+    "subtitle": "Les cinq grands crus",
+    "scale": 250,
+    "names": [
+      "Chevalier-Montrachet",
+      "Montrachet",
+      "Bâtard-Montrachet",
+      "Bienvenues-Bâtard-Montrachet",
+      "Criots-Bâtard-Montrachet"
+    ],
+    "bounds": [
+      831840.0,
+      6650307.0,
+      832701.0,
+      6651445.0
+    ],
+    "factor": 0.11687170474516696,
+    "offset": [
+      60.686731107205624,
+      601.0
+    ]
+  }
+}

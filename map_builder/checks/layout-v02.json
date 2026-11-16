@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "overlaps": [],
+  "projection": "EPSG:2154",
+  "rigid_rotations_deg": {
+    "nuits": 13.3,
+    "beaune": 35
+  },
+  "detail_scale_ratio_vs_v01": {
+    "nuits": 2.95,
+    "beaune": 2.53
+  },
+  "panels": 5,
+  "dimensions_mm": [
+    600,
+    900
+  ]
+}

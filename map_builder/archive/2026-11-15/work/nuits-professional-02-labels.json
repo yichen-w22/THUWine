@@ -1,0 +1,5932 @@
+{
+  "version": "nuits-professional-02",
+  "main_premier_count": 73,
+  "added_labels": [
+    {
+      "text": "Les Damodes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        166.2449757875429,
+        593.6982483068876,
+        187.4171757875429,
+        597.6032483068877
+      ],
+      "size_mm": 3.55,
+      "x_mm": 166.2449757875429,
+      "y_mm": 596.7157483068877,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Damodes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        161.2449757875429,
+        595.7157483068877
+      ]
+    },
+    {
+      "text": "Les Pruliers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        128.81832409275506,
+        673.7975485282531,
+        147.77532409275506,
+        677.7025485282531
+      ],
+      "size_mm": 3.55,
+      "x_mm": 147.77532409275506,
+      "y_mm": 676.8150485282531,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Pruliers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        152.77532409275506,
+        675.8150485282531
+      ]
+    },
+    {
+      "text": "Clos des Forêts Saint-Georges",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        83.7947896493756,
+        723.1689705501066,
+        131.2085896493756,
+        727.0739705501067
+      ],
+      "size_mm": 3.55,
+      "x_mm": 131.2085896493756,
+      "y_mm": 726.1864705501066,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Forêts Saint-Georges",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        136.2085896493756,
+        725.1864705501066
+      ]
+    },
+    {
+      "text": "Les Chaumes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        179.52999423071924,
+        584.5447240933953,
+        200.41464423071923,
+        588.4497240933954
+      ],
+      "size_mm": 3.55,
+      "x_mm": 179.52999423071924,
+      "y_mm": 587.5622240933953,
+      "village": "Vosne-Romanée",
+      "source_name": "Vosne-Romanée premier cru Les Chaumes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        174.52999423071924,
+        586.5622240933953
+      ]
+    },
+    {
+      "text": "Aux Chaignots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        129.5499950799957,
+        608.0345499248232,
+        152.7705450799957,
+        611.9395499248233
+      ],
+      "size_mm": 3.55,
+      "x_mm": 152.7705450799957,
+      "y_mm": 611.0520499248232,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Chaignots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        157.7705450799957,
+        610.0520499248232
+      ]
+    },
+    {
+      "text": "Aux Thorey",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        126.68598521369123,
+        616.5659455300209,
+        145.14598521369123,
+        620.470945530021
+      ],
+      "size_mm": 3.55,
+      "x_mm": 145.14598521369123,
+      "y_mm": 619.583445530021,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Thorey",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        150.14598521369123,
+        618.583445530021
+      ]
+    },
+    {
+      "text": "Clos des Corvées",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        99.79607969647863,
+        733.5750100179083,
+        126.09447969647863,
+        737.4800100179084
+      ],
+      "size_mm": 3.55,
+      "x_mm": 126.09447969647863,
+      "y_mm": 736.5925100179084,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Corvées",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        131.09447969647863,
+        735.5925100179084
+      ]
+    },
+    {
+      "text": "Les Sentiers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        202.41891940882363,
+        461.03375666632377,
+        221.51436940882363,
+        464.93875666632374
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.41891940882363,
+      "y_mm": 464.05125666632375,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Sentiers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        197.41891940882363,
+        463.05125666632375
+      ]
+    },
+    {
+      "text": "Les Feusselottes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        156.07398976310253,
+        488.88843535355585,
+        181.44583976310253,
+        492.7934353535558
+      ],
+      "size_mm": 3.55,
+      "x_mm": 181.44583976310253,
+      "y_mm": 491.90593535355583,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Feusselottes ou Les Feusselotes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        186.44583976310253,
+        490.90593535355583
+      ]
+    },
+    {
+      "text": "Aux Bousselots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        126.34554415163629,
+        621.7203332983134,
+        150.0879441516363,
+        625.6253332983135
+      ],
+      "size_mm": 3.55,
+      "x_mm": 150.0879441516363,
+      "y_mm": 624.7378332983135,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Bousselots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        155.0879441516363,
+        623.7378332983135
+      ]
+    },
+    {
+      "text": "Clos des Argillières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        89.02188120294971,
+        738.9534348421893,
+        119.40988120294972,
+        742.8584348421894
+      ],
+      "size_mm": 3.55,
+      "x_mm": 119.40988120294972,
+      "y_mm": 741.9709348421893,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Argillières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        124.40988120294972,
+        740.9709348421893
+      ]
+    },
+    {
+      "text": "Aux Vignerondes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        167.0278726088535,
+        609.6106192872993,
+        194.1960226088535,
+        613.5156192872994
+      ],
+      "size_mm": 3.55,
+      "x_mm": 167.0278726088535,
+      "y_mm": 612.6281192872993,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Vignerondes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        162.0278726088535,
+        611.6281192872993
+      ]
+    },
+    {
+      "text": "Les Crâs",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        199.16209725779754,
+        512.9729333692829,
+        212.84734725779754,
+        516.877933369283
+      ],
+      "size_mm": 3.55,
+      "x_mm": 199.16209725779754,
+      "y_mm": 515.990433369283,
+      "village": "Vougeot",
+      "source_name": "Vougeot premier cru Les Crâs",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        194.16209725779754,
+        514.990433369283
+      ]
+    },
+    {
+      "text": "Fonteny",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        189.8613536934517,
+        351.1304007682356,
+        202.9786036934517,
+        355.03540076823555
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.9786036934517,
+      "y_mm": 354.14790076823556,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Fonteny",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        207.9786036934517,
+        353.14790076823556
+      ]
+    },
+    {
+      "text": "Clos des Porrets-Saint-Georges",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        94.26338288553025,
+        689.7557611403189,
+        143.82493288553025,
+        693.660761140319
+      ],
+      "size_mm": 3.55,
+      "x_mm": 143.82493288553025,
+      "y_mm": 692.7732611403189,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Porrets-Saint-Georges",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        148.82493288553025,
+        691.7732611403189
+      ]
+    },
+    {
+      "text": "Les Arvelets",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        190.7873086625468,
+        255.11246137127628,
+        210.04605866254678,
+        259.0174613712763
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.04605866254678,
+      "y_mm": 258.1299613712763,
+      "village": "Fixin",
+      "source_name": "Fixin premier cru Arvelets",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        215.04605866254678,
+        257.1299613712763
+      ]
+    },
+    {
+      "text": "Champonnet",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        208.87130679275344,
+        346.87051355368925,
+        229.35835679275345,
+        350.7755135536892
+      ],
+      "size_mm": 3.55,
+      "x_mm": 208.87130679275344,
+      "y_mm": 349.88801355368923,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Champonnet",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        203.87130679275344,
+        348.88801355368923
+      ]
+    },
+    {
+      "text": "Les Perrières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        147.4950381153169,
+        692.6329710580775,
+        168.3867881153169,
+        696.5379710580776
+      ],
+      "size_mm": 3.55,
+      "x_mm": 147.4950381153169,
+      "y_mm": 695.6504710580775,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Perrières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        142.4950381153169,
+        694.6504710580775
+      ]
+    },
+    {
+      "text": "Les Corbeaux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        219.5657277937956,
+        352.0401655590121,
+        241.0893777937956,
+        355.9451655590121
+      ],
+      "size_mm": 3.55,
+      "x_mm": 219.5657277937956,
+      "y_mm": 355.0576655590121,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Les Corbeaux",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        214.5657277937956,
+        354.0576655590121
+      ]
+    },
+    {
+      "text": "Clos des Ormes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        216.8890912628762,
+        420.3306663380226,
+        241.1284912628762,
+        424.23566633802255
+      ],
+      "size_mm": 3.55,
+      "x_mm": 216.8890912628762,
+      "y_mm": 423.34816633802257,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Clos des Ormes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        211.8890912628762,
+        422.34816633802257
+      ]
+    },
+    {
+      "text": "Les Chatelots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        191.76161265123574,
+        490.0286006421392,
+        212.86636265123573,
+        493.9336006421392
+      ],
+      "size_mm": 3.55,
+      "x_mm": 191.76161265123574,
+      "y_mm": 493.0461006421392,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Chatelots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        186.76161265123574,
+        487.0461006421392
+      ]
+    },
+    {
+      "text": "Les Gruenchers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        195.9880746699652,
+        475.0639530591015,
+        220.66767466996518,
+        478.96895305910147
+      ],
+      "size_mm": 3.55,
+      "x_mm": 195.9880746699652,
+      "y_mm": 478.0814530591015,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Gruenchers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        190.9880746699652,
+        477.0814530591015
+      ]
+    },
+    {
+      "text": "Craipillot",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        210.2856680576994,
+        341.2109562102723,
+        225.5577680576994,
+        345.11595621027226
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.2856680576994,
+      "y_mm": 344.22845621027227,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Craipillot",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        205.2856680576994,
+        343.22845621027227
+      ]
+    },
+    {
+      "text": "Les Sorbès",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        210.75579440669242,
+        446.0268447885773,
+        227.6679944066924,
+        449.9318447885773
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.75579440669242,
+      "y_mm": 449.0443447885773,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Sorbès",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        205.75579440669242,
+        448.0443447885773
+      ]
+    },
+    {
+      "text": "Les Ruchots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        202.2276077613251,
+        455.38375703811647,
+        221.24495776132508,
+        459.28875703811644
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.2276077613251,
+      "y_mm": 458.40125703811646,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Ruchots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        197.2276077613251,
+        457.40125703811646
+      ]
+    },
+    {
+      "text": "La Riotte",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        213.35702580773744,
+        429.38445327813855,
+        227.98302580773745,
+        433.2894532781385
+      ],
+      "size_mm": 3.55,
+      "x_mm": 213.35702580773744,
+      "y_mm": 432.40195327813854,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru La Riotte",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        208.35702580773744,
+        436.40195327813854
+      ]
+    },
+    {
+      "text": "Les Didiers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        115.06627958372489,
+        717.1577273949823,
+        132.9227795837249,
+        721.0627273949824
+      ],
+      "size_mm": 3.55,
+      "x_mm": 132.9227795837249,
+      "y_mm": 720.1752273949824,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Didiers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        137.9227795837249,
+        719.1752273949824
+      ]
+    },
+    {
+      "text": "Poissenot",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        141.64725310957547,
+        333.52283142939444,
+        156.74185310957546,
+        337.4278314293944
+      ],
+      "size_mm": 3.55,
+      "x_mm": 156.74185310957546,
+      "y_mm": 336.5403314293944,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Poissenot",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        181.74185310957546,
+        335.5403314293944
+      ]
+    },
+    {
+      "text": "Clos des Grandes Vignes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        140.50153342629937,
+        740.259588167044,
+        179.38468342629938,
+        744.164588167044
+      ],
+      "size_mm": 3.55,
+      "x_mm": 140.50153342629937,
+      "y_mm": 743.277088167044,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Grandes Vignes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        135.50153342629937,
+        742.277088167044
+      ]
+    },
+    {
+      "text": "Rue de Chaux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        127.08739037359368,
+        662.0279262860003,
+        148.85599037359367,
+        665.9329262860003
+      ],
+      "size_mm": 3.55,
+      "x_mm": 148.85599037359367,
+      "y_mm": 665.0454262860003,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Rue de Chaux",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        153.85599037359367,
+        664.0454262860003
+      ]
+    },
+    {
+      "text": "Clos des Réas",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        191.13550147493243,
+        592.6612835478753,
+        212.55265147493242,
+        596.5662835478754
+      ],
+      "size_mm": 3.55,
+      "x_mm": 191.13550147493243,
+      "y_mm": 595.6787835478754,
+      "village": "Vosne-Romanée",
+      "source_name": "Vosne-Romanée premier cru Clos des Réas",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        183.13550147493243,
+        589.6787835478754
+      ]
+    },
+    {
+      "text": "Estournelles-Saint-Jacques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        207.58953951203148,
+        328.73439035326913,
+        251.01668951203146,
+        332.6393903532691
+      ],
+      "size_mm": 3.55,
+      "x_mm": 207.58953951203148,
+      "y_mm": 331.7518903532691,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Estournelles-Saint-Jacques",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        189.58953951203148,
+        335.7518903532691
+      ]
+    },
+    {
+      "text": "Les Meix Bas",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        217.46914399996362,
+        269.86299161252276,
+        238.21534399996364,
+        273.76799161252274
+      ],
+      "size_mm": 3.55,
+      "x_mm": 217.46914399996362,
+      "y_mm": 272.88049161252275,
+      "village": "Fixin",
+      "source_name": "Fixin premier cru Les Meix Bas",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        212.46914399996362,
+        266.88049161252275
+      ]
+    },
+    {
+      "text": "Les Goulots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        204.24601464474102,
+        309.19753033321643,
+        222.652764644741,
+        313.1025303332164
+      ],
+      "size_mm": 3.55,
+      "x_mm": 204.24601464474102,
+      "y_mm": 312.2150303332164,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Les Goulots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        199.24601464474102,
+        311.2150303332164
+      ]
+    },
+    {
+      "text": "Les Hauts Doix",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        197.51746264393813,
+        500.47121655786935,
+        221.70716264393812,
+        504.3762165578693
+      ],
+      "size_mm": 3.55,
+      "x_mm": 197.51746264393813,
+      "y_mm": 503.48871655786934,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Hauts Doix",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        192.51746264393813,
+        502.48871655786934
+      ]
+    },
+    {
+      "text": "Les Faconnières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        214.62705539963645,
+        415.70705751551753,
+        240.27225539963644,
+        419.6120575155175
+      ],
+      "size_mm": 3.55,
+      "x_mm": 214.62705539963645,
+      "y_mm": 418.7245575155175,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Faconnières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        209.62705539963645,
+        427.7245575155175
+      ]
+    },
+    {
+      "text": "Les Borniques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        195.29327644566456,
+        505.1452585750539,
+        217.72927644566457,
+        509.0502585750539
+      ],
+      "size_mm": 3.55,
+      "x_mm": 195.29327644566456,
+      "y_mm": 508.1627585750539,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Borniques",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        183.29327644566456,
+        502.1627585750539
+      ]
+    },
+    {
+      "text": "Clos du Roy",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        263.2397098331833,
+        109.9420795521955,
+        282.67960983318335,
+        113.9570795521955
+      ],
+      "size_mm": 3.65,
+      "x_mm": 282.67960983318335,
+      "y_mm": 113.0445795521955,
+      "village": "Marsannay",
+      "source_name": "le Clos du Roy",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        287.67960983318335,
+        112.0445795521955
+      ]
+    },
+    {
+      "text": "Les Grasses Têtes",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        214.7831207849,
+        176.61344778844156,
+        243.4502207849,
+        180.62844778844155
+      ],
+      "size_mm": 3.65,
+      "x_mm": 243.4502207849,
+      "y_mm": 179.71594778844155,
+      "village": "Marsannay",
+      "source_name": "les Grasses Têtes",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        248.4502207849,
+        178.71594778844155
+      ]
+    },
+    {
+      "text": "Les Favières",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        220.60390711388663,
+        185.51743752146373,
+        241.01105711388664,
+        189.53243752146372
+      ],
+      "size_mm": 3.65,
+      "x_mm": 241.01105711388664,
+      "y_mm": 188.61993752146373,
+      "village": "Marsannay",
+      "source_name": "les Favières",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        246.01105711388664,
+        187.61993752146373
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "panel": "cote",
+      "name": "Clos des Varoilles",
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Clos des Varoilles",
+      "reason": "No available collision-free label position"
+    },
+    {
+      "panel": "cote",
+      "name": "Les Blanchards",
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Blanchards",
+      "reason": "No available collision-free label position"
+    },
+    {
+      "panel": "cote",
+      "name": "Aux Beaux Bruns",
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Aux Beaux Bruns",
+      "reason": "No available collision-free label position"
+    },
+    {
+      "panel": "cote",
+      "name": "La Romanée",
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru La Romanée",
+      "reason": "No available collision-free label position"
+    }
+  ],
+  "label_boxes": [
+    {
+      "text": "Marsannay-la-Côte",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        267.755302893107,
+        182.95251513721888,
+        311.873302893107,
+        187.90251513721887
+      ],
+      "size_mm": 4.5,
+      "x_mm": 267.755302893107,
+      "y_mm": 186.77751513721887,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Couchey",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        250.09912851253466,
+        217.1247068063414,
+        268.68437851253464,
+        221.79970680634142
+      ],
+      "size_mm": 4.25,
+      "x_mm": 250.09912851253466,
+      "y_mm": 220.73720680634142,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Fixey",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        225.49760977788537,
+        252.90666062607778,
+        237.17235977788536,
+        257.5816606260778
+      ],
+      "size_mm": 4.25,
+      "x_mm": 225.49760977788537,
+      "y_mm": 256.5191606260778,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Brochon",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        243.77671499682765,
+        300.5497986133152,
+        262.6892149968277,
+        305.2247986133152
+      ],
+      "size_mm": 4.25,
+      "x_mm": 243.77671499682765,
+      "y_mm": 304.1622986133152,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Fixin",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        225.8645891787528,
+        263.5290542588744,
+        237.8210891787528,
+        268.4790542588744
+      ],
+      "size_mm": 4.5,
+      "x_mm": 225.8645891787528,
+      "y_mm": 267.3540542588744,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Gevrey-Chambertin",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        262.54113151128695,
+        336.57146339934553,
+        308.28363151128696,
+        341.5214633993455
+      ],
+      "size_mm": 4.5,
+      "x_mm": 262.54113151128695,
+      "y_mm": 340.3964633993455,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Morey-Saint-Denis",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        206.48297883891792,
+        437.84374897418894,
+        250.22297883891792,
+        442.79374897418893
+      ],
+      "size_mm": 4.5,
+      "x_mm": 206.48297883891792,
+      "y_mm": 441.66874897418893,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Chambolle-Musigny",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        181.17644821431168,
+        480.4958542856155,
+        227.63444821431167,
+        485.4458542856155
+      ],
+      "size_mm": 4.5,
+      "x_mm": 181.17644821431168,
+      "y_mm": 484.3208542856155,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Vosne-Romanée",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        194.000998401596,
+        577.444269753684,
+        231.94049840159602,
+        582.3942697536841
+      ],
+      "size_mm": 4.5,
+      "x_mm": 194.000998401596,
+      "y_mm": 581.2692697536841,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Flagey-Échezeaux",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        247.78806648373939,
+        551.9454501793487,
+        289.0215664837394,
+        556.8954501793487
+      ],
+      "size_mm": 4.5,
+      "x_mm": 247.78806648373939,
+      "y_mm": 555.7704501793487,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Vougeot",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        207.7499457343074,
+        518.2912874062138,
+        226.9064457343074,
+        523.2412874062138
+      ],
+      "size_mm": 4.5,
+      "x_mm": 207.7499457343074,
+      "y_mm": 522.1162874062138,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Nuits-Saint-Georges",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        181.62230245572937,
+        659.9718295969767,
+        228.51680245572936,
+        664.9218295969767
+      ],
+      "size_mm": 4.5,
+      "x_mm": 181.62230245572937,
+      "y_mm": 663.7968295969767,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Premeaux-Prissey",
+      "panel": "cote",
+      "kind": "village",
+      "bounds": [
+        136.00707564700133,
+        747.0821826011932,
+        178.10907564700133,
+        752.0321826011932
+      ],
+      "size_mm": 4.5,
+      "x_mm": 136.00707564700133,
+      "y_mm": 750.9071826011932,
+      "anchor": "start",
+      "font": "bold",
+      "priority": 2
+    },
+    {
+      "text": "Les Hervelets",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        184.9826191227084,
+        260.4567677302484,
+        207.03226912270839,
+        264.4717677302484
+      ],
+      "size_mm": 3.65,
+      "x_mm": 207.03226912270839,
+      "y_mm": 263.5592677302484,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos Napoléon",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        185.31217218835897,
+        269.34705884330555,
+        208.94592218835896,
+        273.3620588433056
+      ],
+      "size_mm": 3.65,
+      "x_mm": 208.94592218835896,
+      "y_mm": 272.44955884330557,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos de la Perrière",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        174.0548098370566,
+        274.1588043224555,
+        204.0906598370566,
+        278.17380432245557
+      ],
+      "size_mm": 3.65,
+      "x_mm": 204.0906598370566,
+      "y_mm": 277.26130432245554,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos du Chapitre",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        181.97772929565627,
+        280.69223637038607,
+        209.20672929565626,
+        284.7072363703861
+      ],
+      "size_mm": 3.65,
+      "x_mm": 209.20672929565626,
+      "y_mm": 283.7947363703861,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Champeaux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        180.22103312405295,
+        312.12225522517923,
+        199.77043312405294,
+        316.1372552251793
+      ],
+      "size_mm": 3.65,
+      "x_mm": 199.77043312405294,
+      "y_mm": 315.22475522517925,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Combe au Moine",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        166.5468897444924,
+        321.044650364588,
+        194.0569397444924,
+        325.05965036458804
+      ],
+      "size_mm": 3.65,
+      "x_mm": 194.0569397444924,
+      "y_mm": 324.147150364588,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Cazetiers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        172.21707770036465,
+        329.8016131554695,
+        193.70462770036465,
+        333.81661315546955
+      ],
+      "size_mm": 3.65,
+      "x_mm": 193.70462770036465,
+      "y_mm": 332.90411315546953,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos Saint-Jacques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        160.5770930053572,
+        336.6675132964528,
+        191.4414930053572,
+        340.68251329645284
+      ],
+      "size_mm": 3.65,
+      "x_mm": 191.4414930053572,
+      "y_mm": 339.7700132964528,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Lavaut Saint-Jacques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        150.71891956681117,
+        347.5940509402216,
+        186.38306956681117,
+        351.60905094022166
+      ],
+      "size_mm": 3.65,
+      "x_mm": 186.38306956681117,
+      "y_mm": 350.69655094022164,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Combottes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        174.26344831373981,
+        406.17661240980027,
+        198.84254831373983,
+        410.1916124098003
+      ],
+      "size_mm": 3.65,
+      "x_mm": 198.84254831373983,
+      "y_mm": 409.2791124098003,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Monts Luisants",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        163.5815744002106,
+        411.7144992321054,
+        188.8432244002106,
+        415.72949923210547
+      ],
+      "size_mm": 3.65,
+      "x_mm": 188.8432244002106,
+      "y_mm": 414.81699923210545,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Chaffots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        167.053211582772,
+        423.66898624698746,
+        187.124561582772,
+        427.6839862469875
+      ],
+      "size_mm": 3.65,
+      "x_mm": 187.124561582772,
+      "y_mm": 426.7714862469875,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos de la Roche",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        169.62772895303866,
+        418.72482209624604,
+        197.18152895303865,
+        422.90482209624605
+      ],
+      "size_mm": 3.8,
+      "x_mm": 197.18152895303865,
+      "y_mm": 421.95482209624606,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos Saint-Denis",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        163.65528965539175,
+        432.7683314668643,
+        191.83988965539174,
+        436.9483314668643
+      ],
+      "size_mm": 3.8,
+      "x_mm": 191.83988965539174,
+      "y_mm": 435.99833146686433,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Les Millandes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        180.01046772549,
+        440.4472914769803,
+        202.57841772549,
+        444.46229147698034
+      ],
+      "size_mm": 3.65,
+      "x_mm": 202.57841772549,
+      "y_mm": 443.5497914769803,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos des Lambrays",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        129.88326949365972,
+        435.70610372056717,
+        162.14526949365973,
+        439.8861037205672
+      ],
+      "size_mm": 3.8,
+      "x_mm": 162.14526949365973,
+      "y_mm": 438.9361037205672,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos Sorbè",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        183.36023421666476,
+        452.7311001349671,
+        200.59188421666477,
+        456.74610013496715
+      ],
+      "size_mm": 3.65,
+      "x_mm": 200.59188421666477,
+      "y_mm": 455.8336001349671,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos de Tart",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        167.35884007138822,
+        446.7205012647132,
+        187.9700400713882,
+        450.9005012647132
+      ],
+      "size_mm": 3.8,
+      "x_mm": 187.9700400713882,
+      "y_mm": 449.95050126471324,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Bonnes-Mares",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        159.01516395525525,
+        459.99287317345033,
+        183.76076395525524,
+        464.17287317345034
+      ],
+      "size_mm": 3.8,
+      "x_mm": 183.76076395525524,
+      "y_mm": 463.22287317345035,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Les Baudes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        163.04735829796238,
+        468.936848471706,
+        181.39955829796236,
+        472.95184847170606
+      ],
+      "size_mm": 3.65,
+      "x_mm": 181.39955829796236,
+      "y_mm": 472.03934847170603,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Fuées",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        163.2005050791302,
+        475.47762199256334,
+        178.88455507913022,
+        479.4926219925634
+      ],
+      "size_mm": 3.65,
+      "x_mm": 178.88455507913022,
+      "y_mm": 478.58012199256336,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Cras",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        160.5978075387637,
+        481.45229751899836,
+        174.6685575387637,
+        485.4672975189984
+      ],
+      "size_mm": 3.65,
+      "x_mm": 174.6685575387637,
+      "y_mm": 484.5547975189984,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Charmes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        168.06280918873466,
+        495.266677886605,
+        189.11965918873466,
+        499.28167788660505
+      ],
+      "size_mm": 3.65,
+      "x_mm": 189.11965918873466,
+      "y_mm": 498.36917788660503,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Amoureuses",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        156.38725726377274,
+        503.36643483123856,
+        182.85705726377273,
+        507.3814348312386
+      ],
+      "size_mm": 3.65,
+      "x_mm": 182.85705726377273,
+      "y_mm": 506.4689348312386,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Petits Vougeots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        152.35351697470026,
+        510.41320556595105,
+        183.86031697470025,
+        514.4282055659511
+      ],
+      "size_mm": 3.65,
+      "x_mm": 183.86031697470025,
+      "y_mm": 513.5157055659511,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos Blanc",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        168.2137835972442,
+        519.7044313633023,
+        185.3395835972442,
+        523.7194313633023
+      ],
+      "size_mm": 3.65,
+      "x_mm": 185.3395835972442,
+      "y_mm": 522.8069313633023,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Musigny",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        152.05485833623388,
+        516.0188825647742,
+        167.07625833623388,
+        520.1988825647743
+      ],
+      "size_mm": 3.8,
+      "x_mm": 167.07625833623388,
+      "y_mm": 519.2488825647742,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos de Vougeot",
+      "panel": "cote",
+      "kind": "grand",
+      "bounds": [
+        158.88331115989965,
+        530.4924963656335,
+        185.98491115989964,
+        534.6724963656336
+      ],
+      "size_mm": 3.8,
+      "x_mm": 185.98491115989964,
+      "y_mm": 533.7224963656336,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Les Beaux Monts",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        128.17354675594405,
+        549.2028980414407,
+        155.89894675594405,
+        553.2178980414407
+      ],
+      "size_mm": 3.65,
+      "x_mm": 155.89894675594405,
+      "y_mm": 552.3053980414406,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Brûlées",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        136.77110766006876,
+        553.9410355037917,
+        156.25480766006876,
+        557.9560355037917
+      ],
+      "size_mm": 3.65,
+      "x_mm": 156.25480766006876,
+      "y_mm": 557.0435355037916,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Suchots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        153.82538274835443,
+        538.9146597448935,
+        172.86378274835442,
+        542.9296597448935
+      ],
+      "size_mm": 3.65,
+      "x_mm": 172.86378274835442,
+      "y_mm": 542.0171597448934,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Cros Parantoux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        130.97074750391948,
+        559.5424869340577,
+        156.80909750391947,
+        563.5574869340577
+      ],
+      "size_mm": 3.65,
+      "x_mm": 156.80909750391947,
+      "y_mm": 562.6449869340577,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Petits Monts",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        128.37946725343312,
+        568.3717956988048,
+        155.1157172534331,
+        572.3867956988048
+      ],
+      "size_mm": 3.65,
+      "x_mm": 155.1157172534331,
+      "y_mm": 571.4742956988048,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Reignots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        136.51394137628512,
+        577.7500849948347,
+        158.18399137628512,
+        581.7650849948346
+      ],
+      "size_mm": 3.65,
+      "x_mm": 158.18399137628512,
+      "y_mm": 580.8525849948346,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Malconsorts",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        134.73865352286856,
+        586.3045555203653,
+        162.33630352286855,
+        590.3195555203653
+      ],
+      "size_mm": 3.65,
+      "x_mm": 162.33630352286855,
+      "y_mm": 589.4070555203652,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Boudots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        139.93030538837206,
+        592.0026028736402,
+        160.53090538837205,
+        596.0176028736402
+      ],
+      "size_mm": 3.65,
+      "x_mm": 160.53090538837205,
+      "y_mm": 595.1051028736401,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Murgers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        138.0173242169662,
+        601.5175240946783,
+        159.50852421696618,
+        605.5325240946783
+      ],
+      "size_mm": 3.65,
+      "x_mm": 159.50852421696618,
+      "y_mm": 604.6200240946782,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Cailles",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        119.77974901511433,
+        696.242208014396,
+        137.05519901511434,
+        700.257208014396
+      ],
+      "size_mm": 3.65,
+      "x_mm": 137.05519901511434,
+      "y_mm": 699.344708014396,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Vaucrains",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        106.10191383727533,
+        703.4040565950354,
+        129.34876383727533,
+        707.4190565950354
+      ],
+      "size_mm": 3.65,
+      "x_mm": 129.34876383727533,
+      "y_mm": 706.5065565950354,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Saint-Georges",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        104.57576903809807,
+        709.7017041325535,
+        134.36341903809807,
+        713.7167041325534
+      ],
+      "size_mm": 3.65,
+      "x_mm": 134.36341903809807,
+      "y_mm": 712.8042041325534,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Perdrix",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        104.70032799174025,
+        728.3126925886982,
+        124.28257799174025,
+        732.3276925886981
+      ],
+      "size_mm": 3.65,
+      "x_mm": 124.28257799174025,
+      "y_mm": 731.4151925886981,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos de l’Arlot",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        88.00066865271056,
+        748.8837566580996,
+        110.64891865271056,
+        752.8987566580996
+      ],
+      "size_mm": 3.65,
+      "x_mm": 110.64891865271056,
+      "y_mm": 751.9862566580996,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos de la Maréchale",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        70.65519592967715,
+        758.6525921533548,
+        104.61114592967715,
+        762.6675921533548
+      ],
+      "size_mm": 3.65,
+      "x_mm": 104.61114592967715,
+      "y_mm": 761.7550921533548,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "500",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        77.95279028165363,
+        497.183419463936,
+        83.57199028165364,
+        500.70341946393603
+      ],
+      "size_mm": 3.2,
+      "x_mm": 80.76239028165364,
+      "y_mm": 499.903419463936,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        45.4489337223332,
+        675.163137832722,
+        51.1865337223332,
+        678.683137832722
+      ],
+      "size_mm": 3.2,
+      "x_mm": 48.3177337223332,
+      "y_mm": 677.883137832722,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        32.78839796165733,
+        657.1420890233517,
+        38.52599796165733,
+        660.6620890233517
+      ],
+      "size_mm": 3.2,
+      "x_mm": 35.65719796165733,
+      "y_mm": 659.8620890233517,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "200",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        350.07622828856546,
+        649.5514105390387,
+        355.79462828856543,
+        653.0714105390387
+      ],
+      "size_mm": 3.2,
+      "x_mm": 352.93542828856545,
+      "y_mm": 652.2714105390387,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        120.76329681470696,
+        582.1787326996207,
+        126.50089681470696,
+        585.6987326996207
+      ],
+      "size_mm": 3.2,
+      "x_mm": 123.63209681470697,
+      "y_mm": 584.8987326996207,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        123.86493666645015,
+        466.76632695007095,
+        129.60253666645013,
+        470.286326950071
+      ],
+      "size_mm": 3.2,
+      "x_mm": 126.73373666645016,
+      "y_mm": 469.486326950071,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        32.94203991194239,
+        460.6147483016254,
+        38.67963991194239,
+        464.13474830162545
+      ],
+      "size_mm": 3.2,
+      "x_mm": 35.81083991194239,
+      "y_mm": 463.33474830162544,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "300",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        117.19344217244888,
+        630.0255807925552,
+        122.88944217244888,
+        633.5455807925551
+      ],
+      "size_mm": 3.2,
+      "x_mm": 120.04144217244888,
+      "y_mm": 632.7455807925552,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "500",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        88.76130594131308,
+        364.31802510372836,
+        94.38050594131309,
+        367.8380251037284
+      ],
+      "size_mm": 3.2,
+      "x_mm": 91.57090594131309,
+      "y_mm": 367.0380251037284,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "500",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        98.29950419728581,
+        302.89328643479183,
+        103.91870419728582,
+        306.41328643479187
+      ],
+      "size_mm": 3.2,
+      "x_mm": 101.10910419728582,
+      "y_mm": 305.61328643479186,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        30.604511603074947,
+        401.4763899703444,
+        36.34211160307495,
+        404.99638997034447
+      ],
+      "size_mm": 3.2,
+      "x_mm": 33.47331160307495,
+      "y_mm": 404.19638997034446,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "300",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        245.77623148878598,
+        155.90982200997152,
+        251.47223148878598,
+        159.42982200997153
+      ],
+      "size_mm": 3.2,
+      "x_mm": 248.624231488786,
+      "y_mm": 158.62982200997152,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "500",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        68.2742969577511,
+        319.6216643655953,
+        73.89349695775111,
+        323.1416643655953
+      ],
+      "size_mm": 3.2,
+      "x_mm": 71.08389695775111,
+      "y_mm": 322.3416643655953,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        185.1818072692771,
+        97.85195487270443,
+        190.9194072692771,
+        101.37195487270442
+      ],
+      "size_mm": 3.2,
+      "x_mm": 188.0506072692771,
+      "y_mm": 100.57195487270442,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        210.69652980925812,
+        144.0589938491332,
+        216.43412980925814,
+        147.5789938491332
+      ],
+      "size_mm": 3.2,
+      "x_mm": 213.56532980925812,
+      "y_mm": 146.7789938491332,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "cote",
+      "kind": "elevation",
+      "bounds": [
+        49.51425199265459,
+        408.66842356235964,
+        55.25185199265459,
+        412.1884235623597
+      ],
+      "size_mm": 3.2,
+      "x_mm": 52.38305199265459,
+      "y_mm": 411.38842356235966,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "M974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        298.6608291869121,
+        161.48292723820762,
+        306.8528291869121,
+        165.00292723820763
+      ],
+      "size_mm": 3.2,
+      "x_mm": 302.7568291869121,
+      "y_mm": 164.20292723820762,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "M974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        315.2869363646106,
+        124.87362229484566,
+        323.4789363646106,
+        128.39362229484567
+      ],
+      "size_mm": 3.2,
+      "x_mm": 319.3829363646106,
+      "y_mm": 127.59362229484566,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "M974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        322.5714381192589,
+        108.64205505317572,
+        330.7634381192589,
+        112.16205505317572
+      ],
+      "size_mm": 3.2,
+      "x_mm": 326.6674381192589,
+      "y_mm": 111.36205505317572,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "M122",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        265.49305493835607,
+        168.674333124253,
+        273.4130549383561,
+        172.194333124253
+      ],
+      "size_mm": 3.2,
+      "x_mm": 269.45305493835605,
+      "y_mm": 171.394333124253,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "M108",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        217.06086979678437,
+        130.67161945562262,
+        225.2752697967844,
+        134.19161945562263
+      ],
+      "size_mm": 3.2,
+      "x_mm": 221.16806979678438,
+      "y_mm": 133.39161945562262,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D122",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        206.47390069932032,
+        389.6157045475256,
+        213.82430069932033,
+        393.1357045475256
+      ],
+      "size_mm": 3.2,
+      "x_mm": 210.14910069932031,
+      "y_mm": 392.3357045475256,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        218.30908411477967,
+        408.5828997098347,
+        225.93148411477966,
+        412.10289970983473
+      ],
+      "size_mm": 3.2,
+      "x_mm": 222.12028411477968,
+      "y_mm": 411.3028997098347,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        104.10590323961614,
+        768.0224250426025,
+        111.72830323961614,
+        771.5424250426025
+      ],
+      "size_mm": 3.2,
+      "x_mm": 107.91710323961614,
+      "y_mm": 770.7424250426026,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D974",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        277.28489663640835,
+        214.51386661032788,
+        284.9072966364084,
+        218.0338666103279
+      ],
+      "size_mm": 3.2,
+      "x_mm": 281.09609663640833,
+      "y_mm": 217.23386661032788,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D31",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        136.63038483491226,
+        354.40617074050243,
+        142.16958483491226,
+        357.92617074050247
+      ],
+      "size_mm": 3.2,
+      "x_mm": 139.39998483491226,
+      "y_mm": 357.12617074050246,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D25",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        41.88319781736909,
+        638.0501263450176,
+        47.75839781736909,
+        641.5701263450176
+      ],
+      "size_mm": 3.2,
+      "x_mm": 44.82079781736909,
+      "y_mm": 640.7701263450176,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D109",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        246.39287782847737,
+        642.3308444000442,
+        253.94167782847737,
+        645.8508444000441
+      ],
+      "size_mm": 3.2,
+      "x_mm": 250.16727782847738,
+      "y_mm": 645.0508444000442,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D122H",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        148.49194952818303,
+        471.44037638146006,
+        158.45034952818304,
+        474.9603763814601
+      ],
+      "size_mm": 3.2,
+      "x_mm": 153.47114952818302,
+      "y_mm": 474.1603763814601,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D8",
+      "panel": "cote",
+      "kind": "road",
+      "bounds": [
+        298.78326943460684,
+        712.5706154479406,
+        303.0872694346068,
+        716.0906154479405
+      ],
+      "size_mm": 3.2,
+      "x_mm": 300.9352694346068,
+      "y_mm": 715.2906154479406,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "Combe de Fixin",
+      "panel": "cote",
+      "kind": "landscape",
+      "bounds": [
+        164.74231229932815,
+        252.70953403538792,
+        187.84726229932815,
+        256.3945340353879
+      ],
+      "size_mm": 3.35,
+      "x_mm": 176.29478729932816,
+      "y_mm": 255.55703403538791,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 5
+    },
+    {
+      "text": "Combe Pernant",
+      "panel": "cote",
+      "kind": "landscape",
+      "bounds": [
+        83.92784818834406,
+        602.6746005851636,
+        107.27064818834405,
+        606.3596005851635
+      ],
+      "size_mm": 3.35,
+      "x_mm": 95.59924818834406,
+      "y_mm": 605.5221005851636,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 5
+    },
+    {
+      "text": "Bois Communal de la Montagne",
+      "panel": "cote",
+      "kind": "landscape",
+      "bounds": [
+        95.97676960048688,
+        480.25577328581477,
+        144.0727196004869,
+        483.94077328581477
+      ],
+      "size_mm": 3.35,
+      "x_mm": 120.02474460048688,
+      "y_mm": 483.1032732858148,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 5
+    },
+    {
+      "text": "la Vouge",
+      "panel": "cote",
+      "kind": "river",
+      "bounds": [
+        321.67894789749363,
+        609.2721135275492,
+        335.0171478974936,
+        613.0121135275492
+      ],
+      "size_mm": 3.4,
+      "x_mm": 328.34804789749364,
+      "y_mm": 612.1621135275492,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 4
+    },
+    {
+      "text": "le Meuzin",
+      "panel": "cote",
+      "kind": "river",
+      "bounds": [
+        193.02964045776446,
+        715.714774334631,
+        207.65984045776446,
+        719.454774334631
+      ],
+      "size_mm": 3.4,
+      "x_mm": 200.34474045776446,
+      "y_mm": 718.604774334631,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 4
+    },
+    {
+      "text": "Charmes-Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        464.51819822604824,
+        305.9029559019999,
+        501.65559822604826,
+        310.0829559019999
+      ],
+      "size_mm": 3.8,
+      "x_mm": 483.0868982260482,
+      "y_mm": 309.13295590199994,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "/ Mazoyères-",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        471.76099822604823,
+        310.50295590199994,
+        494.4127982260482,
+        314.68295590199995
+      ],
+      "size_mm": 3.8,
+      "x_mm": 483.0868982260482,
+      "y_mm": 313.73295590199996,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        472.8686982260482,
+        315.10295590199996,
+        493.3050982260482,
+        319.28295590199997
+      ],
+      "size_mm": 3.8,
+      "x_mm": 483.0868982260482,
+      "y_mm": 318.332955902,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        452.48339921123113,
+        232.46736567593646,
+        472.9197992112311,
+        236.64736567593644
+      ],
+      "size_mm": 3.8,
+      "x_mm": 462.70159921123116,
+      "y_mm": 235.69736567593645,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Chambertin-",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        458.4481774843041,
+        202.6057739479863,
+        480.3057774843041,
+        206.78577394798629
+      ],
+      "size_mm": 3.8,
+      "x_mm": 469.3769774843041,
+      "y_mm": 205.8357739479863,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos de Bèze",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        458.9915774843041,
+        207.20577394798633,
+        479.7623774843041,
+        211.3857739479863
+      ],
+      "size_mm": 3.8,
+      "x_mm": 469.3769774843041,
+      "y_mm": 210.43577394798632,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Latricières-",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        440.522846506352,
+        313.1842360168509,
+        460.446246506352,
+        317.3642360168509
+      ],
+      "size_mm": 3.8,
+      "x_mm": 450.484546506352,
+      "y_mm": 316.4142360168509,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        440.26634650635197,
+        317.7842360168509,
+        460.70274650635196,
+        321.9642360168509
+      ],
+      "size_mm": 3.8,
+      "x_mm": 450.484546506352,
+      "y_mm": 321.01423601685093,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Ruchottes-Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        409.68613223131723,
+        156.36410592486615,
+        447.3521322313172,
+        160.43410592486617
+      ],
+      "size_mm": 3.7,
+      "x_mm": 447.3521322313172,
+      "y_mm": 159.50910592486616,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Mazis-Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        439.89743072827645,
+        162.8469135707896,
+        471.0662307282764,
+        166.91691357078963
+      ],
+      "size_mm": 3.7,
+      "x_mm": 471.0662307282764,
+      "y_mm": 165.99191357078962,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Chapelle-Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        500.2521227567777,
+        203.7790516850259,
+        535.8535227567777,
+        207.84905168502593
+      ],
+      "size_mm": 3.7,
+      "x_mm": 500.2521227567777,
+      "y_mm": 206.92405168502592,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Griotte-Chambertin",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        498.19422833064164,
+        236.8046459920192,
+        531.2648283306416,
+        240.87464599201923
+      ],
+      "size_mm": 3.7,
+      "x_mm": 498.19422833064164,
+      "y_mm": 239.9496459920192,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos de la Roche",
+      "panel": "gevrey",
+      "kind": "grand",
+      "bounds": [
+        420.57715997810624,
+        362.89970741290597,
+        445.95565997810627,
+        366.749707412906
+      ],
+      "size_mm": 3.5,
+      "x_mm": 445.95565997810627,
+      "y_mm": 365.874707412906,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Monts Luisants",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        387.7091790592309,
+        349.02192186685744,
+        410.5484790592309,
+        352.65192186685744
+      ],
+      "size_mm": 3.3,
+      "x_mm": 410.5484790592309,
+      "y_mm": 351.82692186685745,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Combottes",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        441.88919556640946,
+        345.72726667596027,
+        464.11139556640944,
+        349.35726667596026
+      ],
+      "size_mm": 3.3,
+      "x_mm": 453.0002955664095,
+      "y_mm": 348.5322666759603,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Petite Chapelle",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        519.4441116956586,
+        212.85019187576137,
+        541.4089116956586,
+        216.48019187576136
+      ],
+      "size_mm": 3.3,
+      "x_mm": 519.4441116956586,
+      "y_mm": 215.65519187576137,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Bel Air",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        443.97324428758344,
+        186.0797770531429,
+        454.14054428758345,
+        189.7097770531429
+      ],
+      "size_mm": 3.3,
+      "x_mm": 449.0568942875834,
+      "y_mm": 188.8847770531429,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Corbeaux",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        478.3905631572109,
+        130.3827963191364,
+        498.3984631572109,
+        134.01279631913638
+      ],
+      "size_mm": 3.3,
+      "x_mm": 488.3945131572109,
+      "y_mm": 133.1877963191364,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "La Perrière",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        513.7885130227369,
+        154.23483571915887,
+        530.6977130227369,
+        157.86483571915886
+      ],
+      "size_mm": 3.3,
+      "x_mm": 513.7885130227369,
+      "y_mm": 157.03983571915887,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Cherbaudes",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        493.24562258913096,
+        180.81838650773744,
+        510.79502258913095,
+        184.44838650773744
+      ],
+      "size_mm": 3.3,
+      "x_mm": 502.02032258913096,
+      "y_mm": 183.62338650773745,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Clos Prieur",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        496.98668971794,
+        168.37516216764226,
+        513.52628971794,
+        172.00516216764225
+      ],
+      "size_mm": 3.3,
+      "x_mm": 505.25648971794,
+      "y_mm": 171.18016216764227,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Fonteny",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        443.5952418127648,
+        132.81625461932737,
+        455.7887418127648,
+        136.44625461932736
+      ],
+      "size_mm": 3.3,
+      "x_mm": 455.7887418127648,
+      "y_mm": 135.62125461932737,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "En Ergot",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        523.6625967408036,
+        225.02291027461644,
+        537.0440967408035,
+        228.65291027461643
+      ],
+      "size_mm": 3.3,
+      "x_mm": 523.6625967408036,
+      "y_mm": 227.82791027461644,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Cheseaux",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        496.09386944286234,
+        366.4674470067769,
+        516.6099694428624,
+        370.0974470067769
+      ],
+      "size_mm": 3.3,
+      "x_mm": 496.09386944286234,
+      "y_mm": 369.27244700677693,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Charmes",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        447.36614842561744,
+        365.87124177923425,
+        467.19584842561744,
+        369.50124177923425
+      ],
+      "size_mm": 3.3,
+      "x_mm": 467.19584842561744,
+      "y_mm": 368.67624177923426,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Issarts",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        435.59632594957594,
+        138.27340499142184,
+        445.70752594957594,
+        141.90340499142184
+      ],
+      "size_mm": 3.3,
+      "x_mm": 445.70752594957594,
+      "y_mm": 141.07840499142185,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Au Closeau",
+      "panel": "gevrey",
+      "kind": "premier",
+      "bounds": [
+        510.02386421564734,
+        145.86931804502848,
+        526.5304642156474,
+        149.49931804502847
+      ],
+      "size_mm": 3.3,
+      "x_mm": 510.02386421564734,
+      "y_mm": 148.67431804502849,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "300",
+      "panel": "gevrey",
+      "kind": "elevation",
+      "bounds": [
+        435.8192133817094,
+        285.80255073853226,
+        441.51521338170943,
+        289.3225507385323
+      ],
+      "size_mm": 3.2,
+      "x_mm": 438.6672133817094,
+      "y_mm": 288.5225507385323,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "350",
+      "panel": "gevrey",
+      "kind": "elevation",
+      "bounds": [
+        420.1791310195894,
+        233.6381370027984,
+        425.5999310195894,
+        237.1581370027984
+      ],
+      "size_mm": 3.2,
+      "x_mm": 422.8895310195894,
+      "y_mm": 236.3581370027984,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "350",
+      "panel": "gevrey",
+      "kind": "elevation",
+      "bounds": [
+        399.11774633039437,
+        320.4918533003304,
+        404.53854633039435,
+        324.0118533003304
+      ],
+      "size_mm": 3.2,
+      "x_mm": 401.82814633039436,
+      "y_mm": 323.2118533003304,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "250",
+      "panel": "gevrey",
+      "kind": "elevation",
+      "bounds": [
+        543.6689469624449,
+        295.79739097206084,
+        549.112146962445,
+        299.3173909720609
+      ],
+      "size_mm": 3.2,
+      "x_mm": 546.3905469624449,
+      "y_mm": 298.51739097206087,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "400",
+      "panel": "gevrey",
+      "kind": "elevation",
+      "bounds": [
+        394.90760676019386,
+        162.7036886029171,
+        400.64520676019384,
+        166.22368860291712
+      ],
+      "size_mm": 3.2,
+      "x_mm": 397.7764067601939,
+      "y_mm": 165.4236886029171,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "D974",
+      "panel": "gevrey",
+      "kind": "road",
+      "bounds": [
+        512.1138570208861,
+        338.5794070060113,
+        519.7362570208861,
+        342.09940700601135
+      ],
+      "size_mm": 3.2,
+      "x_mm": 515.9250570208861,
+      "y_mm": 341.29940700601134,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "D122",
+      "panel": "gevrey",
+      "kind": "road",
+      "bounds": [
+        468.67929876591575,
+        269.49262093548356,
+        476.0296987659157,
+        273.0126209354836
+      ],
+      "size_mm": 3.2,
+      "x_mm": 472.35449876591576,
+      "y_mm": 272.2126209354836,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "Grands",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        495.40258392274205,
+        524.9478730567196,
+        508.1515839227421,
+        529.1278730567196
+      ],
+      "size_mm": 3.8,
+      "x_mm": 501.77708392274207,
+      "y_mm": 528.1778730567196,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Échezeaux",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        492.83378392274204,
+        529.5478730567195,
+        510.72038392274203,
+        533.7278730567195
+      ],
+      "size_mm": 3.8,
+      "x_mm": 501.77708392274207,
+      "y_mm": 532.7778730567195,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Échezeaux",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        456.39280541897125,
+        483.20298306397626,
+        474.27940541897124,
+        487.38298306397627
+      ],
+      "size_mm": 3.8,
+      "x_mm": 465.3361054189713,
+      "y_mm": 486.4329830639763,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "La Tâche",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        445.28224653018026,
+        712.5401804308453,
+        460.85844653018023,
+        716.7201804308454
+      ],
+      "size_mm": 3.8,
+      "x_mm": 453.07034653018025,
+      "y_mm": 715.7701804308454,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Richebourg",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        432.0588699307849,
+        636.6868465193683,
+        451.7732699307849,
+        640.8668465193683
+      ],
+      "size_mm": 3.8,
+      "x_mm": 441.9160699307849,
+      "y_mm": 639.9168465193683,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Romanée-",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        470.96845195011616,
+        655.9784937087377,
+        488.44465195011617,
+        660.1584937087378
+      ],
+      "size_mm": 3.8,
+      "x_mm": 479.70655195011614,
+      "y_mm": 659.2084937087377,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Saint-Vivant",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        468.77395195011616,
+        660.5784937087376,
+        490.6391519501162,
+        664.7584937087377
+      ],
+      "size_mm": 3.8,
+      "x_mm": 479.70655195011614,
+      "y_mm": 663.8084937087376,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "La Romanée",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        415.0290978588656,
+        678.7447449201904,
+        435.9081978588656,
+        682.8147449201904
+      ],
+      "size_mm": 3.7,
+      "x_mm": 435.9081978588656,
+      "y_mm": 681.8897449201904,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Romanée-Conti",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        425.0491889607878,
+        689.1924573196052,
+        450.99358896078775,
+        693.2624573196051
+      ],
+      "size_mm": 3.7,
+      "x_mm": 450.99358896078775,
+      "y_mm": 692.3374573196052,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "La Grande Rue",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        435.14530805566096,
+        701.969852292114,
+        460.32010805566097,
+        706.0398522921139
+      ],
+      "size_mm": 3.7,
+      "x_mm": 460.32010805566097,
+      "y_mm": 705.1148522921139,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Clos de",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        534.1287411708355,
+        513.7750237977295,
+        546.2241411708355,
+        517.9550237977296
+      ],
+      "size_mm": 3.8,
+      "x_mm": 540.1764411708355,
+      "y_mm": 517.0050237977296,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Vougeot",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        533.1312411708354,
+        518.3750237977295,
+        547.2216411708355,
+        522.5550237977295
+      ],
+      "size_mm": 3.8,
+      "x_mm": 540.1764411708355,
+      "y_mm": 521.6050237977295,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Musigny",
+      "panel": "vosne",
+      "kind": "grand",
+      "bounds": [
+        485.7501124090243,
+        456.26739699007476,
+        500.7715124090243,
+        460.44739699007476
+      ],
+      "size_mm": 3.8,
+      "x_mm": 493.2608124090243,
+      "y_mm": 459.4973969900748,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 1
+    },
+    {
+      "text": "Les Suchots",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        486.7375395528112,
+        623.8121501569916,
+        503.9503395528112,
+        627.4421501569916
+      ],
+      "size_mm": 3.3,
+      "x_mm": 495.3439395528112,
+      "y_mm": 626.6171501569916,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Beaux Monts",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        403.99873948980553,
+        597.4004626472528,
+        429.06553948980553,
+        601.0304626472528
+      ],
+      "size_mm": 3.3,
+      "x_mm": 416.53213948980556,
+      "y_mm": 600.2054626472527,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Brûlées",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        409.33668763147335,
+        619.2744377742569,
+        426.9520876314734,
+        622.9044377742568
+      ],
+      "size_mm": 3.3,
+      "x_mm": 418.14438763147336,
+      "y_mm": 622.0794377742568,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Petits Monts",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        400.70841454710927,
+        662.5871270529973,
+        424.8809145471093,
+        666.2171270529973
+      ],
+      "size_mm": 3.3,
+      "x_mm": 412.7946645471093,
+      "y_mm": 665.3921270529972,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Malconsorts",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        425.5436840135814,
+        739.3903048254364,
+        450.4949840135814,
+        743.0203048254364
+      ],
+      "size_mm": 3.3,
+      "x_mm": 450.4949840135814,
+      "y_mm": 742.1953048254363,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Aux Reignots",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        401.625726565291,
+        684.5390074160463,
+        421.21782656529103,
+        688.1690074160463
+      ],
+      "size_mm": 3.3,
+      "x_mm": 421.21782656529103,
+      "y_mm": 687.3440074160462,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Cros Parantoux",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        391.37002445459547,
+        646.3113297536551,
+        414.7307244545955,
+        649.941329753655
+      ],
+      "size_mm": 3.3,
+      "x_mm": 414.7307244545955,
+      "y_mm": 649.116329753655,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Chaumes",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        491.9229817666346,
+        735.8063548622234,
+        511.33688176663463,
+        739.4363548622234
+      ],
+      "size_mm": 3.3,
+      "x_mm": 491.9229817666346,
+      "y_mm": 738.6113548622234,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Rouges",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        402.8072476911861,
+        532.061694370634,
+        419.4326476911861,
+        535.691694370634
+      ],
+      "size_mm": 3.3,
+      "x_mm": 411.1199476911861,
+      "y_mm": 534.8666943706339,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "La Combe d'Orveau",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        435.97340328280984,
+        462.72879791101906,
+        465.28400328280986,
+        466.35879791101905
+      ],
+      "size_mm": 3.3,
+      "x_mm": 465.28400328280986,
+      "y_mm": 465.53379791101906,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "En Orveaux",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        408.0859068602555,
+        498.551828721473,
+        425.68810686025546,
+        502.181828721473
+      ],
+      "size_mm": 3.3,
+      "x_mm": 416.8870068602555,
+      "y_mm": 501.356828721473,
+      "anchor": "middle",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Au-dessus des Malconsorts",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        426.87317764019826,
+        731.2223820714793,
+        466.69757764019823,
+        734.8523820714793
+      ],
+      "size_mm": 3.3,
+      "x_mm": 426.87317764019826,
+      "y_mm": 734.0273820714792,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "Les Gaudichots",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        410.38387801375126,
+        722.8768604739383,
+        432.90637801375124,
+        726.5068604739383
+      ],
+      "size_mm": 3.3,
+      "x_mm": 432.90637801375124,
+      "y_mm": 725.6818604739383,
+      "anchor": "end",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "La Croix Rameau",
+      "panel": "vosne",
+      "kind": "premier",
+      "bounds": [
+        520.3539357661502,
+        662.3832206927985,
+        546.3282357661502,
+        666.0132206927985
+      ],
+      "size_mm": 3.3,
+      "x_mm": 520.3539357661502,
+      "y_mm": 665.1882206927985,
+      "anchor": "start",
+      "font": "italic",
+      "priority": 3
+    },
+    {
+      "text": "350",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        387.85129482984,
+        517.7841958181369,
+        393.27209482984,
+        521.3041958181369
+      ],
+      "size_mm": 3.2,
+      "x_mm": 390.56169482984,
+      "y_mm": 520.504195818137,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "250",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        542.3533170356403,
+        454.38493777253814,
+        547.7965170356404,
+        457.9049377725382
+      ],
+      "size_mm": 3.2,
+      "x_mm": 545.0749170356403,
+      "y_mm": 457.10493777253816,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "250",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        542.6697216596066,
+        567.619774364378,
+        548.1129216596066,
+        571.139774364378
+      ],
+      "size_mm": 3.2,
+      "x_mm": 545.3913216596065,
+      "y_mm": 570.3397743643781,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "300",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        410.71636758987046,
+        466.44386607885264,
+        416.4123675898705,
+        469.9638660788527
+      ],
+      "size_mm": 3.2,
+      "x_mm": 413.56436758987047,
+      "y_mm": 469.16386607885266,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "300",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        413.5361142409624,
+        509.8173226842124,
+        419.2321142409624,
+        513.3373226842124
+      ],
+      "size_mm": 3.2,
+      "x_mm": 416.3841142409624,
+      "y_mm": 512.5373226842124,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "300",
+      "panel": "vosne",
+      "kind": "elevation",
+      "bounds": [
+        414.04382200051583,
+        700.1498255420217,
+        419.73982200051586,
+        703.6698255420217
+      ],
+      "size_mm": 3.2,
+      "x_mm": 416.89182200051584,
+      "y_mm": 702.8698255420218,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 7
+    },
+    {
+      "text": "D109",
+      "panel": "vosne",
+      "kind": "road",
+      "bounds": [
+        490.4066378404688,
+        647.54604678361,
+        497.9554378404688,
+        651.06604678361
+      ],
+      "size_mm": 3.2,
+      "x_mm": 494.18103784046883,
+      "y_mm": 650.26604678361,
+      "anchor": "middle",
+      "font": "regular",
+      "priority": 6
+    },
+    {
+      "text": "Les Damodes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        166.2449757875429,
+        593.6982483068876,
+        187.4171757875429,
+        597.6032483068877
+      ],
+      "size_mm": 3.55,
+      "x_mm": 166.2449757875429,
+      "y_mm": 596.7157483068877,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Damodes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        161.2449757875429,
+        595.7157483068877
+      ]
+    },
+    {
+      "text": "Les Pruliers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        128.81832409275506,
+        673.7975485282531,
+        147.77532409275506,
+        677.7025485282531
+      ],
+      "size_mm": 3.55,
+      "x_mm": 147.77532409275506,
+      "y_mm": 676.8150485282531,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Pruliers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        152.77532409275506,
+        675.8150485282531
+      ]
+    },
+    {
+      "text": "Clos des Forêts Saint-Georges",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        83.7947896493756,
+        723.1689705501066,
+        131.2085896493756,
+        727.0739705501067
+      ],
+      "size_mm": 3.55,
+      "x_mm": 131.2085896493756,
+      "y_mm": 726.1864705501066,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Forêts Saint-Georges",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        136.2085896493756,
+        725.1864705501066
+      ]
+    },
+    {
+      "text": "Les Chaumes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        179.52999423071924,
+        584.5447240933953,
+        200.41464423071923,
+        588.4497240933954
+      ],
+      "size_mm": 3.55,
+      "x_mm": 179.52999423071924,
+      "y_mm": 587.5622240933953,
+      "village": "Vosne-Romanée",
+      "source_name": "Vosne-Romanée premier cru Les Chaumes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        174.52999423071924,
+        586.5622240933953
+      ]
+    },
+    {
+      "text": "Aux Chaignots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        129.5499950799957,
+        608.0345499248232,
+        152.7705450799957,
+        611.9395499248233
+      ],
+      "size_mm": 3.55,
+      "x_mm": 152.7705450799957,
+      "y_mm": 611.0520499248232,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Chaignots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        157.7705450799957,
+        610.0520499248232
+      ]
+    },
+    {
+      "text": "Aux Thorey",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        126.68598521369123,
+        616.5659455300209,
+        145.14598521369123,
+        620.470945530021
+      ],
+      "size_mm": 3.55,
+      "x_mm": 145.14598521369123,
+      "y_mm": 619.583445530021,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Thorey",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        150.14598521369123,
+        618.583445530021
+      ]
+    },
+    {
+      "text": "Clos des Corvées",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        99.79607969647863,
+        733.5750100179083,
+        126.09447969647863,
+        737.4800100179084
+      ],
+      "size_mm": 3.55,
+      "x_mm": 126.09447969647863,
+      "y_mm": 736.5925100179084,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Corvées",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        131.09447969647863,
+        735.5925100179084
+      ]
+    },
+    {
+      "text": "Les Sentiers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        202.41891940882363,
+        461.03375666632377,
+        221.51436940882363,
+        464.93875666632374
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.41891940882363,
+      "y_mm": 464.05125666632375,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Sentiers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        197.41891940882363,
+        463.05125666632375
+      ]
+    },
+    {
+      "text": "Les Feusselottes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        156.07398976310253,
+        488.88843535355585,
+        181.44583976310253,
+        492.7934353535558
+      ],
+      "size_mm": 3.55,
+      "x_mm": 181.44583976310253,
+      "y_mm": 491.90593535355583,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Feusselottes ou Les Feusselotes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        186.44583976310253,
+        490.90593535355583
+      ]
+    },
+    {
+      "text": "Aux Bousselots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        126.34554415163629,
+        621.7203332983134,
+        150.0879441516363,
+        625.6253332983135
+      ],
+      "size_mm": 3.55,
+      "x_mm": 150.0879441516363,
+      "y_mm": 624.7378332983135,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Bousselots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        155.0879441516363,
+        623.7378332983135
+      ]
+    },
+    {
+      "text": "Clos des Argillières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        89.02188120294971,
+        738.9534348421893,
+        119.40988120294972,
+        742.8584348421894
+      ],
+      "size_mm": 3.55,
+      "x_mm": 119.40988120294972,
+      "y_mm": 741.9709348421893,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Argillières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        124.40988120294972,
+        740.9709348421893
+      ]
+    },
+    {
+      "text": "Aux Vignerondes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        167.0278726088535,
+        609.6106192872993,
+        194.1960226088535,
+        613.5156192872994
+      ],
+      "size_mm": 3.55,
+      "x_mm": 167.0278726088535,
+      "y_mm": 612.6281192872993,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Aux Vignerondes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        162.0278726088535,
+        611.6281192872993
+      ]
+    },
+    {
+      "text": "Les Crâs",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        199.16209725779754,
+        512.9729333692829,
+        212.84734725779754,
+        516.877933369283
+      ],
+      "size_mm": 3.55,
+      "x_mm": 199.16209725779754,
+      "y_mm": 515.990433369283,
+      "village": "Vougeot",
+      "source_name": "Vougeot premier cru Les Crâs",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        194.16209725779754,
+        514.990433369283
+      ]
+    },
+    {
+      "text": "Fonteny",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        189.8613536934517,
+        351.1304007682356,
+        202.9786036934517,
+        355.03540076823555
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.9786036934517,
+      "y_mm": 354.14790076823556,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Fonteny",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        207.9786036934517,
+        353.14790076823556
+      ]
+    },
+    {
+      "text": "Clos des Porrets-Saint-Georges",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        94.26338288553025,
+        689.7557611403189,
+        143.82493288553025,
+        693.660761140319
+      ],
+      "size_mm": 3.55,
+      "x_mm": 143.82493288553025,
+      "y_mm": 692.7732611403189,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Porrets-Saint-Georges",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        148.82493288553025,
+        691.7732611403189
+      ]
+    },
+    {
+      "text": "Les Arvelets",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        190.7873086625468,
+        255.11246137127628,
+        210.04605866254678,
+        259.0174613712763
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.04605866254678,
+      "y_mm": 258.1299613712763,
+      "village": "Fixin",
+      "source_name": "Fixin premier cru Arvelets",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        215.04605866254678,
+        257.1299613712763
+      ]
+    },
+    {
+      "text": "Champonnet",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        208.87130679275344,
+        346.87051355368925,
+        229.35835679275345,
+        350.7755135536892
+      ],
+      "size_mm": 3.55,
+      "x_mm": 208.87130679275344,
+      "y_mm": 349.88801355368923,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Champonnet",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        203.87130679275344,
+        348.88801355368923
+      ]
+    },
+    {
+      "text": "Les Perrières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        147.4950381153169,
+        692.6329710580775,
+        168.3867881153169,
+        696.5379710580776
+      ],
+      "size_mm": 3.55,
+      "x_mm": 147.4950381153169,
+      "y_mm": 695.6504710580775,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Perrières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        142.4950381153169,
+        694.6504710580775
+      ]
+    },
+    {
+      "text": "Les Corbeaux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        219.5657277937956,
+        352.0401655590121,
+        241.0893777937956,
+        355.9451655590121
+      ],
+      "size_mm": 3.55,
+      "x_mm": 219.5657277937956,
+      "y_mm": 355.0576655590121,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Les Corbeaux",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        214.5657277937956,
+        354.0576655590121
+      ]
+    },
+    {
+      "text": "Clos des Ormes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        216.8890912628762,
+        420.3306663380226,
+        241.1284912628762,
+        424.23566633802255
+      ],
+      "size_mm": 3.55,
+      "x_mm": 216.8890912628762,
+      "y_mm": 423.34816633802257,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Clos des Ormes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        211.8890912628762,
+        422.34816633802257
+      ]
+    },
+    {
+      "text": "Les Chatelots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        191.76161265123574,
+        490.0286006421392,
+        212.86636265123573,
+        493.9336006421392
+      ],
+      "size_mm": 3.55,
+      "x_mm": 191.76161265123574,
+      "y_mm": 493.0461006421392,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Chatelots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        186.76161265123574,
+        487.0461006421392
+      ]
+    },
+    {
+      "text": "Les Gruenchers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        195.9880746699652,
+        475.0639530591015,
+        220.66767466996518,
+        478.96895305910147
+      ],
+      "size_mm": 3.55,
+      "x_mm": 195.9880746699652,
+      "y_mm": 478.0814530591015,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Gruenchers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        190.9880746699652,
+        477.0814530591015
+      ]
+    },
+    {
+      "text": "Craipillot",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        210.2856680576994,
+        341.2109562102723,
+        225.5577680576994,
+        345.11595621027226
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.2856680576994,
+      "y_mm": 344.22845621027227,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Craipillot",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        205.2856680576994,
+        343.22845621027227
+      ]
+    },
+    {
+      "text": "Les Sorbès",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        210.75579440669242,
+        446.0268447885773,
+        227.6679944066924,
+        449.9318447885773
+      ],
+      "size_mm": 3.55,
+      "x_mm": 210.75579440669242,
+      "y_mm": 449.0443447885773,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Sorbès",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        205.75579440669242,
+        448.0443447885773
+      ]
+    },
+    {
+      "text": "Les Ruchots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        202.2276077613251,
+        455.38375703811647,
+        221.24495776132508,
+        459.28875703811644
+      ],
+      "size_mm": 3.55,
+      "x_mm": 202.2276077613251,
+      "y_mm": 458.40125703811646,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Ruchots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        197.2276077613251,
+        457.40125703811646
+      ]
+    },
+    {
+      "text": "La Riotte",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        213.35702580773744,
+        429.38445327813855,
+        227.98302580773745,
+        433.2894532781385
+      ],
+      "size_mm": 3.55,
+      "x_mm": 213.35702580773744,
+      "y_mm": 432.40195327813854,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru La Riotte",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        208.35702580773744,
+        436.40195327813854
+      ]
+    },
+    {
+      "text": "Les Didiers",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        115.06627958372489,
+        717.1577273949823,
+        132.9227795837249,
+        721.0627273949824
+      ],
+      "size_mm": 3.55,
+      "x_mm": 132.9227795837249,
+      "y_mm": 720.1752273949824,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Les Didiers",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        137.9227795837249,
+        719.1752273949824
+      ]
+    },
+    {
+      "text": "Poissenot",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        141.64725310957547,
+        333.52283142939444,
+        156.74185310957546,
+        337.4278314293944
+      ],
+      "size_mm": 3.55,
+      "x_mm": 156.74185310957546,
+      "y_mm": 336.5403314293944,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Poissenot",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        181.74185310957546,
+        335.5403314293944
+      ]
+    },
+    {
+      "text": "Clos des Grandes Vignes",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        140.50153342629937,
+        740.259588167044,
+        179.38468342629938,
+        744.164588167044
+      ],
+      "size_mm": 3.55,
+      "x_mm": 140.50153342629937,
+      "y_mm": 743.277088167044,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Clos des Grandes Vignes",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        135.50153342629937,
+        742.277088167044
+      ]
+    },
+    {
+      "text": "Rue de Chaux",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        127.08739037359368,
+        662.0279262860003,
+        148.85599037359367,
+        665.9329262860003
+      ],
+      "size_mm": 3.55,
+      "x_mm": 148.85599037359367,
+      "y_mm": 665.0454262860003,
+      "village": "Nuits-Saint-Georges",
+      "source_name": "Nuits-Saint-Georges premier cru Rue de Chaux",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        153.85599037359367,
+        664.0454262860003
+      ]
+    },
+    {
+      "text": "Clos des Réas",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        191.13550147493243,
+        592.6612835478753,
+        212.55265147493242,
+        596.5662835478754
+      ],
+      "size_mm": 3.55,
+      "x_mm": 191.13550147493243,
+      "y_mm": 595.6787835478754,
+      "village": "Vosne-Romanée",
+      "source_name": "Vosne-Romanée premier cru Clos des Réas",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        183.13550147493243,
+        589.6787835478754
+      ]
+    },
+    {
+      "text": "Estournelles-Saint-Jacques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        207.58953951203148,
+        328.73439035326913,
+        251.01668951203146,
+        332.6393903532691
+      ],
+      "size_mm": 3.55,
+      "x_mm": 207.58953951203148,
+      "y_mm": 331.7518903532691,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Estournelles-Saint-Jacques",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        189.58953951203148,
+        335.7518903532691
+      ]
+    },
+    {
+      "text": "Les Meix Bas",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        217.46914399996362,
+        269.86299161252276,
+        238.21534399996364,
+        273.76799161252274
+      ],
+      "size_mm": 3.55,
+      "x_mm": 217.46914399996362,
+      "y_mm": 272.88049161252275,
+      "village": "Fixin",
+      "source_name": "Fixin premier cru Les Meix Bas",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        212.46914399996362,
+        266.88049161252275
+      ]
+    },
+    {
+      "text": "Les Goulots",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        204.24601464474102,
+        309.19753033321643,
+        222.652764644741,
+        313.1025303332164
+      ],
+      "size_mm": 3.55,
+      "x_mm": 204.24601464474102,
+      "y_mm": 312.2150303332164,
+      "village": "Gevrey-Chambertin",
+      "source_name": "Gevrey-Chambertin premier cru Les Goulots",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        199.24601464474102,
+        311.2150303332164
+      ]
+    },
+    {
+      "text": "Les Hauts Doix",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        197.51746264393813,
+        500.47121655786935,
+        221.70716264393812,
+        504.3762165578693
+      ],
+      "size_mm": 3.55,
+      "x_mm": 197.51746264393813,
+      "y_mm": 503.48871655786934,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Hauts Doix",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        192.51746264393813,
+        502.48871655786934
+      ]
+    },
+    {
+      "text": "Les Faconnières",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        214.62705539963645,
+        415.70705751551753,
+        240.27225539963644,
+        419.6120575155175
+      ],
+      "size_mm": 3.55,
+      "x_mm": 214.62705539963645,
+      "y_mm": 418.7245575155175,
+      "village": "Morey-Saint-Denis",
+      "source_name": "Morey-Saint-Denis premier cru Les Faconnières",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        209.62705539963645,
+        427.7245575155175
+      ]
+    },
+    {
+      "text": "Les Borniques",
+      "panel": "cote",
+      "kind": "premier",
+      "bounds": [
+        195.29327644566456,
+        505.1452585750539,
+        217.72927644566457,
+        509.0502585750539
+      ],
+      "size_mm": 3.55,
+      "x_mm": 195.29327644566456,
+      "y_mm": 508.1627585750539,
+      "village": "Chambolle-Musigny",
+      "source_name": "Chambolle-Musigny premier cru Les Borniques",
+      "source": "INAO / IGN WFS",
+      "point_xy_mm": [
+        183.29327644566456,
+        502.1627585750539
+      ]
+    },
+    {
+      "text": "Clos du Roy",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        263.2397098331833,
+        109.9420795521955,
+        282.67960983318335,
+        113.9570795521955
+      ],
+      "size_mm": 3.65,
+      "x_mm": 282.67960983318335,
+      "y_mm": 113.0445795521955,
+      "village": "Marsannay",
+      "source_name": "le Clos du Roy",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        287.67960983318335,
+        112.0445795521955
+      ]
+    },
+    {
+      "text": "Les Grasses Têtes",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        214.7831207849,
+        176.61344778844156,
+        243.4502207849,
+        180.62844778844155
+      ],
+      "size_mm": 3.65,
+      "x_mm": 243.4502207849,
+      "y_mm": 179.71594778844155,
+      "village": "Marsannay",
+      "source_name": "les Grasses Têtes",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        248.4502207849,
+        178.71594778844155
+      ]
+    },
+    {
+      "text": "Les Favières",
+      "panel": "cote",
+      "kind": "village_climat",
+      "bounds": [
+        220.60390711388663,
+        185.51743752146373,
+        241.01105711388664,
+        189.53243752146372
+      ],
+      "size_mm": 3.65,
+      "x_mm": 241.01105711388664,
+      "y_mm": 188.61993752146373,
+      "village": "Marsannay",
+      "source_name": "les Favières",
+      "source": "IGN BD TOPO named point; book p. 67; location only",
+      "point_xy_mm": [
+        246.01105711388664,
+        187.61993752146373
+      ]
+    }
+  ],
+  "leaders": [
+    {
+      "panel": "cote",
+      "label": "Les Hervelets",
+      "length_mm": 5.0,
+      "start": [
+        213.03226912270839,
+        262.5592677302484
+      ],
+      "end": [
+        208.03226912270839,
+        262.5592677302484
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos Napoléon",
+      "length_mm": 5.0,
+      "start": [
+        214.94592218835896,
+        271.44955884330557
+      ],
+      "end": [
+        209.94592218835896,
+        271.44955884330557
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de la Perrière",
+      "length_mm": 5.0,
+      "start": [
+        210.0906598370566,
+        276.26130432245554
+      ],
+      "end": [
+        205.0906598370566,
+        276.26130432245554
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos du Chapitre",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        215.20672929565626,
+        277.7947363703861
+      ],
+      "end": [
+        210.20672929565626,
+        282.7947363703861
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Champeaux",
+      "length_mm": 5.0,
+      "start": [
+        205.77043312405294,
+        314.22475522517925
+      ],
+      "end": [
+        200.77043312405294,
+        314.22475522517925
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Combe au Moine",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        200.0569397444924,
+        318.147150364588
+      ],
+      "end": [
+        195.0569397444924,
+        323.147150364588
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Cazetiers",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        199.70462770036465,
+        326.90411315546953
+      ],
+      "end": [
+        194.70462770036465,
+        331.90411315546953
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos Saint-Jacques",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        197.4414930053572,
+        333.7700132964528
+      ],
+      "end": [
+        192.4414930053572,
+        338.7700132964528
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Lavaut Saint-Jacques",
+      "length_mm": 11.180339887498949,
+      "start": [
+        192.38306956681117,
+        339.69655094022164
+      ],
+      "end": [
+        187.38306956681117,
+        349.69655094022164
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Combottes",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        204.84254831373983,
+        413.2791124098003
+      ],
+      "end": [
+        199.84254831373983,
+        408.2791124098003
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Monts Luisants",
+      "length_mm": 5.0,
+      "start": [
+        194.8432244002106,
+        413.81699923210545
+      ],
+      "end": [
+        189.8432244002106,
+        413.81699923210545
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Chaffots",
+      "length_mm": 5.0,
+      "start": [
+        193.124561582772,
+        425.7714862469875
+      ],
+      "end": [
+        188.124561582772,
+        425.7714862469875
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de la Roche",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        203.18152895303865,
+        425.95482209624606
+      ],
+      "end": [
+        198.18152895303865,
+        420.95482209624606
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos Saint-Denis",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        197.83988965539174,
+        429.99833146686433
+      ],
+      "end": [
+        192.83988965539174,
+        434.99833146686433
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Millandes",
+      "length_mm": 11.180339887498949,
+      "start": [
+        208.57841772549,
+        432.5497914769803
+      ],
+      "end": [
+        203.57841772549,
+        442.5497914769803
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Lambrays",
+      "length_mm": 29.0,
+      "start": [
+        192.14526949365973,
+        437.9361037205672
+      ],
+      "end": [
+        163.14526949365973,
+        437.9361037205672
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos Sorbè",
+      "length_mm": 11.180339887498949,
+      "start": [
+        206.59188421666477,
+        444.8336001349671
+      ],
+      "end": [
+        201.59188421666477,
+        454.8336001349671
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de Tart",
+      "length_mm": 5.0,
+      "start": [
+        193.9700400713882,
+        448.95050126471324
+      ],
+      "end": [
+        188.9700400713882,
+        448.95050126471324
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Bonnes-Mares",
+      "length_mm": 5.0,
+      "start": [
+        189.76076395525524,
+        462.22287317345035
+      ],
+      "end": [
+        184.76076395525524,
+        462.22287317345035
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Baudes",
+      "length_mm": 12.083045973594572,
+      "start": [
+        193.39955829796236,
+        466.03934847170603
+      ],
+      "end": [
+        182.39955829796236,
+        471.03934847170603
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Fuées",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        184.88455507913022,
+        472.58012199256336
+      ],
+      "end": [
+        179.88455507913022,
+        477.58012199256336
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Cras",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        180.6685575387637,
+        478.5547975189984
+      ],
+      "end": [
+        175.6685575387637,
+        483.5547975189984
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Charmes",
+      "length_mm": 5.0,
+      "start": [
+        195.11965918873466,
+        497.36917788660503
+      ],
+      "end": [
+        190.11965918873466,
+        497.36917788660503
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Amoureuses",
+      "length_mm": 5.0,
+      "start": [
+        188.85705726377273,
+        505.4689348312386
+      ],
+      "end": [
+        183.85705726377273,
+        505.4689348312386
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Petits Vougeots",
+      "length_mm": 5.0,
+      "start": [
+        189.86031697470025,
+        512.5157055659511
+      ],
+      "end": [
+        184.86031697470025,
+        512.5157055659511
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos Blanc",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        191.3395835972442,
+        516.8069313633023
+      ],
+      "end": [
+        186.3395835972442,
+        521.8069313633023
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Musigny",
+      "length_mm": 11.0,
+      "start": [
+        179.07625833623388,
+        518.2488825647742
+      ],
+      "end": [
+        168.07625833623388,
+        518.2488825647742
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de Vougeot",
+      "length_mm": 5.0,
+      "start": [
+        191.98491115989964,
+        532.7224963656336
+      ],
+      "end": [
+        186.98491115989964,
+        532.7224963656336
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Beaux Monts",
+      "length_mm": 5.0,
+      "start": [
+        161.89894675594405,
+        551.3053980414406
+      ],
+      "end": [
+        156.89894675594405,
+        551.3053980414406
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Brûlées",
+      "length_mm": 5.0,
+      "start": [
+        162.25480766006876,
+        556.0435355037916
+      ],
+      "end": [
+        157.25480766006876,
+        556.0435355037916
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Suchots",
+      "length_mm": 16.76305461424021,
+      "start": [
+        178.86378274835442,
+        557.0171597448934
+      ],
+      "end": [
+        173.86378274835442,
+        541.0171597448934
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Cros Parantoux",
+      "length_mm": 5.0,
+      "start": [
+        162.80909750391947,
+        561.6449869340577
+      ],
+      "end": [
+        157.80909750391947,
+        561.6449869340577
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Petits Monts",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        161.1157172534331,
+        565.4742956988048
+      ],
+      "end": [
+        156.1157172534331,
+        570.4742956988048
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Reignots",
+      "length_mm": 11.180339887498949,
+      "start": [
+        164.18399137628512,
+        569.8525849948346
+      ],
+      "end": [
+        159.18399137628512,
+        579.8525849948346
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Malconsorts",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        168.33630352286855,
+        583.4070555203652
+      ],
+      "end": [
+        163.33630352286855,
+        588.4070555203652
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Boudots",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        166.53090538837205,
+        589.1051028736401
+      ],
+      "end": [
+        161.53090538837205,
+        594.1051028736401
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Murgers",
+      "length_mm": 5.0,
+      "start": [
+        165.50852421696618,
+        603.6200240946782
+      ],
+      "end": [
+        160.50852421696618,
+        603.6200240946782
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Cailles",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        143.05519901511434,
+        703.344708014396
+      ],
+      "end": [
+        138.05519901511434,
+        698.344708014396
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Vaucrains",
+      "length_mm": 5.0,
+      "start": [
+        135.34876383727533,
+        705.5065565950354
+      ],
+      "end": [
+        130.34876383727533,
+        705.5065565950354
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Saint-Georges",
+      "length_mm": 5.0,
+      "start": [
+        140.36341903809807,
+        711.8042041325534
+      ],
+      "end": [
+        135.36341903809807,
+        711.8042041325534
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Perdrix",
+      "length_mm": 5.0,
+      "start": [
+        130.28257799174025,
+        730.4151925886981
+      ],
+      "end": [
+        125.28257799174025,
+        730.4151925886981
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de l’Arlot",
+      "length_mm": 5.0,
+      "start": [
+        116.64891865271056,
+        750.9862566580996
+      ],
+      "end": [
+        111.64891865271056,
+        750.9862566580996
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Clos de la Maréchale",
+      "length_mm": 5.0,
+      "start": [
+        110.61114592967715,
+        760.7550921533548
+      ],
+      "end": [
+        105.61114592967715,
+        760.7550921533548
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Ruchottes-Chambertin",
+      "length_mm": 5.0,
+      "start": [
+        453.3521322313172,
+        158.50910592486616
+      ],
+      "end": [
+        448.3521322313172,
+        158.50910592486616
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Mazis-Chambertin",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        477.0662307282764,
+        159.99191357078962
+      ],
+      "end": [
+        472.0662307282764,
+        164.99191357078962
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Chapelle-Chambertin",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        494.2521227567777,
+        210.92405168502592
+      ],
+      "end": [
+        499.2521227567777,
+        205.92405168502592
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Griotte-Chambertin",
+      "length_mm": 5.0,
+      "start": [
+        492.19422833064164,
+        238.9496459920192
+      ],
+      "end": [
+        497.19422833064164,
+        238.9496459920192
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Clos de la Roche",
+      "length_mm": 5.0,
+      "start": [
+        451.95565997810627,
+        364.874707412906
+      ],
+      "end": [
+        446.95565997810627,
+        364.874707412906
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Monts Luisants",
+      "length_mm": 5.0,
+      "start": [
+        416.5484790592309,
+        350.82692186685745
+      ],
+      "end": [
+        411.5484790592309,
+        350.82692186685745
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Petite Chapelle",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        513.4441116956586,
+        209.65519187576137
+      ],
+      "end": [
+        518.4441116956586,
+        214.65519187576137
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "La Perrière",
+      "length_mm": 5.0,
+      "start": [
+        507.7885130227369,
+        156.03983571915887
+      ],
+      "end": [
+        512.7885130227369,
+        156.03983571915887
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Fonteny",
+      "length_mm": 5.0,
+      "start": [
+        461.7887418127648,
+        134.62125461932737
+      ],
+      "end": [
+        456.7887418127648,
+        134.62125461932737
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "En Ergot",
+      "length_mm": 5.0,
+      "start": [
+        517.6625967408036,
+        226.82791027461644
+      ],
+      "end": [
+        522.6625967408036,
+        226.82791027461644
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Aux Cheseaux",
+      "length_mm": 5.0,
+      "start": [
+        490.09386944286234,
+        368.27244700677693
+      ],
+      "end": [
+        495.09386944286234,
+        368.27244700677693
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Aux Charmes",
+      "length_mm": 5.0,
+      "start": [
+        473.19584842561744,
+        367.67624177923426
+      ],
+      "end": [
+        468.19584842561744,
+        367.67624177923426
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Issarts",
+      "length_mm": 5.0,
+      "start": [
+        451.70752594957594,
+        140.07840499142185
+      ],
+      "end": [
+        446.70752594957594,
+        140.07840499142185
+      ]
+    },
+    {
+      "panel": "gevrey",
+      "label": "Au Closeau",
+      "length_mm": 5.0,
+      "start": [
+        504.02386421564734,
+        147.67431804502849
+      ],
+      "end": [
+        509.02386421564734,
+        147.67431804502849
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "La Romanée",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        441.9081978588656,
+        685.8897449201904
+      ],
+      "end": [
+        436.9081978588656,
+        680.8897449201904
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Romanée-Conti",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        456.99358896078775,
+        686.3374573196052
+      ],
+      "end": [
+        451.99358896078775,
+        691.3374573196052
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "La Grande Rue",
+      "length_mm": 5.0,
+      "start": [
+        466.32010805566097,
+        704.1148522921139
+      ],
+      "end": [
+        461.32010805566097,
+        704.1148522921139
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Aux Malconsorts",
+      "length_mm": 5.0,
+      "start": [
+        456.4949840135814,
+        741.1953048254363
+      ],
+      "end": [
+        451.4949840135814,
+        741.1953048254363
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Aux Reignots",
+      "length_mm": 5.0,
+      "start": [
+        427.21782656529103,
+        686.3440074160462
+      ],
+      "end": [
+        422.21782656529103,
+        686.3440074160462
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Cros Parantoux",
+      "length_mm": 5.0,
+      "start": [
+        420.7307244545955,
+        648.116329753655
+      ],
+      "end": [
+        415.7307244545955,
+        648.116329753655
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Les Chaumes",
+      "length_mm": 5.0,
+      "start": [
+        485.9229817666346,
+        737.6113548622234
+      ],
+      "end": [
+        490.9229817666346,
+        737.6113548622234
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "La Combe d'Orveau",
+      "length_mm": 5.0,
+      "start": [
+        471.28400328280986,
+        464.53379791101906
+      ],
+      "end": [
+        466.28400328280986,
+        464.53379791101906
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Au-dessus des Malconsorts",
+      "length_mm": 5.0,
+      "start": [
+        420.87317764019826,
+        733.0273820714792
+      ],
+      "end": [
+        425.87317764019826,
+        733.0273820714792
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "Les Gaudichots",
+      "length_mm": 7.0710678118654755,
+      "start": [
+        438.90637801375124,
+        729.6818604739383
+      ],
+      "end": [
+        433.90637801375124,
+        724.6818604739383
+      ]
+    },
+    {
+      "panel": "vosne",
+      "label": "La Croix Rameau",
+      "length_mm": 5.0,
+      "start": [
+        514.3539357661502,
+        664.1882206927985
+      ],
+      "end": [
+        519.3539357661502,
+        664.1882206927985
+      ]
+    },
+    {
+      "panel": "cote",
+      "label": "Les Damodes",
+      "start": [
+        161.2449757875429,
+        595.7157483068877
+      ],
+      "end": [
+        165.2449757875429,
+        595.7157483068877
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Pruliers",
+      "start": [
+        152.77532409275506,
+        675.8150485282531
+      ],
+      "end": [
+        148.77532409275506,
+        675.8150485282531
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Forêts Saint-Georges",
+      "start": [
+        136.2085896493756,
+        725.1864705501066
+      ],
+      "end": [
+        132.2085896493756,
+        725.1864705501066
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Chaumes",
+      "start": [
+        174.52999423071924,
+        586.5622240933953
+      ],
+      "end": [
+        178.52999423071924,
+        586.5622240933953
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Chaignots",
+      "start": [
+        157.7705450799957,
+        610.0520499248232
+      ],
+      "end": [
+        153.7705450799957,
+        610.0520499248232
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Thorey",
+      "start": [
+        150.14598521369123,
+        618.583445530021
+      ],
+      "end": [
+        146.14598521369123,
+        618.583445530021
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Corvées",
+      "start": [
+        131.09447969647863,
+        735.5925100179084
+      ],
+      "end": [
+        127.09447969647863,
+        735.5925100179084
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Sentiers",
+      "start": [
+        197.41891940882363,
+        463.05125666632375
+      ],
+      "end": [
+        201.41891940882363,
+        463.05125666632375
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Feusselottes",
+      "start": [
+        186.44583976310253,
+        490.90593535355583
+      ],
+      "end": [
+        182.44583976310253,
+        490.90593535355583
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Bousselots",
+      "start": [
+        155.0879441516363,
+        623.7378332983135
+      ],
+      "end": [
+        151.0879441516363,
+        623.7378332983135
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Argillières",
+      "start": [
+        124.40988120294972,
+        740.9709348421893
+      ],
+      "end": [
+        120.40988120294972,
+        740.9709348421893
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Aux Vignerondes",
+      "start": [
+        162.0278726088535,
+        611.6281192872993
+      ],
+      "end": [
+        166.0278726088535,
+        611.6281192872993
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Crâs",
+      "start": [
+        194.16209725779754,
+        514.990433369283
+      ],
+      "end": [
+        198.16209725779754,
+        514.990433369283
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Fonteny",
+      "start": [
+        207.9786036934517,
+        353.14790076823556
+      ],
+      "end": [
+        203.9786036934517,
+        353.14790076823556
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Porrets-Saint-Georges",
+      "start": [
+        148.82493288553025,
+        691.7732611403189
+      ],
+      "end": [
+        144.82493288553025,
+        691.7732611403189
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Arvelets",
+      "start": [
+        215.04605866254678,
+        257.1299613712763
+      ],
+      "end": [
+        211.04605866254678,
+        257.1299613712763
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Champonnet",
+      "start": [
+        203.87130679275344,
+        348.88801355368923
+      ],
+      "end": [
+        207.87130679275344,
+        348.88801355368923
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Perrières",
+      "start": [
+        142.4950381153169,
+        694.6504710580775
+      ],
+      "end": [
+        146.4950381153169,
+        694.6504710580775
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Corbeaux",
+      "start": [
+        214.5657277937956,
+        354.0576655590121
+      ],
+      "end": [
+        218.5657277937956,
+        354.0576655590121
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Ormes",
+      "start": [
+        211.8890912628762,
+        422.34816633802257
+      ],
+      "end": [
+        215.8890912628762,
+        422.34816633802257
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Chatelots",
+      "start": [
+        186.76161265123574,
+        487.0461006421392
+      ],
+      "end": [
+        190.76161265123574,
+        492.0461006421392
+      ],
+      "length_mm": 6.4031242374328485
+    },
+    {
+      "panel": "cote",
+      "label": "Les Gruenchers",
+      "start": [
+        190.9880746699652,
+        477.0814530591015
+      ],
+      "end": [
+        194.9880746699652,
+        477.0814530591015
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Craipillot",
+      "start": [
+        205.2856680576994,
+        343.22845621027227
+      ],
+      "end": [
+        209.2856680576994,
+        343.22845621027227
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Sorbès",
+      "start": [
+        205.75579440669242,
+        448.0443447885773
+      ],
+      "end": [
+        209.75579440669242,
+        448.0443447885773
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Ruchots",
+      "start": [
+        197.2276077613251,
+        457.40125703811646
+      ],
+      "end": [
+        201.2276077613251,
+        457.40125703811646
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "La Riotte",
+      "start": [
+        208.35702580773744,
+        436.40195327813854
+      ],
+      "end": [
+        212.35702580773744,
+        431.40195327813854
+      ],
+      "length_mm": 6.4031242374328485
+    },
+    {
+      "panel": "cote",
+      "label": "Les Didiers",
+      "start": [
+        137.9227795837249,
+        719.1752273949824
+      ],
+      "end": [
+        133.9227795837249,
+        719.1752273949824
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Poissenot",
+      "start": [
+        181.74185310957546,
+        335.5403314293944
+      ],
+      "end": [
+        157.74185310957546,
+        335.5403314293944
+      ],
+      "length_mm": 24.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Grandes Vignes",
+      "start": [
+        135.50153342629937,
+        742.277088167044
+      ],
+      "end": [
+        139.50153342629937,
+        742.277088167044
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Rue de Chaux",
+      "start": [
+        153.85599037359367,
+        664.0454262860003
+      ],
+      "end": [
+        149.85599037359367,
+        664.0454262860003
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Clos des Réas",
+      "start": [
+        183.13550147493243,
+        589.6787835478754
+      ],
+      "end": [
+        190.13550147493243,
+        594.6787835478754
+      ],
+      "length_mm": 8.602325267042627
+    },
+    {
+      "panel": "cote",
+      "label": "Estournelles-Saint-Jacques",
+      "start": [
+        189.58953951203148,
+        335.7518903532691
+      ],
+      "end": [
+        206.58953951203148,
+        330.7518903532691
+      ],
+      "length_mm": 17.72004514666935
+    },
+    {
+      "panel": "cote",
+      "label": "Les Meix Bas",
+      "start": [
+        212.46914399996362,
+        266.88049161252275
+      ],
+      "end": [
+        216.46914399996362,
+        271.88049161252275
+      ],
+      "length_mm": 6.4031242374328485
+    },
+    {
+      "panel": "cote",
+      "label": "Les Goulots",
+      "start": [
+        199.24601464474102,
+        311.2150303332164
+      ],
+      "end": [
+        203.24601464474102,
+        311.2150303332164
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Hauts Doix",
+      "start": [
+        192.51746264393813,
+        502.48871655786934
+      ],
+      "end": [
+        196.51746264393813,
+        502.48871655786934
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Faconnières",
+      "start": [
+        209.62705539963645,
+        427.7245575155175
+      ],
+      "end": [
+        213.62705539963645,
+        417.7245575155175
+      ],
+      "length_mm": 10.770329614269007
+    },
+    {
+      "panel": "cote",
+      "label": "Les Borniques",
+      "start": [
+        183.29327644566456,
+        502.1627585750539
+      ],
+      "end": [
+        194.29327644566456,
+        507.1627585750539
+      ],
+      "length_mm": 12.083045973594572
+    },
+    {
+      "panel": "cote",
+      "label": "Clos du Roy",
+      "start": [
+        287.67960983318335,
+        112.0445795521955
+      ],
+      "end": [
+        283.67960983318335,
+        112.0445795521955
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Grasses Têtes",
+      "start": [
+        248.4502207849,
+        178.71594778844155
+      ],
+      "end": [
+        244.4502207849,
+        178.71594778844155
+      ],
+      "length_mm": 4.0
+    },
+    {
+      "panel": "cote",
+      "label": "Les Favières",
+      "start": [
+        246.01105711388664,
+        187.61993752146373
+      ],
+      "end": [
+        242.01105711388664,
+        187.61993752146373
+      ],
+      "length_mm": 4.0
+    }
+  ],
+  "panels": {
+    "cote": {
+      "frame": [
+        24,
+        86,
+        552,
+        708
+      ],
+      "map": [
+        30,
+        96,
+        346,
+        690
+      ],
+      "matrix": [
+        0.03197200333730783,
+        0.0007862478279579431,
+        0.0007862478279579431,
+        -0.03197200333730783,
+        -32180.974860709124,
+        213326.22645859036
+      ],
+      "factor": 0.03198166948500018,
+      "rotation": -1.4087201192385876,
+      "bounds": [
+        -3625.14819366876,
+        -9344.725353101061,
+        6290.740052544989,
+        11979.990053637377
+      ],
+      "origin": [
+        847000,
+        6678000
+      ]
+    },
+    "gevrey": {
+      "frame": [
+        380,
+        100,
+        190,
+        310
+      ],
+      "map": [
+        387,
+        127,
+        176,
+        246
+      ],
+      "matrix": [
+        0.11642931837070342,
+        0.002903857224714107,
+        0.002903857224714107,
+        -0.11642931837070342,
+        -117754.84842866796,
+        775658.2332949154
+      ],
+      "factor": 0.11646552521260589,
+      "rotation": -1.4287146897816485,
+      "bounds": [
+        -639.3531088136369,
+        -1475.823981761001,
+        282.7683606897481,
+        636.389049098827
+      ],
+      "origin": [
+        849000,
+        6681500
+      ]
+    },
+    "vosne": {
+      "frame": [
+        380,
+        425,
+        190,
+        355
+      ],
+      "map": [
+        387,
+        452,
+        176,
+        296
+      ],
+      "matrix": [
+        0.14860866467246847,
+        0.003678055796425248,
+        0.003678055796425248,
+        -0.14860866467246847,
+        -150072.94046117418,
+        989576.5568274832
+      ],
+      "factor": 0.14865417353769722,
+      "rotation": -1.4177777624702799,
+      "bounds": [
+        -724.0758797343588,
+        -902.6014838339761,
+        371.9557040015934,
+        1088.5972356889397
+      ],
+      "origin": [
+        848000,
+        6675800
+      ]
+    }
+  },
+  "minimum_added_font_pt": 10.062992125984252
+}

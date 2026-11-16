@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "title": "清华葡萄酒协会 × 乐为酒庄 · 2026-10-24 品鉴活动",
+  "theme": "thuwine-classic-v1",
+  "expected_wine_count": 8,
+  "assets": {
+    "brand_reference": {
+      "path": "../../assets/brand-reference.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "tusstar": {
+      "path": "../../assets/tusstar.png",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "responsible": {
+      "path": "../../assets/drink-responsibly.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "vineyard": {
+      "path": "assets/vineyard.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "winery": {
+      "path": "assets/winery-overview.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "speaker": {
+      "path": "assets/wang-haoze.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "group": {
+      "path": "assets/wine-group.jpg",
+      "source": "本次活动用户提供素材；已归档副本"
+    },
+    "wine1": {
+      "path": "assets/wine1.jpg",
+      "source": "04f851c4a0983020aceef36d256279b3.jpg；用户确认的酒款资料"
+    },
+    "wine2": {
+      "path": "assets/wine2.jpg",
+      "source": "8bfd4d9722ad7c57f7c845bbe608843e.jpg；用户确认的酒款资料"
+    },
+    "wine3": {
+      "path": "assets/wine3.jpg",
+      "source": "cc07982532ec92b548c7d41878767fda.jpg；用户确认的酒款资料"
+    },
+    "wine4": {
+      "path": "assets/wine4.jpg",
+      "source": "14e91fed34f33baf95e90da6af4220f8.jpg；用户确认的酒款资料"
+    },
+    "wine5": {
+      "path": "assets/wine5.jpg",
+      "source": "73350f2d4bcae8e566ccfbaafe7c804d.jpg；用户确认的酒款资料"
+    },
+    "wine6": {
+      "path": "assets/wine6.jpg",
+      "source": "aec3821ab6a6853dab9cc9d862f9d27c.jpg；用户确认的酒款资料"
+    },
+    "rice1": {
+      "path": "assets/rice1.jpg",
+      "source": "acf7f655a9dbe1bde8f63bae9997f7d9.jpg；用户确认的酒款资料"
+    },
+    "rice2": {
+      "path": "assets/rice2.jpg",
+      "source": "af688a9eafd05c88299c4e2081040d53.jpg；用户确认的酒款资料"
+    }
+  },
+  "sources": {
+    "user_wine_list": {
+      "kind": "user_confirmed_copy",
+      "description": "本次聊天用户明确指定的5款葡萄酒、2款米酒与彩蛋文案；酒名按用户指定普洁"
+    },
+    "chardonnay_sheet": {
+      "kind": "user_provided_image",
+      "asset": "wine6",
+      "description": "用户要求补入的甘肃霞多丽干白资料，来源于活动目录"
+    },
+    "winery_overview": {
+      "kind": "user_provided_image",
+      "asset": "winery",
+      "description": "酒庄资料中的文字已提取，2013年、1000亩等按本次材料"
+    },
+    "sponsor_copy": {
+      "kind": "user_provided_copy",
+      "description": "用户提供的启迪之星介绍和温馨提示；仅用于本次活动，不能自动用于下一篇"
+    }
+  },
+  "sections": [
+    {
+      "id": "terroir",
+      "label": "封面与风土介绍",
+      "blocks": [
+        {
+          "id": "cover",
+          "type": "cover",
+          "logo": {
+            "asset": "brand_reference",
+            "crop": [
+              180,
+              20,
+              680,
+              105
+            ],
+            "alt": "乐为与清华葡萄酒协会标志"
+          },
+          "brand": "清华葡萄酒协会 × 乐为酒庄",
+          "title_lines": [
+            "黄河北岸的",
+            "风土之旅"
+          ],
+          "subtitle": "探索内蒙古葡萄酒的独特魅力",
+          "meta": "品鉴活动招募  /  2026.10.24"
+        },
+        {
+          "id": "terroir-heading",
+          "type": "heading",
+          "eyebrow": "01 / TERROIR",
+          "text": "风土介绍"
+        },
+        {
+          "id": "opening",
+          "type": "paragraph",
+          "text": "提到中国葡萄酒，\n你会想到哪里？",
+          "role": "lead"
+        },
+        {
+          "id": "terroir-intro",
+          "type": "paragraph",
+          "text": "宁夏贺兰山、山东蓬莱，还是云南香格里拉？这一次，我们把目光投向内蒙古黄河北岸，去认识一片鲜为人知、却极具潜力的葡萄酒产区。"
+        },
+        {
+          "id": "vineyard-photo",
+          "type": "image",
+          "asset": "vineyard",
+          "crop": [
+            0,
+            1380,
+            2296,
+            2296
+          ],
+          "caption": "黄河北岸 · 葡萄园与酒庄",
+          "alt": "葡萄园前景与远处酒庄"
+        },
+        {
+          "id": "terroir-facts",
+          "type": "stats",
+          "items": [
+            {
+              "value": "1050 m",
+              "label": "葡萄园平均海拔"
+            },
+            {
+              "value": "冷凉气候",
+              "label": "大陆性气候特征"
+            },
+            {
+              "value": "砾质沙壤河滩土",
+              "label": "黄河北岸的风土底色"
+            }
+          ]
+        },
+        {
+          "id": "terroir-grapes",
+          "type": "paragraph",
+          "text": "充足的日照与鲜明的昼夜温差，让美乐、马瑟兰、西拉与赤霞珠，在这片土地上展现出不同的个性。"
+        },
+        {
+          "id": "event-invitation",
+          "type": "paragraph",
+          "text": "本次清华葡萄酒协会携手乐为酒庄（Lewei），从清新细腻的桃红，到层次丰富的干红，一起探索中国本土风土的多样表达。",
+          "after": 65
+        }
+      ]
+    },
+    {
+      "id": "winery",
+      "label": "酒庄与分享人介绍",
+      "blocks": [
+        {
+          "id": "winery-heading",
+          "type": "heading",
+          "eyebrow": "02 / WINERY",
+          "text": "酒庄介绍"
+        },
+        {
+          "id": "winery-intro",
+          "type": "paragraph",
+          "text": "内蒙古瑞沃酒庄位于呼和浩特市托克托县，创立于2013年，葡萄园占地约1000亩。这里的葡萄园坐落于黄河北岸坡地，以砾质沙壤河滩土为风土底色。"
+        },
+        {
+          "id": "winery-photo",
+          "type": "image",
+          "asset": "winery",
+          "crop": [
+            0,
+            1190,
+            1320,
+            660
+          ],
+          "caption": "瑞沃酒庄园景",
+          "alt": "瑞沃酒庄与庭园"
+        },
+        {
+          "id": "brand-story",
+          "type": "paragraph",
+          "text": "乐为品牌由来自内蒙古的葡萄酒讲师常微与酿酒师王皓泽共同创立。品牌扎根内蒙古的文化与风土，从蒙古族文化中汲取灵感，希望将这里的优质葡萄酒带给更多人。"
+        },
+        {
+          "id": "label-art-heading",
+          "type": "heading",
+          "text": "每一张酒标，都有一个故事。",
+          "role": "subheading",
+          "after": 20
+        },
+        {
+          "id": "label-art-story",
+          "type": "paragraph",
+          "text": "乐为将艺术创作与葡萄酒文化相结合。Gallery系列通过艺术家的酒标创作，讲述关于普洁、蒙古马与草原故乡的故事，让每一瓶酒都成为风土与艺术的共同表达。",
+          "after": 55
+        },
+        {
+          "id": "group-photo",
+          "type": "image",
+          "asset": "group",
+          "caption": "乐为酒款与艺术酒标",
+          "alt": "本次活动选择的酒款合影"
+        },
+        {
+          "id": "speaker-profile",
+          "type": "speaker",
+          "image": {
+            "asset": "speaker",
+            "alt": "王皓泽持杯讲解葡萄酒"
+          },
+          "name": "王皓泽",
+          "description": "乐为联合创始人、瑞沃酒庄酿酒师\n与葡萄酒讲师常微一同分享风土、酿造与酒标背后的故事。"
+        }
+      ]
+    },
+    {
+      "id": "grape-wines",
+      "label": "葡萄酒介绍",
+      "blocks": [
+        {
+          "id": "wine-heading",
+          "type": "heading",
+          "eyebrow": "03 / WINE LIST",
+          "text": "酒款介绍"
+        },
+        {
+          "id": "wine-count",
+          "type": "paragraph",
+          "text": "{grape_wine_count}款葡萄酒 · 桃红、干红与干白的风味探索",
+          "role": "meta",
+          "after": 40
+        },
+        {
+          "id": "wine-cards",
+          "type": "wine_list",
+          "items": [
+            {
+              "id": "wine1",
+              "brand": "乐为 Gallery",
+              "name": "普洁桃红葡萄酒",
+              "category": "ROSÉ",
+              "meta": "美乐 × 马瑟兰",
+              "description": "以美乐与马瑟兰混酿，呈现清新的草莓、红莓与细腻花香。酒体轻盈，口感柔和，是探索内蒙古桃红葡萄酒的理想起点。酒标上的女孩普洁，也为这款酒增添了一段独特的艺术故事。",
+              "image": {
+                "asset": "wine1",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "普洁桃红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine2",
+              "brand": "乐为 Gallery",
+              "name": "梦中普洁桃红葡萄酒",
+              "category": "ROSÉ",
+              "meta": "100% 马瑟兰 · 橡木桶陈酿",
+              "description": "100%马瑟兰酿造，经过橡木桶陈酿。相比前一款桃红，在草莓与花香的基础上增添了淡淡的木质、奶油气息，风格更加丰富。两款桃红横向对比，直观感受葡萄品种与酿造工艺对风味的影响。",
+              "image": {
+                "asset": "wine2",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "梦中普洁桃红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine3",
+              "brand": "乐为 Gallery",
+              "name": "乐土马瑟兰干红葡萄酒",
+              "category": "RED",
+              "meta": "100% 马瑟兰",
+              "description": "乐为酒庄发布的第一款葡萄酒，以100%马瑟兰酿造。鲜明的红色水果与花香，搭配清爽酸度和立体结构，展现这一近年来备受关注的葡萄品种在中国北方产区的表现。",
+              "image": {
+                "asset": "wine3",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "乐土马瑟兰干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine4",
+              "brand": "乐为 Gallery",
+              "name": "蒙古马干红葡萄酒",
+              "category": "RED",
+              "meta": "西拉 × 赤霞珠 × 美乐",
+              "description": "西拉、赤霞珠与美乐混酿，红色与黑色水果香气中交织着香料、摩卡气息，酒体更加结实饱满。酒标以蒙古马为创作主题，将草原文化与葡萄酒艺术巧妙融合。",
+              "image": {
+                "asset": "wine4",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "蒙古马干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine5",
+              "brand": "乐为",
+              "name": "龍干红葡萄酒",
+              "category": "RED",
+              "meta": "以西拉为主的多品种混酿",
+              "description": "以西拉为主的多品种混酿，拥有丰富的红黑水果、花香与烘烤气息，酒体细腻宽广，结构完整。作为本次干红系列的收尾，感受不同葡萄品种组合带来的复杂层次与平衡感。",
+              "image": {
+                "asset": "wine5",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "龍干红葡萄酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "wine6",
+              "brand": "乐为 Nomadic",
+              "name": "甘肃霞多丽干白葡萄酒",
+              "category": "WHITE",
+              "meta": "100% 霞多丽 · 甘肃武威",
+              "description": "葡萄来自甘肃武威，在内蒙古酒庄酿造。带皮启动发酵后分离，在旧橡木桶中发酵，并与酒泥接触6个月。柠檬、桃子与蜜瓜果香中带有清新的植物气息，酸度柔和，酒体轻盈，些许咸鲜感增添了层次。",
+              "image": {
+                "asset": "wine6",
+                "crop": [
+                  1840,
+                  1250,
+                  490,
+                  1740
+                ],
+                "alt": "甘肃霞多丽干白葡萄酒酒瓶"
+              },
+              "sources": [
+                "chardonnay_sheet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rice-wines",
+      "label": "精酿米酒与彩蛋",
+      "blocks": [
+        {
+          "id": "rice-heading",
+          "type": "heading",
+          "eyebrow": "CRAFT RICE WINE",
+          "text": "特色精酿米酒"
+        },
+        {
+          "id": "rice-opening",
+          "type": "paragraph",
+          "text": "换一种酿造，遇见另一种果香。",
+          "role": "meta",
+          "after": 40
+        },
+        {
+          "id": "rice-cards",
+          "type": "wine_list",
+          "items": [
+            {
+              "id": "rice1",
+              "brand": "酝染酿造",
+              "name": "鞠衣杏子精酿米酒",
+              "category": "RICE WINE",
+              "meta": "杏香 · 米香 · 清甜酸爽",
+              "description": "杏子的清新果香与米香相互交织，清甜中带有充沛酸度。酒精度8%，推荐在8–12℃品尝，带来不同于传统葡萄酒的清爽体验。",
+              "image": {
+                "asset": "rice1",
+                "crop": [
+                  1760,
+                  1380,
+                  560,
+                  1780
+                ],
+                "alt": "鞠衣杏子精酿米酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            },
+            {
+              "id": "rice2",
+              "brand": "酝染酿造",
+              "name": "余霞沙棘精酿米酒",
+              "category": "RICE WINE",
+              "meta": "沙棘 · 蜜瓜 · 酸甜油润",
+              "description": "以沙棘的鲜明酸香为特色，融合蜜瓜等果香，口感酸甜而油润。酒精度8%，推荐在8–12℃品尝，探索特色水果与传统米酒酿造结合的可能性。",
+              "image": {
+                "asset": "rice2",
+                "crop": [
+                  1760,
+                  1380,
+                  560,
+                  1780
+                ],
+                "alt": "余霞沙棘精酿米酒酒瓶"
+              },
+              "sources": [
+                "user_wine_list"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "surprise",
+          "type": "callout",
+          "eyebrow": "A LITTLE SURPRISE",
+          "text": "上述酒单外，还有两支神秘酒款，敬请期待！"
+        }
+      ]
+    },
+    {
+      "id": "registration",
+      "label": "报名细节",
+      "blocks": [
+        {
+          "id": "registration-heading",
+          "type": "heading",
+          "eyebrow": "04 / JOIN US",
+          "text": "报名细节"
+        },
+        {
+          "id": "registration-invitation",
+          "type": "paragraph",
+          "text": "10月24日，周六下午，一起探索中国风土。",
+          "role": "small",
+          "color": "accent",
+          "after": 35
+        },
+        {
+          "id": "registration-info",
+          "type": "event",
+          "when": "2026年10月24日 15:00—17:00",
+          "where": "北京市海淀区清华园启迪科技大厦C座G层",
+          "contact": "15137069306",
+          "speakers": "常微 & 王皓泽",
+          "speaker_roles": "乐为葡萄酒联合创始人\n葡萄酒讲师 & 酿酒师",
+          "horse": {
+            "asset": "brand_reference",
+            "crop": [
+              0,
+              1135,
+              1000,
+              369
+            ],
+            "alt": "原海报的黑白蒙古马元素"
+          },
+          "horse_mask": [
+            648,
+            0,
+            432,
+            140
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thanks",
+      "label": "温馨提示与特别鸣谢",
+      "blocks": [
+        {
+          "id": "registration-notice",
+          "type": "notice",
+          "text": "座位有限，本活动仅限报名人员参加，报名确认以支付成功为准。报名者付款后，因报名者自身原因不能参加本次活动，费用不退，参加资格可以自行转让。",
+          "confirmed": true
+        },
+        {
+          "id": "sponsor-thanks",
+          "type": "sponsor",
+          "thanks": "感谢TusStar启迪之星对本活动的场地赞助",
+          "logo": {
+            "asset": "tusstar",
+            "alt": "TusStar启迪之星标志"
+          },
+          "paragraphs": [
+            "启迪孵化器源于1999年成立的清华创业园，是清华大学科技园的企业服务平台，是启迪控股下属的专业孵化器公司。2002年，启迪孵化器被认定为首批国家级孵化器，成功探索“孵化＋投资”的发展模式和专业孵化器的发展方向，并在多年的探索与实践中不断完善其发展内涵。",
+            "启迪之星在集群式创新理论的指导下已经构建了孵化基地200＋个，覆盖90＋个城市，其中海外15个城市，孵化载体面积超过90万平方米的创新孵化网络，累计获得国家级资质认定的基地62家，其中国家级孵化器18家、国家级众创空间等资质27项。通过启迪之星众创空间及孵化器等平台培育2万余家创业企业，其中365家企业获评“专精特新”企业。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "label": "理性饮酒与结语",
+      "blocks": [
+        {
+          "id": "responsible-drinking",
+          "type": "responsible",
+          "image": {
+            "asset": "responsible",
+            "alt": "DRINK RESPONSIBLY"
+          },
+          "text": "理性饮酒，适度享乐。酗酒可能影响健康及人际关系。"
+        },
+        {
+          "id": "closing-message",
+          "type": "closing",
+          "lines": [
+            "从一杯酒出发，",
+            "认识一片土地，听见一个故事。"
+          ],
+          "brand": "清华葡萄酒协会 × 乐为酒庄"
+        }
+      ]
+    }
+  ]
+}

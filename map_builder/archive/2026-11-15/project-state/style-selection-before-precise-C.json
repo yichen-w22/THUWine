@@ -1,0 +1,35 @@
+{
+  "selected_direction": "C",
+  "selected_by_user": "2026-11-15",
+  "original_comparison": "Nuits-styles-ABCD-01.png",
+  "retained_proposals": {
+    "A": "top-left of original comparison",
+    "B": "top-right of original comparison",
+    "C": "bottom-left of original comparison",
+    "D": "bottom-right of original comparison"
+  },
+  "current_revision": "Nuits-style-C-03-colorways-Saint-Vincent.png",
+  "status": "colorway_comparison_for_review",
+  "tool": "built-in image_gen",
+  "palette": [
+    "dusty indigo",
+    "antique matte gold",
+    "grey-lavender",
+    "warm ivory",
+    "muted plum grapes"
+  ],
+  "requested_change": "Targeted reduction of red-green contrast in surrounding ornament.",
+  "additional_change": "After an output safety rejection, both adult mythological figures were specified in full classical robes.",
+  "limitations": "Illustrated style concept. Geographic geometry and sparse text are conceptual and require integration with the verified professional-02 SVG.",
+  "source_image": "C:\\Users\\32697\\.codex\\generated_images\\01a1cf3f-b916-7802-9022-320fcc520ddd\\exec-94095834-3720-4a51-b038-e15f629febca.png",
+  "sha256": "d9ab90ef8b6b5560e925c3a5515bb598aa301ef511646cd38dba65615cb3eb59",
+  "figure_preference": "original C classical drapery and poses",
+  "secondary_icon": "Saint Vincent deacon statue with palm and grapes",
+  "colorway_options": [
+    "C1 indigo and gold",
+    "C2 muted plum and silver grey",
+    "C3 forest green and bronze",
+    "C4 terracotta and slate blue"
+  ],
+  "generation_metadata": "Nuits-style-C-03-generation.json"
+}

@@ -1,0 +1,145 @@
+{
+  "inset_occlusions": [],
+  "version": "nuits-atlas-02",
+  "inset_labels": "direct_names_two_sides",
+  "regional_layer": "muted_main_omitted_insets",
+  "overlaps": [],
+  "projection": "EPSG:2154",
+  "north_up": true,
+  "meridian_corrections": {
+    "cote": -1.4087201192385876,
+    "overview": -0.9563373177976964,
+    "gevrey": -1.4287146897816485,
+    "vosne": -1.4177777624702799
+  },
+  "grands_crus_coverage": [
+    {
+      "panel": "cote",
+      "name": "Clos de Vougeot",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Charmes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Mazoyères-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chambertin-Clos de Bèze",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos de la Roche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Bonnes-Mares",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Grands Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos des Lambrays",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos de Tart",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Latricières-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Échezeaux",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Tâche",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Musigny",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Chapelle-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Clos Saint-Denis",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Richebourg",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Mazis-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Romanée-Saint-Vivant",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Griotte-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Ruchottes-Chambertin",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "Romanée-Conti",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Grande Rue",
+      "fraction": 1.0
+    },
+    {
+      "panel": "cote",
+      "name": "La Romanée",
+      "fraction": 1.0
+    }
+  ],
+  "panels": 4,
+  "continuous_main_map": true,
+  "shared_main_scale": true,
+  "book_layout_reference": "book pages 64–67; PDF pages 68–71",
+  "dimensions_mm": [
+    600,
+    900
+  ]
+}

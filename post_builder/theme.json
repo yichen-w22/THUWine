@@ -1,0 +1,145 @@
+{
+  "id": "thuwine-classic-v1",
+  "canvas": {
+    "width": 1080,
+    "margin": 72,
+    "background": "#ffffff"
+  },
+  "colors": {
+    "accent": "#6b343e",
+    "body": "#3e3b3b",
+    "muted": "#817875",
+    "black": "#000000",
+    "rule": "#ded8d6",
+    "callout": "#f7f3f2"
+  },
+  "fonts": {
+    "sans": {
+      "file": "C:/Windows/Fonts/Dengl.ttf",
+      "family": "DengXian Light",
+      "index": 0
+    },
+    "serif": {
+      "file": "C:/Windows/Fonts/simsun.ttc",
+      "family": "SimSun",
+      "index": 0
+    }
+  },
+  "type": {
+    "cover": {
+      "size": 112,
+      "line": 140,
+      "font": "serif",
+      "color": "accent",
+      "bold": true
+    },
+    "section": {
+      "size": 60,
+      "line": 82,
+      "font": "serif",
+      "color": "accent"
+    },
+    "subheading": {
+      "size": 48,
+      "line": 78,
+      "font": "serif",
+      "color": "accent"
+    },
+    "wine_title": {
+      "size": 44,
+      "line": 65,
+      "font": "serif",
+      "color": "accent"
+    },
+    "lead": {
+      "size": 44,
+      "line": 76,
+      "font": "serif",
+      "color": "accent"
+    },
+    "body": {
+      "size": 39,
+      "line": 73,
+      "font": "sans",
+      "color": "body"
+    },
+    "wine_body": {
+      "size": 36,
+      "line": 68,
+      "font": "sans",
+      "color": "body"
+    },
+    "small": {
+      "size": 34,
+      "line": 65,
+      "font": "sans",
+      "color": "body"
+    },
+    "meta": {
+      "size": 32,
+      "line": 60,
+      "font": "sans",
+      "color": "muted"
+    },
+    "wine_brand": {
+      "size": 29,
+      "line": 53,
+      "font": "sans",
+      "color": "muted"
+    },
+    "closing": {
+      "size": 43,
+      "line": 80,
+      "font": "serif",
+      "color": "black"
+    },
+    "tag": {
+      "size": 28,
+      "line": 52,
+      "font": "sans",
+      "color": "accent"
+    },
+    "caption": {
+      "size": 26,
+      "line": 48,
+      "font": "sans",
+      "color": "muted"
+    },
+    "eyebrow": {
+      "size": 25,
+      "line": 48,
+      "font": "sans",
+      "color": "muted"
+    },
+    "stat": {
+      "size": 40,
+      "line": 70,
+      "font": "sans",
+      "color": "accent"
+    },
+    "stat_label": {
+      "size": 28,
+      "line": 52,
+      "font": "sans",
+      "color": "muted"
+    }
+  },
+  "spacing": {
+    "paragraph": 30,
+    "block": 55,
+    "section": 65,
+    "wine_gap": 55,
+    "wine_min_height": 725
+  },
+  "wine": {
+    "image_x": 82,
+    "image_width": 215,
+    "image_height": 650,
+    "text_x": 350
+  },
+  "export": {
+    "format": "jpg",
+    "quality": 97,
+    "chromaSubsampling": "4:4:4"
+  }
+}

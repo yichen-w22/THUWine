@@ -1,0 +1,67 @@
+{
+  "digest": "2c71f0b922cc0d97257ab9c3bdd309ac3e79f27c71c233f4ca8069c86755a936",
+  "width": 1080,
+  "height": 28796,
+  "images": [
+    {
+      "file": "01_封面与风土介绍.jpg",
+      "width": 1080,
+      "height": 3057,
+      "bytes": 782154
+    },
+    {
+      "file": "02_酒庄与探索系列.jpg",
+      "width": 1080,
+      "height": 1528,
+      "bytes": 388447
+    },
+    {
+      "file": "03_六款工艺对照表.jpg",
+      "width": 1080,
+      "height": 1575,
+      "bytes": 230153
+    },
+    {
+      "file": "04_酒款介绍_1至2.jpg",
+      "width": 1080,
+      "height": 3486,
+      "bytes": 700488
+    },
+    {
+      "file": "05_酒款介绍_3至4.jpg",
+      "width": 1080,
+      "height": 2990,
+      "bytes": 627801
+    },
+    {
+      "file": "06_酒款介绍_5至6与品饮反馈.jpg",
+      "width": 1080,
+      "height": 4297,
+      "bytes": 922580
+    },
+    {
+      "file": "07_采收与木桶变量.jpg",
+      "width": 1080,
+      "height": 3175,
+      "bytes": 1110436
+    },
+    {
+      "file": "08_酵母与苹乳发酵变量.jpg",
+      "width": 1080,
+      "height": 3724,
+      "bytes": 1100178
+    },
+    {
+      "file": "09_对照品鉴与结语.jpg",
+      "width": 1080,
+      "height": 3294,
+      "bytes": 787438
+    },
+    {
+      "file": "10_参考来源.jpg",
+      "width": 1080,
+      "height": 1670,
+      "bytes": 317629
+    }
+  ]
+}

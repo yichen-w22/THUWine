@@ -1,0 +1,561 @@
+{
+  "choices": [
+    {
+      "id": "A",
+      "name": "Deux angles opposés",
+      "main": [
+        55,
+        100,
+        480,
+        670
+      ],
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            28,
+            110,
+            188,
+            195
+          ],
+          null
+        ],
+        [
+          [
+            "chalonnaise",
+            "maconnais"
+          ],
+          [
+            388,
+            490,
+            184,
+            300
+          ],
+          "Du Chalonnais au Mâconnais"
+        ]
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Trois satellites",
+      "main": [
+        40,
+        100,
+        490,
+        675
+      ],
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            28,
+            110,
+            184,
+            190
+          ],
+          null
+        ],
+        [
+          [
+            "chalonnaise"
+          ],
+          [
+            409,
+            404,
+            163,
+            180
+          ],
+          null
+        ],
+        [
+          [
+            "maconnais"
+          ],
+          [
+            404,
+            602,
+            168,
+            188
+          ],
+          null
+        ]
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Couronne supérieure",
+      "main": [
+        35,
+        255,
+        470,
+        530
+      ],
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            28,
+            102,
+            185,
+            145
+          ],
+          null
+        ],
+        [
+          [
+            "chalonnaise"
+          ],
+          [
+            401,
+            102,
+            171,
+            145
+          ],
+          null
+        ],
+        [
+          [
+            "maconnais"
+          ],
+          [
+            405,
+            579,
+            167,
+            211
+          ],
+          null
+        ]
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Grande carte décalée",
+      "main": [
+        15,
+        105,
+        367,
+        680
+      ],
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            428,
+            103,
+            144,
+            196
+          ],
+          null
+        ],
+        [
+          [
+            "chalonnaise",
+            "maconnais"
+          ],
+          [
+            384,
+            472,
+            188,
+            318
+          ],
+          "Du Chalonnais au Mâconnais"
+        ]
+      ]
+    },
+    {
+      "id": "E",
+      "name": "Trois cartes au pied",
+      "main": [
+        55,
+        99,
+        495,
+        535
+      ],
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            28,
+            652,
+            174,
+            145
+          ],
+          null
+        ],
+        [
+          [
+            "chalonnaise"
+          ],
+          [
+            213,
+            652,
+            174,
+            145
+          ],
+          null
+        ],
+        [
+          [
+            "maconnais"
+          ],
+          [
+            398,
+            652,
+            174,
+            145
+          ],
+          null
+        ]
+      ]
+    },
+    {
+      "id": "F",
+      "name": "Le vignoble en continu",
+      "main": [
+        67,
+        104,
+        475,
+        680
+      ],
+      "continuous": true,
+      "insets": [
+        [
+          [
+            "chablis"
+          ],
+          [
+            28,
+            108,
+            185,
+            175
+          ],
+          null
+        ]
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "id": "A-main",
+      "regions": [
+        "nuits",
+        "beaune"
+      ],
+      "box": [
+        55,
+        100,
+        480,
+        670
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.331,
+      "uniform_scale": 0.014694676887422722
+    },
+    {
+      "id": "A-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        28,
+        110,
+        188,
+        195
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.00647613931063839
+    },
+    {
+      "id": "A-inset-1",
+      "regions": [
+        "chalonnaise",
+        "maconnais"
+      ],
+      "box": [
+        388,
+        490,
+        184,
+        300
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2623,
+      "uniform_scale": 0.0033313460857221735
+    },
+    {
+      "id": "B-main",
+      "regions": [
+        "nuits",
+        "beaune"
+      ],
+      "box": [
+        40,
+        100,
+        490,
+        675
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.331,
+      "uniform_scale": 0.014804338655239311
+    },
+    {
+      "id": "B-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        28,
+        110,
+        184,
+        190
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.0062528241619956865
+    },
+    {
+      "id": "B-inset-1",
+      "regions": [
+        "chalonnaise"
+      ],
+      "box": [
+        409,
+        404,
+        163,
+        180
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2192,
+      "uniform_scale": 0.003728580551395538
+    },
+    {
+      "id": "B-inset-2",
+      "regions": [
+        "maconnais"
+      ],
+      "box": [
+        404,
+        602,
+        168,
+        188
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2789,
+      "uniform_scale": 0.0030687830110566433
+    },
+    {
+      "id": "C-main",
+      "regions": [
+        "nuits",
+        "beaune"
+      ],
+      "box": [
+        35,
+        255,
+        470,
+        530
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.331,
+      "uniform_scale": 0.011624147388558274
+    },
+    {
+      "id": "C-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        28,
+        102,
+        185,
+        145
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.004242987824211359
+    },
+    {
+      "id": "C-inset-1",
+      "regions": [
+        "chalonnaise"
+      ],
+      "box": [
+        401,
+        102,
+        171,
+        145
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2192,
+      "uniform_scale": 0.0027247319414044316
+    },
+    {
+      "id": "C-inset-2",
+      "regions": [
+        "maconnais"
+      ],
+      "box": [
+        405,
+        579,
+        167,
+        211
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2789,
+      "uniform_scale": 0.0035802468462327506
+    },
+    {
+      "id": "D-main",
+      "regions": [
+        "nuits",
+        "beaune"
+      ],
+      "box": [
+        15,
+        105,
+        367,
+        680
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.331,
+      "uniform_scale": 0.01345487915239405
+    },
+    {
+      "id": "D-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        428,
+        103,
+        144,
+        196
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.0049438622716250075
+    },
+    {
+      "id": "D-inset-1",
+      "regions": [
+        "chalonnaise",
+        "maconnais"
+      ],
+      "box": [
+        384,
+        472,
+        188,
+        318
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2623,
+      "uniform_scale": 0.00357120300389417
+    },
+    {
+      "id": "E-main",
+      "regions": [
+        "nuits",
+        "beaune"
+      ],
+      "box": [
+        55,
+        99,
+        495,
+        535
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.331,
+      "uniform_scale": 0.01173380915637486
+    },
+    {
+      "id": "E-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        28,
+        652,
+        174,
+        145
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.004242987824211359
+    },
+    {
+      "id": "E-inset-1",
+      "regions": [
+        "chalonnaise"
+      ],
+      "box": [
+        213,
+        652,
+        174,
+        145
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2192,
+      "uniform_scale": 0.0027247319414044316
+    },
+    {
+      "id": "E-inset-2",
+      "regions": [
+        "maconnais"
+      ],
+      "box": [
+        398,
+        652,
+        174,
+        145
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2789,
+      "uniform_scale": 0.002112568014857834
+    },
+    {
+      "id": "F-main",
+      "regions": [
+        "nuits",
+        "beaune",
+        "chalonnaise",
+        "maconnais"
+      ],
+      "box": [
+        67,
+        104,
+        475,
+        680
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -1.2748,
+      "uniform_scale": 0.005783901237770706
+    },
+    {
+      "id": "F-inset-0",
+      "regions": [
+        "chablis"
+      ],
+      "box": [
+        28,
+        108,
+        185,
+        175
+      ],
+      "north_up": true,
+      "meridian_correction_deg": -0.5568,
+      "uniform_scale": 0.005582878716067577
+    }
+  ],
+  "status": "abstract_composition_review",
+  "source": "INAO / IGN cached geometry; buffered and simplified for layout only"
+}
